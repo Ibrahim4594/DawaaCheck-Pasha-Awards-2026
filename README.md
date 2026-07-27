@@ -198,6 +198,7 @@ Skipping the first leaves the app without `users`, `scan_results` or
 | 2 | `backend/data/supabase_migration_v2.sql` | Reference: `generic_drugs`, `drug_interactions`, `drug_side_effects`, `who_aware_antibiotics`, `pediatric_safety`, `medicine_prices`, OpenFDA mirrors, and more |
 | 3 | `backend/data/search_optimization.sql` | GIN trigram indexes for medicine search |
 | 4 | `backend/data/verification_cache.sql` | Verdict cache + expiry housekeeping |
+| 5 | `backend/data/rls_users_fix.sql` | Own-row RLS policies for `users` — **required**, the base migration omits them |
 
 Then load the reference data:
 
