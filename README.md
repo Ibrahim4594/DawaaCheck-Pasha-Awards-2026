@@ -286,10 +286,19 @@ openclaw/          five monitoring agents, Paperclip scheduling
 
 ## Security
 
-- **No credentials in source.** `.env` and `secrets/` are gitignored; every
-  key is read from the environment.
-- **Row-level security** on all user-owned tables. The Supabase service-role
-  key stays server-side and never ships to a client.
+- **No secrets in source.** The Claude API key, the Supabase service-role key
+  and the Firebase Admin credentials are read from the environment and are
+  gitignored. Firebase client config is published as placeholders — see
+  [Firebase — optional](#4-firebase--optional).
+- **The Supabase anon key in `api_constants.dart` is published deliberately.**
+  It is not a secret: Supabase anon keys are public client credentials, meant
+  to ship inside an app binary, and they carry no privileges of their own.
+  Authority comes from row-level security, not from possession of the key. The
+  **service-role** key — the one that does bypass RLS — is server-side only and
+  is never sent to a client.
+- **Row-level security** on every user-owned table (`users`, `scan_results`,
+  `adr_reports`): a user reads and writes only their own rows. Drug reference
+  tables are public-read.
 - **Release builds** use ProGuard and Dart obfuscation.
 - The verification cache stores pack identity and verdicts only — no personal
   data, and clients never read it directly.
