@@ -1,5 +1,18 @@
 # DawaaCheck
 
+> [!IMPORTANT]
+> ## 📂 THE CODE IS INSIDE THE FOLDERS — OPEN THEM
+>
+> GitHub only shows folder names on this page. **Click into them to see the app.**
+>
+> | Folder | What's inside |
+> |---|---|
+> | **[`dawaacheck/`](dawaacheck/)** | **THE FLUTTER APP — 408 files.** All 19 screens, the design system, the 10-agent live scan flow, on-device OCR, the Pakistan safety map, EN/UR translations. **Start at [`dawaacheck/lib/`](dawaacheck/lib/).** |
+> | **[`backend/`](backend/)** | **THE 10 AI AGENTS — 93 files.** FastAPI + SSE. Each agent is its own file in [`backend/agents/`](backend/agents/) (`agent_1_registration.py` … `agent_10_interactions.py`). |
+> | **[`openclaw/`](openclaw/)** | **THE 6 AUTOMATION AGENTS — 22 files.** 5 OpenClaw monitors + Paperclip. |
+>
+> **523 source files in total.** Nothing is hidden and nothing is a stub — this is the full working app.
+
 DawaaCheck is Pakistan's first AI-powered consumer medicine verification app.
 An AI vision scan reads any medicine box; 16 AI agents cross-check it in real
 time against DRAP's database and deliver one **GREEN**, **AMBER** or **RED**
