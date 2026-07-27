@@ -1,0 +1,105 @@
+{
+  "$schema": "https://openclaw.ai/config-schema.json",
+  "name": "DawaaGuard",
+  "description": "DawaaCheck QA Team - 5 AI agents monitoring the app 24/7",
+  "provider": {
+    "default": "anthropic",
+    "anthropic": {
+      "model": "claude-sonnet-4-6"
+    }
+  },
+  "agents": {
+    "id": "dawaa-guard",
+    "list": [
+      {
+        "id": "nizam",
+        "name": "Nizam - Code Patrol"
+      },
+      {
+        "id": "talash",
+        "name": "Talash - Bug Hunter"
+      },
+      {
+        "id": "jaanch",
+        "name": "Jaanch - E2E Tester"
+      },
+      {
+        "id": "nigran",
+        "name": "Nigran - Backend Monitor"
+      },
+      {
+        "id": "muhafiz",
+        "name": "Muhafiz - Security Auditor"
+      }
+    ],
+    "defaults": {
+      "maxConcurrent": 3,
+      "subagents": {
+        "maxConcurrent": 5,
+        "model": "anthropic/claude-sonnet-4-6"
+      }
+    }
+  },
+  "mcpServers": {
+    "flutter-skill": {
+      "command": "flutter-skill",
+      "args": [
+        "server"
+      ],
+      "comment": "E2E testing for Flutter apps - used by Jaanch agent"
+    }
+  },
+  "memory": {
+    "enabled": true,
+    "path": "./memory",
+    "compaction": {
+      "enabled": true
+    }
+  },
+  "security": {
+    "sandbox": true,
+    "allowedPaths": [
+      "${DAWAACHECK_ROOT}"
+    ],
+    "blockedCommands": [
+      "rm -rf",
+      "format",
+      "del /s"
+    ]
+  },
+  "scheduling": {
+    "owner": "paperclip",
+    "note": "Paperclip drives the heartbeat for every agent (see paperclip/.paperclip.yaml). The schedules below are the source of truth for cadence; OpenClaw's own cron is left off so the two schedulers cannot double-fire an agent. To run OpenClaw standalone, move this block to a top-level \"cron\" key.",
+    "jobs": {
+      "nizam-patrol": {
+        "schedule": "0 */6 * * *",
+        "comment": "Every 6 hours - Code quality patrol (optimized)",
+        "prompt": "Run a full code patrol check on the DawaaCheck codebase. Check flutter analyze, design system violations, and Python backend compilation.",
+        "agent": "nizam"
+      },
+      "talash-hunt": {
+        "schedule": "0 */12 * * *",
+        "comment": "Every 12 hours - Deep bug hunt (optimized)",
+        "prompt": "Run a deep bug hunt on the DawaaCheck codebase. Check for logic bugs, edge cases, null safety issues, and potential crashes in both Flutter and backend agents.",
+        "agent": "talash"
+      },
+      "nigran-health": {
+        "schedule": "0 */3 * * *",
+        "comment": "Every 3 hours - Backend health check (optimized)",
+        "prompt": "Check all DawaaCheck backend API endpoints. Report health status, response times, and any errors.",
+        "agent": "nigran"
+      },
+      "muhafiz-audit": {
+        "schedule": "0 22 * * *",
+        "comment": "Daily at 10 PM PKT (system time) - Security audit",
+        "prompt": "Run a full security audit on the DawaaCheck codebase. Check for hardcoded secrets, vulnerabilities, OWASP compliance, and dependency issues.",
+        "agent": "muhafiz"
+      }
+    }
+  },
+  "budget": {
+    "dailyUsdCap": 1.0,
+    "onExceed": "pause",
+    "note": "Agents pause for the rest of the UTC day once the cap is hit; the next window resumes them."
+  }
+}

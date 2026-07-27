@@ -1,0 +1,242 @@
+{
+  "Panadol": {
+    "brand_name": "Panadol",
+    "image_url": "https://dawaai.pk/assets/img/dawaaiog.jpg",
+    "source": "dawaai.pk"
+  },
+  "Panadol Extra": {
+    "brand_name": "Panadol Extra",
+    "image_url": "https://dawaai.pk/assets/img/dawaaiog.jpg",
+    "source": "dawaai.pk"
+  },
+  "Panadol CF": {
+    "brand_name": "Panadol CF",
+    "image_url": "https://dawaai.pk/assets/img/dawaaiog.jpg",
+    "source": "dawaai.pk"
+  },
+  "Augmentin": {
+    "brand_name": "Augmentin",
+    "image_url": "https://dawaai.pk/assets/img/dawaaiog.jpg",
+    "source": "dawaai.pk"
+  },
+  "Amoxil": {
+    "brand_name": "Amoxil",
+    "image_url": "https://dawaai.pk/assets/img/dawaaiog.jpg",
+    "source": "dawaai.pk"
+  },
+  "Brufen": {
+    "brand_name": "Brufen",
+    "image_url": "https://dawaai.pk/assets/img/dawaaiog.jpg",
+    "source": "dawaai.pk"
+  },
+  "Ponstan": {
+    "brand_name": "Ponstan",
+    "image_url": "https://dawaai.pk/assets/img/dawaaiog.jpg",
+    "source": "dawaai.pk"
+  },
+  "Flagyl": {
+    "brand_name": "Flagyl",
+    "image_url": "https://dawaai.pk/assets/img/dawaaiog.jpg",
+    "source": "dawaai.pk"
+  },
+  "Calpol": {
+    "brand_name": "Calpol",
+    "image_url": "https://dawaai.pk/assets/img/dawaaiog.jpg",
+    "source": "dawaai.pk"
+  },
+  "Azomax": {
+    "brand_name": "Azomax",
+    "image_url": "https://dawaai.pk/assets/img/dawaaiog.jpg",
+    "source": "dawaai.pk"
+  },
+  "Novidat": {
+    "brand_name": "Novidat",
+    "image_url": "https://dawaai.pk/assets/img/dawaaiog.jpg",
+    "source": "dawaai.pk"
+  },
+  "Risek": {
+    "brand_name": "Risek",
+    "image_url": "https://dawaai.pk/assets/img/dawaaiog.jpg",
+    "source": "dawaai.pk"
+  },
+  "Zyrtec": {
+    "brand_name": "Zyrtec",
+    "image_url": "https://dawaai.pk/assets/img/dawaaiog.jpg",
+    "source": "dawaai.pk"
+  },
+  "Disprin": {
+    "brand_name": "Disprin",
+    "image_url": "https://dawaai.pk/assets/img/dawaaiog.jpg",
+    "source": "dawaai.pk"
+  },
+  "Ventolin": {
+    "brand_name": "Ventolin",
+    "image_url": "https://dawaai.pk/assets/img/dawaaiog.jpg",
+    "source": "dawaai.pk"
+  },
+  "Septran": {
+    "brand_name": "Septran",
+    "image_url": "https://dawaai.pk/assets/img/dawaaiog.jpg",
+    "source": "dawaai.pk"
+  },
+  "Voltaren": {
+    "brand_name": "Voltaren",
+    "image_url": "https://dawaai.pk/assets/img/dawaaiog.jpg",
+    "source": "dawaai.pk"
+  },
+  "Motilium": {
+    "brand_name": "Motilium",
+    "image_url": "https://dawaai.pk/assets/img/dawaaiog.jpg",
+    "source": "dawaai.pk"
+  },
+  "Imodium": {
+    "brand_name": "Imodium",
+    "image_url": "https://dawaai.pk/assets/img/dawaaiog.jpg",
+    "source": "dawaai.pk"
+  },
+  "Zentel": {
+    "brand_name": "Zentel",
+    "image_url": "https://dawaai.pk/assets/img/dawaaiog.jpg",
+    "source": "dawaai.pk"
+  },
+  "Gaviscon": {
+    "brand_name": "Gaviscon",
+    "image_url": "https://dawaai.pk/assets/img/dawaaiog.jpg",
+    "source": "dawaai.pk"
+  },
+  "Neurobion": {
+    "brand_name": "Neurobion",
+    "image_url": "https://dawaai.pk/assets/img/dawaaiog.jpg",
+    "source": "dawaai.pk"
+  },
+  "Centrum": {
+    "brand_name": "Centrum",
+    "image_url": "https://dawaai.pk/assets/img/dawaaiog.jpg",
+    "source": "dawaai.pk"
+  },
+  "Fefol": {
+    "brand_name": "Fefol",
+    "image_url": "https://dawaai.pk/assets/img/dawaaiog.jpg",
+    "source": "dawaai.pk"
+  },
+  "Nexium": {
+    "brand_name": "Nexium",
+    "image_url": "https://dawaai.pk/assets/img/dawaaiog.jpg",
+    "source": "dawaai.pk"
+  },
+  "Glucophage": {
+    "brand_name": "Glucophage",
+    "image_url": "https://dawaai.pk/assets/img/dawaaiog.jpg",
+    "source": "dawaai.pk"
+  },
+  "Norvasc": {
+    "brand_name": "Norvasc",
+    "image_url": "https://dawaai.pk/assets/img/dawaaiog.jpg",
+    "source": "dawaai.pk"
+  },
+  "Lipitor": {
+    "brand_name": "Lipitor",
+    "image_url": "https://dawaai.pk/assets/img/dawaaiog.jpg",
+    "source": "dawaai.pk"
+  },
+  "Concor": {
+    "brand_name": "Concor",
+    "image_url": "https://dawaai.pk/assets/img/dawaaiog.jpg",
+    "source": "dawaai.pk"
+  },
+  "Plavix": {
+    "brand_name": "Plavix",
+    "image_url": "https://dawaai.pk/assets/img/dawaaiog.jpg",
+    "source": "dawaai.pk"
+  },
+  "Amaryl": {
+    "brand_name": "Amaryl",
+    "image_url": "https://dawaai.pk/assets/img/dawaaiog.jpg",
+    "source": "dawaai.pk"
+  },
+  "Singulair": {
+    "brand_name": "Singulair",
+    "image_url": "https://dawaai.pk/assets/img/dawaaiog.jpg",
+    "source": "dawaai.pk"
+  },
+  "Seretide": {
+    "brand_name": "Seretide",
+    "image_url": "https://dawaai.pk/assets/img/dawaaiog.jpg",
+    "source": "dawaai.pk"
+  },
+  "Arinac": {
+    "brand_name": "Arinac",
+    "image_url": "https://dawaai.pk/assets/img/dawaaiog.jpg",
+    "source": "dawaai.pk"
+  },
+  "Sinarest": {
+    "brand_name": "Sinarest",
+    "image_url": "https://dawaai.pk/assets/img/dawaaiog.jpg",
+    "source": "dawaai.pk"
+  },
+  "Acefyl": {
+    "brand_name": "Acefyl",
+    "image_url": "https://dawaai.pk/assets/img/dawaaiog.jpg",
+    "source": "dawaai.pk"
+  },
+  "Clarityn": {
+    "brand_name": "Clarityn",
+    "image_url": "https://dawaai.pk/assets/img/dawaaiog.jpg",
+    "source": "dawaai.pk"
+  },
+  "Telfast": {
+    "brand_name": "Telfast",
+    "image_url": "https://dawaai.pk/assets/img/dawaaiog.jpg",
+    "source": "dawaai.pk"
+  },
+  "Rigix": {
+    "brand_name": "Rigix",
+    "image_url": "https://dawaai.pk/assets/img/dawaaiog.jpg",
+    "source": "dawaai.pk"
+  },
+  "Solvin": {
+    "brand_name": "Solvin",
+    "image_url": "https://dawaai.pk/assets/img/dawaaiog.jpg",
+    "source": "dawaai.pk"
+  },
+  "Dulcolax": {
+    "brand_name": "Dulcolax",
+    "image_url": "https://dawaai.pk/assets/img/dawaaiog.jpg",
+    "source": "dawaai.pk"
+  },
+  "Buscopan": {
+    "brand_name": "Buscopan",
+    "image_url": "https://dawaai.pk/assets/img/dawaaiog.jpg",
+    "source": "dawaai.pk"
+  },
+  "Dermovate": {
+    "brand_name": "Dermovate",
+    "image_url": "https://dawaai.pk/assets/img/dawaaiog.jpg",
+    "source": "dawaai.pk"
+  },
+  "Betnovate": {
+    "brand_name": "Betnovate",
+    "image_url": "https://dawaai.pk/assets/img/dawaaiog.jpg",
+    "source": "dawaai.pk"
+  },
+  "Canesten": {
+    "brand_name": "Canesten",
+    "image_url": "https://dawaai.pk/assets/img/dawaaiog.jpg",
+    "source": "dawaai.pk"
+  },
+  "Zoloft": {
+    "brand_name": "Zoloft",
+    "image_url": "https://dawaai.pk/assets/img/dawaaiog.jpg",
+    "source": "dawaai.pk"
+  },
+  "Lexapro": {
+    "brand_name": "Lexapro",
+    "image_url": "https://dawaai.pk/assets/img/dawaaiog.jpg",
+    "source": "dawaai.pk"
+  },
+  "Lyrica": {
+    "brand_name": "Lyrica",
+    "image_url": "https://dawaai.pk/assets/img/dawaaiog.jpg",
+    "source": "dawaai.pk"
+  }
+}

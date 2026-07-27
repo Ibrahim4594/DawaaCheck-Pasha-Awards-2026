@@ -1,0 +1,2532 @@
+[
+  {
+    "brand_name": "Panadol",
+    "generic_name": "Paracetamol",
+    "manufacturer": "GlaxoSmithKline",
+    "dosage_form": "Tablet",
+    "strength": "500mg",
+    "pack_size": "100 tablets",
+    "mrp": 250,
+    "generic_alternatives": [
+      {
+        "brand_name": "Panol",
+        "manufacturer": "Searle",
+        "mrp": 120
+      },
+      {
+        "brand_name": "Paracip",
+        "manufacturer": "Cipla",
+        "mrp": 95
+      },
+      {
+        "brand_name": "Provas",
+        "manufacturer": "Sami Pharma",
+        "mrp": 105
+      }
+    ]
+  },
+  {
+    "brand_name": "Brufen",
+    "generic_name": "Ibuprofen",
+    "manufacturer": "Abbott",
+    "dosage_form": "Tablet",
+    "strength": "400mg",
+    "pack_size": "30 tablets",
+    "mrp": 195,
+    "generic_alternatives": [
+      {
+        "brand_name": "Ibugesic",
+        "manufacturer": "Sami Pharma",
+        "mrp": 95
+      },
+      {
+        "brand_name": "Ibucap",
+        "manufacturer": "Captek Pharma",
+        "mrp": 80
+      }
+    ]
+  },
+  {
+    "brand_name": "Disprin",
+    "generic_name": "Aspirin",
+    "manufacturer": "Reckitt Benckiser",
+    "dosage_form": "Dispersible Tablet",
+    "strength": "300mg",
+    "pack_size": "50 tablets",
+    "mrp": 175,
+    "generic_alternatives": [
+      {
+        "brand_name": "Aspicot",
+        "manufacturer": "Continental Pharma",
+        "mrp": 85
+      },
+      {
+        "brand_name": "Solprin",
+        "manufacturer": "Reckitt Benckiser",
+        "mrp": 120
+      }
+    ]
+  },
+  {
+    "brand_name": "Ponstan",
+    "generic_name": "Mefenamic Acid",
+    "manufacturer": "Pfizer",
+    "dosage_form": "Capsule",
+    "strength": "250mg",
+    "pack_size": "100 capsules",
+    "mrp": 520,
+    "generic_alternatives": [
+      {
+        "brand_name": "Mefac",
+        "manufacturer": "Searle",
+        "mrp": 260
+      },
+      {
+        "brand_name": "Pontal",
+        "manufacturer": "Sami Pharma",
+        "mrp": 230
+      }
+    ]
+  },
+  {
+    "brand_name": "Tramal",
+    "generic_name": "Tramadol",
+    "manufacturer": "Grunenthal",
+    "dosage_form": "Capsule",
+    "strength": "50mg",
+    "pack_size": "10 capsules",
+    "mrp": 210,
+    "generic_alternatives": [
+      {
+        "brand_name": "Tradol",
+        "manufacturer": "Sami Pharma",
+        "mrp": 110
+      },
+      {
+        "brand_name": "Tramol",
+        "manufacturer": "Hilton Pharma",
+        "mrp": 95
+      }
+    ]
+  },
+  {
+    "brand_name": "Voltral",
+    "generic_name": "Diclofenac Sodium",
+    "manufacturer": "Novartis",
+    "dosage_form": "Tablet",
+    "strength": "50mg",
+    "pack_size": "20 tablets",
+    "mrp": 180,
+    "generic_alternatives": [
+      {
+        "brand_name": "Diclowin",
+        "manufacturer": "Sami Pharma",
+        "mrp": 90
+      },
+      {
+        "brand_name": "Dicloran",
+        "manufacturer": "Searle",
+        "mrp": 85
+      }
+    ]
+  },
+  {
+    "brand_name": "Augmentin",
+    "generic_name": "Co-Amoxiclav (Amoxicillin/Clavulanate)",
+    "manufacturer": "GlaxoSmithKline",
+    "dosage_form": "Tablet",
+    "strength": "625mg",
+    "pack_size": "6 tablets",
+    "mrp": 580,
+    "generic_alternatives": [
+      {
+        "brand_name": "Clamox",
+        "manufacturer": "Searle",
+        "mrp": 290
+      },
+      {
+        "brand_name": "Amoclav",
+        "manufacturer": "Getz Pharma",
+        "mrp": 260
+      },
+      {
+        "brand_name": "Clavam",
+        "manufacturer": "Sami Pharma",
+        "mrp": 275
+      }
+    ]
+  },
+  {
+    "brand_name": "Amoxil",
+    "generic_name": "Amoxicillin",
+    "manufacturer": "GlaxoSmithKline",
+    "dosage_form": "Capsule",
+    "strength": "500mg",
+    "pack_size": "12 capsules",
+    "mrp": 310,
+    "generic_alternatives": [
+      {
+        "brand_name": "Amoxipen",
+        "manufacturer": "Sami Pharma",
+        "mrp": 140
+      },
+      {
+        "brand_name": "Ospamox",
+        "manufacturer": "Sandoz",
+        "mrp": 180
+      }
+    ]
+  },
+  {
+    "brand_name": "Zithromax",
+    "generic_name": "Azithromycin",
+    "manufacturer": "Pfizer",
+    "dosage_form": "Tablet",
+    "strength": "500mg",
+    "pack_size": "3 tablets",
+    "mrp": 460,
+    "generic_alternatives": [
+      {
+        "brand_name": "Zetro",
+        "manufacturer": "Getz Pharma",
+        "mrp": 195
+      },
+      {
+        "brand_name": "Azomac",
+        "manufacturer": "Searle",
+        "mrp": 180
+      },
+      {
+        "brand_name": "Azomax",
+        "manufacturer": "Sami Pharma",
+        "mrp": 170
+      }
+    ]
+  },
+  {
+    "brand_name": "Ciproxin",
+    "generic_name": "Ciprofloxacin",
+    "manufacturer": "Bayer",
+    "dosage_form": "Tablet",
+    "strength": "500mg",
+    "pack_size": "10 tablets",
+    "mrp": 390,
+    "generic_alternatives": [
+      {
+        "brand_name": "Cipesta",
+        "manufacturer": "Searle",
+        "mrp": 175
+      },
+      {
+        "brand_name": "Ciprobiotic",
+        "manufacturer": "Sami Pharma",
+        "mrp": 160
+      }
+    ]
+  },
+  {
+    "brand_name": "Flagyl",
+    "generic_name": "Metronidazole",
+    "manufacturer": "Sanofi",
+    "dosage_form": "Tablet",
+    "strength": "400mg",
+    "pack_size": "20 tablets",
+    "mrp": 210,
+    "generic_alternatives": [
+      {
+        "brand_name": "Metrozol",
+        "manufacturer": "Searle",
+        "mrp": 95
+      },
+      {
+        "brand_name": "Metrogyl",
+        "manufacturer": "Sami Pharma",
+        "mrp": 85
+      }
+    ]
+  },
+  {
+    "brand_name": "Velosef",
+    "generic_name": "Cephradine",
+    "manufacturer": "Bristol-Myers Squibb",
+    "dosage_form": "Capsule",
+    "strength": "500mg",
+    "pack_size": "12 capsules",
+    "mrp": 650,
+    "generic_alternatives": [
+      {
+        "brand_name": "Cephrad",
+        "manufacturer": "Getz Pharma",
+        "mrp": 310
+      },
+      {
+        "brand_name": "Sepharin",
+        "manufacturer": "Sami Pharma",
+        "mrp": 290
+      }
+    ]
+  },
+  {
+    "brand_name": "Ceclor",
+    "generic_name": "Cefaclor",
+    "manufacturer": "Lilly",
+    "dosage_form": "Capsule",
+    "strength": "250mg",
+    "pack_size": "12 capsules",
+    "mrp": 490,
+    "generic_alternatives": [
+      {
+        "brand_name": "Cefaclav",
+        "manufacturer": "Getz Pharma",
+        "mrp": 240
+      },
+      {
+        "brand_name": "Ceclogen",
+        "manufacturer": "Searle",
+        "mrp": 220
+      }
+    ]
+  },
+  {
+    "brand_name": "Cefspan",
+    "generic_name": "Cefixime",
+    "manufacturer": "GlaxoSmithKline",
+    "dosage_form": "Tablet",
+    "strength": "400mg",
+    "pack_size": "6 tablets",
+    "mrp": 510,
+    "generic_alternatives": [
+      {
+        "brand_name": "Cefix",
+        "manufacturer": "Sami Pharma",
+        "mrp": 240
+      },
+      {
+        "brand_name": "Fixef",
+        "manufacturer": "Getz Pharma",
+        "mrp": 260
+      }
+    ]
+  },
+  {
+    "brand_name": "Septran",
+    "generic_name": "Co-trimoxazole (Sulfamethoxazole/Trimethoprim)",
+    "manufacturer": "GlaxoSmithKline",
+    "dosage_form": "Tablet",
+    "strength": "480mg",
+    "pack_size": "20 tablets",
+    "mrp": 185,
+    "generic_alternatives": [
+      {
+        "brand_name": "Bactrim",
+        "manufacturer": "Roche",
+        "mrp": 160
+      },
+      {
+        "brand_name": "Cotrimox",
+        "manufacturer": "Sami Pharma",
+        "mrp": 80
+      }
+    ]
+  },
+  {
+    "brand_name": "Losec",
+    "generic_name": "Omeprazole",
+    "manufacturer": "AstraZeneca",
+    "dosage_form": "Capsule",
+    "strength": "20mg",
+    "pack_size": "14 capsules",
+    "mrp": 420,
+    "generic_alternatives": [
+      {
+        "brand_name": "Omezol",
+        "manufacturer": "Getz Pharma",
+        "mrp": 175
+      },
+      {
+        "brand_name": "Risek",
+        "manufacturer": "Getz Pharma",
+        "mrp": 290
+      },
+      {
+        "brand_name": "Omep",
+        "manufacturer": "Sami Pharma",
+        "mrp": 140
+      }
+    ]
+  },
+  {
+    "brand_name": "Risek",
+    "generic_name": "Omeprazole",
+    "manufacturer": "Getz Pharma",
+    "dosage_form": "Capsule",
+    "strength": "20mg",
+    "pack_size": "14 capsules",
+    "mrp": 290,
+    "generic_alternatives": [
+      {
+        "brand_name": "Omezol",
+        "manufacturer": "Getz Pharma",
+        "mrp": 175
+      },
+      {
+        "brand_name": "Omep",
+        "manufacturer": "Sami Pharma",
+        "mrp": 140
+      }
+    ]
+  },
+  {
+    "brand_name": "Nexium",
+    "generic_name": "Esomeprazole",
+    "manufacturer": "AstraZeneca",
+    "dosage_form": "Tablet",
+    "strength": "40mg",
+    "pack_size": "14 tablets",
+    "mrp": 680,
+    "generic_alternatives": [
+      {
+        "brand_name": "Esom",
+        "manufacturer": "Getz Pharma",
+        "mrp": 310
+      },
+      {
+        "brand_name": "Esopral",
+        "manufacturer": "Searle",
+        "mrp": 280
+      }
+    ]
+  },
+  {
+    "brand_name": "Motilium",
+    "generic_name": "Domperidone",
+    "manufacturer": "Janssen",
+    "dosage_form": "Tablet",
+    "strength": "10mg",
+    "pack_size": "30 tablets",
+    "mrp": 270,
+    "generic_alternatives": [
+      {
+        "brand_name": "Domstal",
+        "manufacturer": "Searle",
+        "mrp": 120
+      },
+      {
+        "brand_name": "Vomilux",
+        "manufacturer": "Sami Pharma",
+        "mrp": 100
+      }
+    ]
+  },
+  {
+    "brand_name": "Imodium",
+    "generic_name": "Loperamide",
+    "manufacturer": "Janssen",
+    "dosage_form": "Capsule",
+    "strength": "2mg",
+    "pack_size": "6 capsules",
+    "mrp": 145,
+    "generic_alternatives": [
+      {
+        "brand_name": "Lopide",
+        "manufacturer": "Searle",
+        "mrp": 65
+      },
+      {
+        "brand_name": "Lopin",
+        "manufacturer": "Sami Pharma",
+        "mrp": 55
+      }
+    ]
+  },
+  {
+    "brand_name": "Buscopan",
+    "generic_name": "Hyoscine Butylbromide",
+    "manufacturer": "Boehringer Ingelheim",
+    "dosage_form": "Tablet",
+    "strength": "10mg",
+    "pack_size": "20 tablets",
+    "mrp": 280,
+    "generic_alternatives": [
+      {
+        "brand_name": "Hyospan",
+        "manufacturer": "Sami Pharma",
+        "mrp": 130
+      },
+      {
+        "brand_name": "Scobutil",
+        "manufacturer": "Searle",
+        "mrp": 140
+      }
+    ]
+  },
+  {
+    "brand_name": "Zantac",
+    "generic_name": "Ranitidine",
+    "manufacturer": "GlaxoSmithKline",
+    "dosage_form": "Tablet",
+    "strength": "150mg",
+    "pack_size": "20 tablets",
+    "mrp": 220,
+    "generic_alternatives": [
+      {
+        "brand_name": "Rani",
+        "manufacturer": "Sami Pharma",
+        "mrp": 95
+      },
+      {
+        "brand_name": "Ranitin",
+        "manufacturer": "Getz Pharma",
+        "mrp": 105
+      }
+    ]
+  },
+  {
+    "brand_name": "Norvasc",
+    "generic_name": "Amlodipine",
+    "manufacturer": "Pfizer",
+    "dosage_form": "Tablet",
+    "strength": "5mg",
+    "pack_size": "30 tablets",
+    "mrp": 450,
+    "generic_alternatives": [
+      {
+        "brand_name": "Amloc",
+        "manufacturer": "Getz Pharma",
+        "mrp": 195
+      },
+      {
+        "brand_name": "Amlosafe",
+        "manufacturer": "Sami Pharma",
+        "mrp": 175
+      },
+      {
+        "brand_name": "Amlong",
+        "manufacturer": "Micro Labs",
+        "mrp": 160
+      }
+    ]
+  },
+  {
+    "brand_name": "Concor",
+    "generic_name": "Bisoprolol",
+    "manufacturer": "Merck",
+    "dosage_form": "Tablet",
+    "strength": "5mg",
+    "pack_size": "30 tablets",
+    "mrp": 520,
+    "generic_alternatives": [
+      {
+        "brand_name": "Bisocard",
+        "manufacturer": "Getz Pharma",
+        "mrp": 240
+      },
+      {
+        "brand_name": "Bisop",
+        "manufacturer": "Sami Pharma",
+        "mrp": 210
+      }
+    ]
+  },
+  {
+    "brand_name": "Tenormin",
+    "generic_name": "Atenolol",
+    "manufacturer": "AstraZeneca",
+    "dosage_form": "Tablet",
+    "strength": "50mg",
+    "pack_size": "28 tablets",
+    "mrp": 310,
+    "generic_alternatives": [
+      {
+        "brand_name": "Atenol",
+        "manufacturer": "Searle",
+        "mrp": 135
+      },
+      {
+        "brand_name": "Atcardil",
+        "manufacturer": "Sami Pharma",
+        "mrp": 120
+      }
+    ]
+  },
+  {
+    "brand_name": "Cozaar",
+    "generic_name": "Losartan",
+    "manufacturer": "MSD",
+    "dosage_form": "Tablet",
+    "strength": "50mg",
+    "pack_size": "14 tablets",
+    "mrp": 380,
+    "generic_alternatives": [
+      {
+        "brand_name": "Losar",
+        "manufacturer": "Getz Pharma",
+        "mrp": 170
+      },
+      {
+        "brand_name": "Losagen",
+        "manufacturer": "Sami Pharma",
+        "mrp": 155
+      }
+    ]
+  },
+  {
+    "brand_name": "Zestril",
+    "generic_name": "Lisinopril",
+    "manufacturer": "AstraZeneca",
+    "dosage_form": "Tablet",
+    "strength": "10mg",
+    "pack_size": "14 tablets",
+    "mrp": 340,
+    "generic_alternatives": [
+      {
+        "brand_name": "Lisino",
+        "manufacturer": "Getz Pharma",
+        "mrp": 150
+      },
+      {
+        "brand_name": "Lisoril",
+        "manufacturer": "Sami Pharma",
+        "mrp": 135
+      }
+    ]
+  },
+  {
+    "brand_name": "Lipitor",
+    "generic_name": "Atorvastatin",
+    "manufacturer": "Pfizer",
+    "dosage_form": "Tablet",
+    "strength": "20mg",
+    "pack_size": "30 tablets",
+    "mrp": 690,
+    "generic_alternatives": [
+      {
+        "brand_name": "Atorva",
+        "manufacturer": "Getz Pharma",
+        "mrp": 310
+      },
+      {
+        "brand_name": "Atorsave",
+        "manufacturer": "Sami Pharma",
+        "mrp": 280
+      },
+      {
+        "brand_name": "Lipiget",
+        "manufacturer": "Searle",
+        "mrp": 295
+      }
+    ]
+  },
+  {
+    "brand_name": "Plavix",
+    "generic_name": "Clopidogrel",
+    "manufacturer": "Sanofi",
+    "dosage_form": "Tablet",
+    "strength": "75mg",
+    "pack_size": "14 tablets",
+    "mrp": 560,
+    "generic_alternatives": [
+      {
+        "brand_name": "Clotid",
+        "manufacturer": "Getz Pharma",
+        "mrp": 250
+      },
+      {
+        "brand_name": "Clopigrel",
+        "manufacturer": "Sami Pharma",
+        "mrp": 220
+      }
+    ]
+  },
+  {
+    "brand_name": "Ecosprin",
+    "generic_name": "Aspirin (Low Dose)",
+    "manufacturer": "USV",
+    "dosage_form": "Tablet",
+    "strength": "75mg",
+    "pack_size": "30 tablets",
+    "mrp": 85,
+    "generic_alternatives": [
+      {
+        "brand_name": "Ascard",
+        "manufacturer": "Atco Pharma",
+        "mrp": 55
+      },
+      {
+        "brand_name": "Loprin",
+        "manufacturer": "Searle",
+        "mrp": 50
+      }
+    ]
+  },
+  {
+    "brand_name": "Glucophage",
+    "generic_name": "Metformin",
+    "manufacturer": "Merck",
+    "dosage_form": "Tablet",
+    "strength": "500mg",
+    "pack_size": "30 tablets",
+    "mrp": 290,
+    "generic_alternatives": [
+      {
+        "brand_name": "Metforgut",
+        "manufacturer": "Getz Pharma",
+        "mrp": 125
+      },
+      {
+        "brand_name": "Glucomet",
+        "manufacturer": "Searle",
+        "mrp": 115
+      },
+      {
+        "brand_name": "Meglu",
+        "manufacturer": "Sami Pharma",
+        "mrp": 105
+      }
+    ]
+  },
+  {
+    "brand_name": "Glucophage XR",
+    "generic_name": "Metformin Extended Release",
+    "manufacturer": "Merck",
+    "dosage_form": "Tablet",
+    "strength": "1000mg",
+    "pack_size": "30 tablets",
+    "mrp": 480,
+    "generic_alternatives": [
+      {
+        "brand_name": "Metforgut XR",
+        "manufacturer": "Getz Pharma",
+        "mrp": 220
+      },
+      {
+        "brand_name": "Glucomet SR",
+        "manufacturer": "Searle",
+        "mrp": 200
+      }
+    ]
+  },
+  {
+    "brand_name": "Amaryl",
+    "generic_name": "Glimepiride",
+    "manufacturer": "Sanofi",
+    "dosage_form": "Tablet",
+    "strength": "2mg",
+    "pack_size": "30 tablets",
+    "mrp": 540,
+    "generic_alternatives": [
+      {
+        "brand_name": "Glimestar",
+        "manufacturer": "Getz Pharma",
+        "mrp": 240
+      },
+      {
+        "brand_name": "Glimsave",
+        "manufacturer": "Sami Pharma",
+        "mrp": 210
+      }
+    ]
+  },
+  {
+    "brand_name": "Daonil",
+    "generic_name": "Glibenclamide",
+    "manufacturer": "Sanofi",
+    "dosage_form": "Tablet",
+    "strength": "5mg",
+    "pack_size": "30 tablets",
+    "mrp": 185,
+    "generic_alternatives": [
+      {
+        "brand_name": "Glibetic",
+        "manufacturer": "Getz Pharma",
+        "mrp": 85
+      },
+      {
+        "brand_name": "Glinil",
+        "manufacturer": "Sami Pharma",
+        "mrp": 75
+      }
+    ]
+  },
+  {
+    "brand_name": "Januvia",
+    "generic_name": "Sitagliptin",
+    "manufacturer": "MSD",
+    "dosage_form": "Tablet",
+    "strength": "100mg",
+    "pack_size": "14 tablets",
+    "mrp": 1650,
+    "generic_alternatives": [
+      {
+        "brand_name": "Sitazit",
+        "manufacturer": "Getz Pharma",
+        "mrp": 780
+      },
+      {
+        "brand_name": "Sitaglu",
+        "manufacturer": "Searle",
+        "mrp": 720
+      }
+    ]
+  },
+  {
+    "brand_name": "Lantus",
+    "generic_name": "Insulin Glargine",
+    "manufacturer": "Sanofi",
+    "dosage_form": "Injection",
+    "strength": "100 IU/ml",
+    "pack_size": "1 pen (3ml)",
+    "mrp": 2350,
+    "generic_alternatives": [
+      {
+        "brand_name": "Basalog",
+        "manufacturer": "Biocon",
+        "mrp": 1450
+      },
+      {
+        "brand_name": "Glaritus",
+        "manufacturer": "Wockhardt",
+        "mrp": 1380
+      }
+    ]
+  },
+  {
+    "brand_name": "Ventolin",
+    "generic_name": "Salbutamol",
+    "manufacturer": "GlaxoSmithKline",
+    "dosage_form": "Inhaler",
+    "strength": "100mcg/puff",
+    "pack_size": "200 doses",
+    "mrp": 450,
+    "generic_alternatives": [
+      {
+        "brand_name": "Solvent",
+        "manufacturer": "Searle",
+        "mrp": 210
+      },
+      {
+        "brand_name": "Salbair",
+        "manufacturer": "Getz Pharma",
+        "mrp": 195
+      }
+    ]
+  },
+  {
+    "brand_name": "Seretide",
+    "generic_name": "Fluticasone/Salmeterol",
+    "manufacturer": "GlaxoSmithKline",
+    "dosage_form": "Inhaler",
+    "strength": "250/50mcg",
+    "pack_size": "60 doses",
+    "mrp": 2100,
+    "generic_alternatives": [
+      {
+        "brand_name": "Flutisal",
+        "manufacturer": "Getz Pharma",
+        "mrp": 980
+      },
+      {
+        "brand_name": "Seroflo",
+        "manufacturer": "Cipla",
+        "mrp": 920
+      }
+    ]
+  },
+  {
+    "brand_name": "Singulair",
+    "generic_name": "Montelukast",
+    "manufacturer": "MSD",
+    "dosage_form": "Tablet",
+    "strength": "10mg",
+    "pack_size": "14 tablets",
+    "mrp": 560,
+    "generic_alternatives": [
+      {
+        "brand_name": "Monteka",
+        "manufacturer": "Getz Pharma",
+        "mrp": 250
+      },
+      {
+        "brand_name": "Montiget",
+        "manufacturer": "Searle",
+        "mrp": 230
+      }
+    ]
+  },
+  {
+    "brand_name": "Zyrtec",
+    "generic_name": "Cetirizine",
+    "manufacturer": "UCB",
+    "dosage_form": "Tablet",
+    "strength": "10mg",
+    "pack_size": "10 tablets",
+    "mrp": 160,
+    "generic_alternatives": [
+      {
+        "brand_name": "Cetril",
+        "manufacturer": "Getz Pharma",
+        "mrp": 70
+      },
+      {
+        "brand_name": "Alerzon",
+        "manufacturer": "Sami Pharma",
+        "mrp": 60
+      }
+    ]
+  },
+  {
+    "brand_name": "Clarityn",
+    "generic_name": "Loratadine",
+    "manufacturer": "Bayer",
+    "dosage_form": "Tablet",
+    "strength": "10mg",
+    "pack_size": "10 tablets",
+    "mrp": 185,
+    "generic_alternatives": [
+      {
+        "brand_name": "Lorfast",
+        "manufacturer": "Getz Pharma",
+        "mrp": 80
+      },
+      {
+        "brand_name": "Lorate",
+        "manufacturer": "Searle",
+        "mrp": 70
+      }
+    ]
+  },
+  {
+    "brand_name": "Piriton",
+    "generic_name": "Chlorpheniramine",
+    "manufacturer": "GlaxoSmithKline",
+    "dosage_form": "Tablet",
+    "strength": "4mg",
+    "pack_size": "20 tablets",
+    "mrp": 95,
+    "generic_alternatives": [
+      {
+        "brand_name": "Histac",
+        "manufacturer": "Searle",
+        "mrp": 45
+      },
+      {
+        "brand_name": "Chloramine",
+        "manufacturer": "Sami Pharma",
+        "mrp": 40
+      }
+    ]
+  },
+  {
+    "brand_name": "Xyzal",
+    "generic_name": "Levocetirizine",
+    "manufacturer": "Sanofi",
+    "dosage_form": "Tablet",
+    "strength": "5mg",
+    "pack_size": "10 tablets",
+    "mrp": 190,
+    "generic_alternatives": [
+      {
+        "brand_name": "Lecet",
+        "manufacturer": "Getz Pharma",
+        "mrp": 85
+      },
+      {
+        "brand_name": "Levoriz",
+        "manufacturer": "Searle",
+        "mrp": 80
+      }
+    ]
+  },
+  {
+    "brand_name": "Calpol",
+    "generic_name": "Paracetamol",
+    "manufacturer": "GlaxoSmithKline",
+    "dosage_form": "Syrup",
+    "strength": "120mg/5ml",
+    "pack_size": "60ml",
+    "mrp": 165,
+    "generic_alternatives": [
+      {
+        "brand_name": "Panol Syrup",
+        "manufacturer": "Searle",
+        "mrp": 80
+      },
+      {
+        "brand_name": "Febrol",
+        "manufacturer": "Sami Pharma",
+        "mrp": 70
+      }
+    ]
+  },
+  {
+    "brand_name": "Brufen Syrup",
+    "generic_name": "Ibuprofen",
+    "manufacturer": "Abbott",
+    "dosage_form": "Syrup",
+    "strength": "100mg/5ml",
+    "pack_size": "60ml",
+    "mrp": 175,
+    "generic_alternatives": [
+      {
+        "brand_name": "Ibugesic Syrup",
+        "manufacturer": "Sami Pharma",
+        "mrp": 85
+      },
+      {
+        "brand_name": "Ibucap Syrup",
+        "manufacturer": "Captek Pharma",
+        "mrp": 75
+      }
+    ]
+  },
+  {
+    "brand_name": "Augmentin Syrup",
+    "generic_name": "Co-Amoxiclav (Amoxicillin/Clavulanate)",
+    "manufacturer": "GlaxoSmithKline",
+    "dosage_form": "Syrup",
+    "strength": "228mg/5ml",
+    "pack_size": "60ml",
+    "mrp": 490,
+    "generic_alternatives": [
+      {
+        "brand_name": "Clamox Syrup",
+        "manufacturer": "Searle",
+        "mrp": 235
+      },
+      {
+        "brand_name": "Amoclav Syrup",
+        "manufacturer": "Getz Pharma",
+        "mrp": 210
+      }
+    ]
+  },
+  {
+    "brand_name": "Azomax Syrup",
+    "generic_name": "Azithromycin",
+    "manufacturer": "Sami Pharma",
+    "dosage_form": "Syrup",
+    "strength": "200mg/5ml",
+    "pack_size": "15ml",
+    "mrp": 195,
+    "generic_alternatives": [
+      {
+        "brand_name": "Zetro Syrup",
+        "manufacturer": "Getz Pharma",
+        "mrp": 170
+      },
+      {
+        "brand_name": "Azomac Syrup",
+        "manufacturer": "Searle",
+        "mrp": 160
+      }
+    ]
+  },
+  {
+    "brand_name": "Rigix",
+    "generic_name": "Cetirizine",
+    "manufacturer": "Sanofi",
+    "dosage_form": "Syrup",
+    "strength": "5mg/5ml",
+    "pack_size": "60ml",
+    "mrp": 135,
+    "generic_alternatives": [
+      {
+        "brand_name": "Cetril Syrup",
+        "manufacturer": "Getz Pharma",
+        "mrp": 65
+      },
+      {
+        "brand_name": "Alerzon Syrup",
+        "manufacturer": "Sami Pharma",
+        "mrp": 55
+      }
+    ]
+  },
+  {
+    "brand_name": "Eltroxin",
+    "generic_name": "Levothyroxine",
+    "manufacturer": "GlaxoSmithKline",
+    "dosage_form": "Tablet",
+    "strength": "50mcg",
+    "pack_size": "100 tablets",
+    "mrp": 420,
+    "generic_alternatives": [
+      {
+        "brand_name": "Thyronorm",
+        "manufacturer": "Abbott",
+        "mrp": 280
+      },
+      {
+        "brand_name": "Thyrox",
+        "manufacturer": "Sami Pharma",
+        "mrp": 210
+      }
+    ]
+  },
+  {
+    "brand_name": "Xanax",
+    "generic_name": "Alprazolam",
+    "manufacturer": "Pfizer",
+    "dosage_form": "Tablet",
+    "strength": "0.5mg",
+    "pack_size": "30 tablets",
+    "mrp": 310,
+    "generic_alternatives": [
+      {
+        "brand_name": "Alprax",
+        "manufacturer": "Sami Pharma",
+        "mrp": 135
+      },
+      {
+        "brand_name": "Alprazol",
+        "manufacturer": "Searle",
+        "mrp": 125
+      }
+    ]
+  },
+  {
+    "brand_name": "Lexotanil",
+    "generic_name": "Bromazepam",
+    "manufacturer": "Roche",
+    "dosage_form": "Tablet",
+    "strength": "3mg",
+    "pack_size": "30 tablets",
+    "mrp": 340,
+    "generic_alternatives": [
+      {
+        "brand_name": "Bromaz",
+        "manufacturer": "Searle",
+        "mrp": 150
+      },
+      {
+        "brand_name": "Brozam",
+        "manufacturer": "Sami Pharma",
+        "mrp": 130
+      }
+    ]
+  },
+  {
+    "brand_name": "Tegretol",
+    "generic_name": "Carbamazepine",
+    "manufacturer": "Novartis",
+    "dosage_form": "Tablet",
+    "strength": "200mg",
+    "pack_size": "50 tablets",
+    "mrp": 380,
+    "generic_alternatives": [
+      {
+        "brand_name": "Carbazep",
+        "manufacturer": "Getz Pharma",
+        "mrp": 175
+      },
+      {
+        "brand_name": "Mazetol",
+        "manufacturer": "Sami Pharma",
+        "mrp": 155
+      }
+    ]
+  },
+  {
+    "brand_name": "Neurobion",
+    "generic_name": "Vitamin B Complex (B1/B6/B12)",
+    "manufacturer": "Merck",
+    "dosage_form": "Tablet",
+    "strength": "B1 100mg/B6 200mg/B12 200mcg",
+    "pack_size": "30 tablets",
+    "mrp": 390,
+    "generic_alternatives": [
+      {
+        "brand_name": "Nervon",
+        "manufacturer": "Sami Pharma",
+        "mrp": 175
+      },
+      {
+        "brand_name": "Neuromet",
+        "manufacturer": "Getz Pharma",
+        "mrp": 185
+      }
+    ]
+  },
+  {
+    "brand_name": "Centrum",
+    "generic_name": "Multivitamin/Multimineral",
+    "manufacturer": "Pfizer",
+    "dosage_form": "Tablet",
+    "strength": "Various",
+    "pack_size": "30 tablets",
+    "mrp": 850,
+    "generic_alternatives": [
+      {
+        "brand_name": "Surbex Z",
+        "manufacturer": "Abbott",
+        "mrp": 340
+      },
+      {
+        "brand_name": "Maxphar",
+        "manufacturer": "Sami Pharma",
+        "mrp": 280
+      }
+    ]
+  },
+  {
+    "brand_name": "Caltrate",
+    "generic_name": "Calcium/Vitamin D3",
+    "manufacturer": "Pfizer",
+    "dosage_form": "Tablet",
+    "strength": "600mg/400IU",
+    "pack_size": "30 tablets",
+    "mrp": 520,
+    "generic_alternatives": [
+      {
+        "brand_name": "Calcimax",
+        "manufacturer": "Getz Pharma",
+        "mrp": 240
+      },
+      {
+        "brand_name": "Oscal",
+        "manufacturer": "Searle",
+        "mrp": 220
+      }
+    ]
+  },
+  {
+    "brand_name": "Fefol",
+    "generic_name": "Iron/Folic Acid",
+    "manufacturer": "GlaxoSmithKline",
+    "dosage_form": "Capsule",
+    "strength": "Fe 150mg/Folic 0.5mg",
+    "pack_size": "30 capsules",
+    "mrp": 310,
+    "generic_alternatives": [
+      {
+        "brand_name": "Ferrous Plus",
+        "manufacturer": "Sami Pharma",
+        "mrp": 135
+      },
+      {
+        "brand_name": "Ferosoft",
+        "manufacturer": "Getz Pharma",
+        "mrp": 145
+      }
+    ]
+  },
+  {
+    "brand_name": "Vitamin D3",
+    "generic_name": "Cholecalciferol",
+    "manufacturer": "Various",
+    "dosage_form": "Tablet",
+    "strength": "1000 IU",
+    "pack_size": "30 tablets",
+    "mrp": 280,
+    "generic_alternatives": [
+      {
+        "brand_name": "D-Rise",
+        "manufacturer": "Getz Pharma",
+        "mrp": 130
+      },
+      {
+        "brand_name": "Sunny D",
+        "manufacturer": "Searle",
+        "mrp": 120
+      }
+    ]
+  },
+  {
+    "brand_name": "Dexilant",
+    "generic_name": "Dexlansoprazole",
+    "manufacturer": "Takeda",
+    "dosage_form": "Capsule",
+    "strength": "60mg",
+    "pack_size": "14 capsules",
+    "mrp": 890,
+    "generic_alternatives": [
+      {
+        "brand_name": "Dexlano",
+        "manufacturer": "Getz Pharma",
+        "mrp": 420
+      },
+      {
+        "brand_name": "Dexlan",
+        "manufacturer": "Sami Pharma",
+        "mrp": 380
+      }
+    ]
+  },
+  {
+    "brand_name": "Maxolon",
+    "generic_name": "Metoclopramide",
+    "manufacturer": "Sanofi",
+    "dosage_form": "Tablet",
+    "strength": "10mg",
+    "pack_size": "30 tablets",
+    "mrp": 150,
+    "generic_alternatives": [
+      {
+        "brand_name": "Meclopran",
+        "manufacturer": "Searle",
+        "mrp": 65
+      },
+      {
+        "brand_name": "Vominil",
+        "manufacturer": "Sami Pharma",
+        "mrp": 55
+      }
+    ]
+  },
+  {
+    "brand_name": "Prednisolone",
+    "generic_name": "Prednisolone",
+    "manufacturer": "Various",
+    "dosage_form": "Tablet",
+    "strength": "5mg",
+    "pack_size": "30 tablets",
+    "mrp": 145,
+    "generic_alternatives": [
+      {
+        "brand_name": "Deltacortril",
+        "manufacturer": "Pfizer",
+        "mrp": 220
+      },
+      {
+        "brand_name": "Predsol",
+        "manufacturer": "Sami Pharma",
+        "mrp": 85
+      }
+    ]
+  },
+  {
+    "brand_name": "Medrol",
+    "generic_name": "Methylprednisolone",
+    "manufacturer": "Pfizer",
+    "dosage_form": "Tablet",
+    "strength": "4mg",
+    "pack_size": "10 tablets",
+    "mrp": 340,
+    "generic_alternatives": [
+      {
+        "brand_name": "Methpred",
+        "manufacturer": "Getz Pharma",
+        "mrp": 155
+      },
+      {
+        "brand_name": "Mesol",
+        "manufacturer": "Sami Pharma",
+        "mrp": 140
+      }
+    ]
+  },
+  {
+    "brand_name": "Nurofen",
+    "generic_name": "Ibuprofen",
+    "manufacturer": "Reckitt Benckiser",
+    "dosage_form": "Tablet",
+    "strength": "200mg",
+    "pack_size": "24 tablets",
+    "mrp": 230,
+    "generic_alternatives": [
+      {
+        "brand_name": "Ibugesic",
+        "manufacturer": "Sami Pharma",
+        "mrp": 75
+      },
+      {
+        "brand_name": "Ibucap",
+        "manufacturer": "Captek Pharma",
+        "mrp": 65
+      }
+    ]
+  },
+  {
+    "brand_name": "Lamisil",
+    "generic_name": "Terbinafine",
+    "manufacturer": "Novartis",
+    "dosage_form": "Tablet",
+    "strength": "250mg",
+    "pack_size": "14 tablets",
+    "mrp": 720,
+    "generic_alternatives": [
+      {
+        "brand_name": "Terbicip",
+        "manufacturer": "Cipla",
+        "mrp": 340
+      },
+      {
+        "brand_name": "Terbina",
+        "manufacturer": "Getz Pharma",
+        "mrp": 310
+      }
+    ]
+  },
+  {
+    "brand_name": "Diflucan",
+    "generic_name": "Fluconazole",
+    "manufacturer": "Pfizer",
+    "dosage_form": "Capsule",
+    "strength": "150mg",
+    "pack_size": "1 capsule",
+    "mrp": 280,
+    "generic_alternatives": [
+      {
+        "brand_name": "Flucogen",
+        "manufacturer": "Getz Pharma",
+        "mrp": 120
+      },
+      {
+        "brand_name": "Fungo",
+        "manufacturer": "Searle",
+        "mrp": 105
+      }
+    ]
+  },
+  {
+    "brand_name": "Viagra",
+    "generic_name": "Sildenafil",
+    "manufacturer": "Pfizer",
+    "dosage_form": "Tablet",
+    "strength": "50mg",
+    "pack_size": "4 tablets",
+    "mrp": 1200,
+    "generic_alternatives": [
+      {
+        "brand_name": "Silden",
+        "manufacturer": "Getz Pharma",
+        "mrp": 480
+      },
+      {
+        "brand_name": "Viasil",
+        "manufacturer": "Searle",
+        "mrp": 440
+      }
+    ]
+  },
+  {
+    "brand_name": "Dulcolax",
+    "generic_name": "Bisacodyl",
+    "manufacturer": "Boehringer Ingelheim",
+    "dosage_form": "Tablet",
+    "strength": "5mg",
+    "pack_size": "30 tablets",
+    "mrp": 195,
+    "generic_alternatives": [
+      {
+        "brand_name": "Laxobis",
+        "manufacturer": "Searle",
+        "mrp": 85
+      },
+      {
+        "brand_name": "Bicolax",
+        "manufacturer": "Sami Pharma",
+        "mrp": 75
+      }
+    ]
+  },
+  {
+    "brand_name": "Duphalac",
+    "generic_name": "Lactulose",
+    "manufacturer": "Abbott",
+    "dosage_form": "Syrup",
+    "strength": "3.35g/5ml",
+    "pack_size": "120ml",
+    "mrp": 360,
+    "generic_alternatives": [
+      {
+        "brand_name": "Lacloz",
+        "manufacturer": "Getz Pharma",
+        "mrp": 165
+      },
+      {
+        "brand_name": "Lactul",
+        "manufacturer": "Sami Pharma",
+        "mrp": 145
+      }
+    ]
+  },
+  {
+    "brand_name": "Diamicron",
+    "generic_name": "Gliclazide",
+    "manufacturer": "Servier",
+    "dosage_form": "Tablet",
+    "strength": "80mg",
+    "pack_size": "60 tablets",
+    "mrp": 580,
+    "generic_alternatives": [
+      {
+        "brand_name": "Glicla",
+        "manufacturer": "Getz Pharma",
+        "mrp": 260
+      },
+      {
+        "brand_name": "Diacron",
+        "manufacturer": "Searle",
+        "mrp": 240
+      }
+    ]
+  },
+  {
+    "brand_name": "Coversyl",
+    "generic_name": "Perindopril",
+    "manufacturer": "Servier",
+    "dosage_form": "Tablet",
+    "strength": "5mg",
+    "pack_size": "30 tablets",
+    "mrp": 620,
+    "generic_alternatives": [
+      {
+        "brand_name": "Perinace",
+        "manufacturer": "Getz Pharma",
+        "mrp": 285
+      },
+      {
+        "brand_name": "Peridox",
+        "manufacturer": "Searle",
+        "mrp": 260
+      }
+    ]
+  },
+  {
+    "brand_name": "Valium",
+    "generic_name": "Diazepam",
+    "manufacturer": "Roche",
+    "dosage_form": "Tablet",
+    "strength": "5mg",
+    "pack_size": "20 tablets",
+    "mrp": 175,
+    "generic_alternatives": [
+      {
+        "brand_name": "Diapam",
+        "manufacturer": "Searle",
+        "mrp": 75
+      },
+      {
+        "brand_name": "Dizep",
+        "manufacturer": "Sami Pharma",
+        "mrp": 65
+      }
+    ]
+  },
+  {
+    "brand_name": "Lyrica",
+    "generic_name": "Pregabalin",
+    "manufacturer": "Pfizer",
+    "dosage_form": "Capsule",
+    "strength": "75mg",
+    "pack_size": "14 capsules",
+    "mrp": 580,
+    "generic_alternatives": [
+      {
+        "brand_name": "Pregaba",
+        "manufacturer": "Getz Pharma",
+        "mrp": 260
+      },
+      {
+        "brand_name": "Nervigesic",
+        "manufacturer": "Hilton Pharma",
+        "mrp": 235
+      }
+    ]
+  },
+  {
+    "brand_name": "Diovan",
+    "generic_name": "Valsartan",
+    "manufacturer": "Novartis",
+    "dosage_form": "Tablet",
+    "strength": "80mg",
+    "pack_size": "14 tablets",
+    "mrp": 410,
+    "generic_alternatives": [
+      {
+        "brand_name": "Valsar",
+        "manufacturer": "Getz Pharma",
+        "mrp": 185
+      },
+      {
+        "brand_name": "Valsagen",
+        "manufacturer": "Sami Pharma",
+        "mrp": 165
+      }
+    ]
+  },
+  {
+    "brand_name": "Lasix",
+    "generic_name": "Furosemide",
+    "manufacturer": "Sanofi",
+    "dosage_form": "Tablet",
+    "strength": "40mg",
+    "pack_size": "20 tablets",
+    "mrp": 120,
+    "generic_alternatives": [
+      {
+        "brand_name": "Frusamide",
+        "manufacturer": "Searle",
+        "mrp": 50
+      },
+      {
+        "brand_name": "Furetic",
+        "manufacturer": "Sami Pharma",
+        "mrp": 45
+      }
+    ]
+  },
+  {
+    "brand_name": "Aldactone",
+    "generic_name": "Spironolactone",
+    "manufacturer": "Pfizer",
+    "dosage_form": "Tablet",
+    "strength": "25mg",
+    "pack_size": "20 tablets",
+    "mrp": 210,
+    "generic_alternatives": [
+      {
+        "brand_name": "Spiron",
+        "manufacturer": "Getz Pharma",
+        "mrp": 95
+      },
+      {
+        "brand_name": "Spilac",
+        "manufacturer": "Searle",
+        "mrp": 85
+      }
+    ]
+  },
+  {
+    "brand_name": "Warfarin",
+    "generic_name": "Warfarin",
+    "manufacturer": "Various",
+    "dosage_form": "Tablet",
+    "strength": "5mg",
+    "pack_size": "30 tablets",
+    "mrp": 180,
+    "generic_alternatives": [
+      {
+        "brand_name": "Marivan",
+        "manufacturer": "Sami Pharma",
+        "mrp": 80
+      },
+      {
+        "brand_name": "Warin",
+        "manufacturer": "Getz Pharma",
+        "mrp": 90
+      }
+    ]
+  },
+  {
+    "brand_name": "ORS (WHO Formula)",
+    "generic_name": "Oral Rehydration Salts",
+    "manufacturer": "Various",
+    "dosage_form": "Sachet",
+    "strength": "Standard WHO formula",
+    "pack_size": "20 sachets",
+    "mrp": 120,
+    "generic_alternatives": [
+      {
+        "brand_name": "Pedialyte",
+        "manufacturer": "Abbott",
+        "mrp": 85
+      },
+      {
+        "brand_name": "Hydralyte",
+        "manufacturer": "Searle",
+        "mrp": 75
+      }
+    ]
+  },
+  {
+    "brand_name": "Zinc Sulfate",
+    "generic_name": "Zinc Sulfate",
+    "manufacturer": "Various",
+    "dosage_form": "Syrup",
+    "strength": "20mg/5ml",
+    "pack_size": "60ml",
+    "mrp": 95,
+    "generic_alternatives": [
+      {
+        "brand_name": "Zincat",
+        "manufacturer": "Searle",
+        "mrp": 65
+      },
+      {
+        "brand_name": "Zincovit",
+        "manufacturer": "Sami Pharma",
+        "mrp": 55
+      }
+    ]
+  },
+  {
+    "brand_name": "Flixonase",
+    "generic_name": "Fluticasone Propionate",
+    "manufacturer": "GlaxoSmithKline",
+    "dosage_form": "Nasal Spray",
+    "strength": "50mcg/spray",
+    "pack_size": "120 doses",
+    "mrp": 690,
+    "generic_alternatives": [
+      {
+        "brand_name": "Fluticort",
+        "manufacturer": "Getz Pharma",
+        "mrp": 320
+      },
+      {
+        "brand_name": "Flutinase",
+        "manufacturer": "Searle",
+        "mrp": 290
+      }
+    ]
+  },
+  {
+    "brand_name": "Gaviscon",
+    "generic_name": "Sodium Alginate/Sodium Bicarbonate",
+    "manufacturer": "Reckitt Benckiser",
+    "dosage_form": "Suspension",
+    "strength": "Various",
+    "pack_size": "150ml",
+    "mrp": 480,
+    "generic_alternatives": [
+      {
+        "brand_name": "Alginate Plus",
+        "manufacturer": "Searle",
+        "mrp": 220
+      },
+      {
+        "brand_name": "Refluxil",
+        "manufacturer": "Sami Pharma",
+        "mrp": 195
+      }
+    ]
+  },
+  {
+    "brand_name": "Jardiance",
+    "generic_name": "Empagliflozin",
+    "manufacturer": "Boehringer Ingelheim",
+    "dosage_form": "Tablet",
+    "strength": "10mg",
+    "pack_size": "14 tablets",
+    "mrp": 1850,
+    "generic_alternatives": [
+      {
+        "brand_name": "Empaglu",
+        "manufacturer": "Getz Pharma",
+        "mrp": 850
+      },
+      {
+        "brand_name": "Empawin",
+        "manufacturer": "Searle",
+        "mrp": 790
+      }
+    ]
+  },
+  {
+    "brand_name": "Galvus",
+    "generic_name": "Vildagliptin",
+    "manufacturer": "Novartis",
+    "dosage_form": "Tablet",
+    "strength": "50mg",
+    "pack_size": "14 tablets",
+    "mrp": 720,
+    "generic_alternatives": [
+      {
+        "brand_name": "Vildamet",
+        "manufacturer": "Getz Pharma",
+        "mrp": 340
+      },
+      {
+        "brand_name": "Vildex",
+        "manufacturer": "Searle",
+        "mrp": 310
+      }
+    ]
+  },
+  {
+    "brand_name": "Atarax",
+    "generic_name": "Hydroxyzine",
+    "manufacturer": "UCB",
+    "dosage_form": "Tablet",
+    "strength": "25mg",
+    "pack_size": "20 tablets",
+    "mrp": 210,
+    "generic_alternatives": [
+      {
+        "brand_name": "Hydrax",
+        "manufacturer": "Searle",
+        "mrp": 95
+      },
+      {
+        "brand_name": "Hyzine",
+        "manufacturer": "Sami Pharma",
+        "mrp": 85
+      }
+    ]
+  },
+  {
+    "brand_name": "Erythrocin",
+    "generic_name": "Erythromycin",
+    "manufacturer": "Abbott",
+    "dosage_form": "Tablet",
+    "strength": "250mg",
+    "pack_size": "12 tablets",
+    "mrp": 280,
+    "generic_alternatives": [
+      {
+        "brand_name": "Erythro",
+        "manufacturer": "Searle",
+        "mrp": 125
+      },
+      {
+        "brand_name": "Erymycin",
+        "manufacturer": "Sami Pharma",
+        "mrp": 110
+      }
+    ]
+  },
+  {
+    "brand_name": "Keflor",
+    "generic_name": "Cephalexin",
+    "manufacturer": "Lilly",
+    "dosage_form": "Capsule",
+    "strength": "500mg",
+    "pack_size": "12 capsules",
+    "mrp": 480,
+    "generic_alternatives": [
+      {
+        "brand_name": "Cephlex",
+        "manufacturer": "Getz Pharma",
+        "mrp": 220
+      },
+      {
+        "brand_name": "Alexin",
+        "manufacturer": "Searle",
+        "mrp": 200
+      }
+    ]
+  },
+  {
+    "brand_name": "Mucaine",
+    "generic_name": "Aluminium Hydroxide/Magnesium Hydroxide/Oxethazaine",
+    "manufacturer": "Pfizer",
+    "dosage_form": "Suspension",
+    "strength": "Various",
+    "pack_size": "120ml",
+    "mrp": 260,
+    "generic_alternatives": [
+      {
+        "brand_name": "Antacil Plus",
+        "manufacturer": "Searle",
+        "mrp": 120
+      },
+      {
+        "brand_name": "Mucogel",
+        "manufacturer": "Sami Pharma",
+        "mrp": 105
+      }
+    ]
+  },
+  {
+    "brand_name": "Augmentin 625mg",
+    "generic_name": "Amoxicillin + Clavulanate",
+    "brand_price": 850,
+    "generic_alternatives": [
+      {
+        "name": "Clamoxin (Getz)",
+        "price": 420
+      },
+      {
+        "name": "Amoclav (Searle)",
+        "price": 380
+      },
+      {
+        "name": "Clavam (Sami)",
+        "price": 350
+      }
+    ]
+  },
+  {
+    "brand_name": "Klaricid 500mg",
+    "generic_name": "Clarithromycin",
+    "brand_price": 780,
+    "generic_alternatives": [
+      {
+        "name": "Claribid (Getz)",
+        "price": 380
+      },
+      {
+        "name": "Klacid (Searle)",
+        "price": 350
+      }
+    ]
+  },
+  {
+    "brand_name": "Tavanic 500mg",
+    "generic_name": "Levofloxacin",
+    "brand_price": 650,
+    "generic_alternatives": [
+      {
+        "name": "Levoget (Getz)",
+        "price": 320
+      },
+      {
+        "name": "Levoquin (Sami)",
+        "price": 280
+      }
+    ]
+  },
+  {
+    "brand_name": "Avelox 400mg",
+    "generic_name": "Moxifloxacin",
+    "brand_price": 780,
+    "generic_alternatives": [
+      {
+        "name": "Moxiget (Getz)",
+        "price": 380
+      },
+      {
+        "name": "Moxibact (Hilton)",
+        "price": 350
+      }
+    ]
+  },
+  {
+    "brand_name": "Zinnat 500mg",
+    "generic_name": "Cefuroxime",
+    "brand_price": 720,
+    "generic_alternatives": [
+      {
+        "name": "Cefuget (Getz)",
+        "price": 350
+      },
+      {
+        "name": "Curasef (Searle)",
+        "price": 320
+      }
+    ]
+  },
+  {
+    "brand_name": "Dalacin C 300mg",
+    "generic_name": "Clindamycin",
+    "brand_price": 680,
+    "generic_alternatives": [
+      {
+        "name": "Clindamax (Getz)",
+        "price": 320
+      },
+      {
+        "name": "Clindasol (Sami)",
+        "price": 280
+      }
+    ]
+  },
+  {
+    "brand_name": "Suprax 400mg",
+    "generic_name": "Cefixime",
+    "brand_price": 520,
+    "generic_alternatives": [
+      {
+        "name": "Cespan (Abbott)",
+        "price": 480
+      },
+      {
+        "name": "Mega-Cef (Mega)",
+        "price": 280
+      }
+    ]
+  },
+  {
+    "brand_name": "Meronem 1g Inj",
+    "generic_name": "Meropenem",
+    "brand_price": 4500,
+    "generic_alternatives": [
+      {
+        "name": "Meroget (Getz)",
+        "price": 2200
+      },
+      {
+        "name": "Merosam (Sami)",
+        "price": 1800
+      }
+    ]
+  },
+  {
+    "brand_name": "Norvasc 5mg",
+    "generic_name": "Amlodipine",
+    "brand_price": 280,
+    "generic_alternatives": [
+      {
+        "name": "Amlor (Searle)",
+        "price": 120
+      },
+      {
+        "name": "Amlovas (Getz)",
+        "price": 110
+      }
+    ]
+  },
+  {
+    "brand_name": "Lipitor 20mg",
+    "generic_name": "Atorvastatin",
+    "brand_price": 580,
+    "generic_alternatives": [
+      {
+        "name": "Atorget (Getz)",
+        "price": 280
+      },
+      {
+        "name": "Atorsave (Searle)",
+        "price": 250
+      }
+    ]
+  },
+  {
+    "brand_name": "Crestor 10mg",
+    "generic_name": "Rosuvastatin",
+    "brand_price": 650,
+    "generic_alternatives": [
+      {
+        "name": "Rosuget (Getz)",
+        "price": 320
+      },
+      {
+        "name": "Rosulip (Searle)",
+        "price": 280
+      }
+    ]
+  },
+  {
+    "brand_name": "Plavix 75mg",
+    "generic_name": "Clopidogrel",
+    "brand_price": 780,
+    "generic_alternatives": [
+      {
+        "name": "Clopiget (Getz)",
+        "price": 350
+      },
+      {
+        "name": "Plagrel (Sami)",
+        "price": 280
+      }
+    ]
+  },
+  {
+    "brand_name": "Concor 5mg",
+    "generic_name": "Bisoprolol",
+    "brand_price": 420,
+    "generic_alternatives": [
+      {
+        "name": "Bisoget (Getz)",
+        "price": 200
+      },
+      {
+        "name": "Bisopak (Hilton)",
+        "price": 180
+      }
+    ]
+  },
+  {
+    "brand_name": "Tritace 5mg",
+    "generic_name": "Ramipril",
+    "brand_price": 350,
+    "generic_alternatives": [
+      {
+        "name": "Ramiget (Getz)",
+        "price": 180
+      },
+      {
+        "name": "Ramistar (Searle)",
+        "price": 160
+      }
+    ]
+  },
+  {
+    "brand_name": "Cozaar 50mg",
+    "generic_name": "Losartan",
+    "brand_price": 380,
+    "generic_alternatives": [
+      {
+        "name": "Losar (Searle)",
+        "price": 180
+      },
+      {
+        "name": "Losarget (Getz)",
+        "price": 160
+      }
+    ]
+  },
+  {
+    "brand_name": "Micardis 40mg",
+    "generic_name": "Telmisartan",
+    "brand_price": 420,
+    "generic_alternatives": [
+      {
+        "name": "Telmiget (Getz)",
+        "price": 200
+      },
+      {
+        "name": "Telsartan (Searle)",
+        "price": 180
+      }
+    ]
+  },
+  {
+    "brand_name": "Xarelto 20mg",
+    "generic_name": "Rivaroxaban",
+    "brand_price": 4500,
+    "generic_alternatives": [
+      {
+        "name": "Rivaxa (Getz)",
+        "price": 2200
+      },
+      {
+        "name": "Rivaban (Searle)",
+        "price": 1800
+      }
+    ]
+  },
+  {
+    "brand_name": "Glucophage 500mg",
+    "generic_name": "Metformin",
+    "brand_price": 120,
+    "generic_alternatives": [
+      {
+        "name": "Gluco-M (Searle)",
+        "price": 80
+      },
+      {
+        "name": "Metget (Getz)",
+        "price": 70
+      }
+    ]
+  },
+  {
+    "brand_name": "Amaryl 2mg",
+    "generic_name": "Glimepiride",
+    "brand_price": 280,
+    "generic_alternatives": [
+      {
+        "name": "Glimeget (Getz)",
+        "price": 140
+      },
+      {
+        "name": "Glimstar (Searle)",
+        "price": 120
+      }
+    ]
+  },
+  {
+    "brand_name": "Januvia 100mg",
+    "generic_name": "Sitagliptin",
+    "brand_price": 1800,
+    "generic_alternatives": [
+      {
+        "name": "Sitaget (Getz)",
+        "price": 850
+      },
+      {
+        "name": "Sitabay (Hilton)",
+        "price": 780
+      }
+    ]
+  },
+  {
+    "brand_name": "Jardiance 25mg",
+    "generic_name": "Empagliflozin",
+    "brand_price": 2800,
+    "generic_alternatives": [
+      {
+        "name": "Empaglif (Getz)",
+        "price": 1400
+      }
+    ]
+  },
+  {
+    "brand_name": "Diamicron MR 60mg",
+    "generic_name": "Gliclazide",
+    "brand_price": 520,
+    "generic_alternatives": [
+      {
+        "name": "Gliclaget (Getz)",
+        "price": 250
+      },
+      {
+        "name": "Gliclaz (Searle)",
+        "price": 220
+      }
+    ]
+  },
+  {
+    "brand_name": "Nexium 40mg",
+    "generic_name": "Esomeprazole",
+    "brand_price": 580,
+    "generic_alternatives": [
+      {
+        "name": "Esoget (Getz)",
+        "price": 280
+      },
+      {
+        "name": "Esopak (Searle)",
+        "price": 250
+      }
+    ]
+  },
+  {
+    "brand_name": "Risek 20mg",
+    "generic_name": "Omeprazole",
+    "brand_price": 185,
+    "generic_alternatives": [
+      {
+        "name": "Osmopak-N (Platinum)",
+        "price": 120
+      },
+      {
+        "name": "Getzloc (Getz)",
+        "price": 130
+      }
+    ]
+  },
+  {
+    "brand_name": "Controloc 40mg",
+    "generic_name": "Pantoprazole",
+    "brand_price": 480,
+    "generic_alternatives": [
+      {
+        "name": "Panget (Getz)",
+        "price": 220
+      },
+      {
+        "name": "Panpak (Searle)",
+        "price": 200
+      }
+    ]
+  },
+  {
+    "brand_name": "Motilium 10mg",
+    "generic_name": "Domperidone",
+    "brand_price": 120,
+    "generic_alternatives": [
+      {
+        "name": "Don-A (Hilton)",
+        "price": 65
+      },
+      {
+        "name": "Domget (Getz)",
+        "price": 55
+      }
+    ]
+  },
+  {
+    "brand_name": "Seretide 250/50",
+    "generic_name": "Fluticasone + Salmeterol",
+    "brand_price": 2800,
+    "generic_alternatives": [
+      {
+        "name": "Flutisam (Getz)",
+        "price": 1400
+      }
+    ]
+  },
+  {
+    "brand_name": "Symbicort 160/4.5",
+    "generic_name": "Budesonide + Formoterol",
+    "brand_price": 2500,
+    "generic_alternatives": [
+      {
+        "name": "Budamate (Getz)",
+        "price": 1200
+      }
+    ]
+  },
+  {
+    "brand_name": "Singulair 10mg",
+    "generic_name": "Montelukast",
+    "brand_price": 650,
+    "generic_alternatives": [
+      {
+        "name": "Montiget (Getz)",
+        "price": 320
+      },
+      {
+        "name": "Montipak (Searle)",
+        "price": 280
+      }
+    ]
+  },
+  {
+    "brand_name": "Zyrtec 10mg",
+    "generic_name": "Cetirizine",
+    "brand_price": 120,
+    "generic_alternatives": [
+      {
+        "name": "Rigix (Sami)",
+        "price": 65
+      },
+      {
+        "name": "Cetiget (Getz)",
+        "price": 55
+      }
+    ]
+  },
+  {
+    "brand_name": "Telfast 120mg",
+    "generic_name": "Fexofenadine",
+    "brand_price": 320,
+    "generic_alternatives": [
+      {
+        "name": "Fexoget (Getz)",
+        "price": 160
+      },
+      {
+        "name": "Fexopak (Searle)",
+        "price": 140
+      }
+    ]
+  },
+  {
+    "brand_name": "Lexapro 10mg",
+    "generic_name": "Escitalopram",
+    "brand_price": 580,
+    "generic_alternatives": [
+      {
+        "name": "Esciget (Getz)",
+        "price": 280
+      },
+      {
+        "name": "Lexam (Searle)",
+        "price": 250
+      }
+    ]
+  },
+  {
+    "brand_name": "Zoloft 50mg",
+    "generic_name": "Sertraline",
+    "brand_price": 420,
+    "generic_alternatives": [
+      {
+        "name": "Serget (Getz)",
+        "price": 200
+      },
+      {
+        "name": "Sertrapak (Searle)",
+        "price": 180
+      }
+    ]
+  },
+  {
+    "brand_name": "Seroquel 25mg",
+    "generic_name": "Quetiapine",
+    "brand_price": 380,
+    "generic_alternatives": [
+      {
+        "name": "Quetiget (Getz)",
+        "price": 180
+      }
+    ]
+  },
+  {
+    "brand_name": "Lyrica 75mg",
+    "generic_name": "Pregabalin",
+    "brand_price": 650,
+    "generic_alternatives": [
+      {
+        "name": "Pregaget (Getz)",
+        "price": 320
+      },
+      {
+        "name": "Pregapak (Searle)",
+        "price": 280
+      }
+    ]
+  },
+  {
+    "brand_name": "Keppra 500mg",
+    "generic_name": "Levetiracetam",
+    "brand_price": 650,
+    "generic_alternatives": [
+      {
+        "name": "Leveget (Getz)",
+        "price": 320
+      },
+      {
+        "name": "Levepak (Searle)",
+        "price": 280
+      }
+    ]
+  },
+  {
+    "brand_name": "Lamictal 100mg",
+    "generic_name": "Lamotrigine",
+    "brand_price": 550,
+    "generic_alternatives": [
+      {
+        "name": "Lamoget (Getz)",
+        "price": 280
+      }
+    ]
+  },
+  {
+    "brand_name": "Brufen 400mg",
+    "generic_name": "Ibuprofen",
+    "brand_price": 95,
+    "generic_alternatives": [
+      {
+        "name": "Ibucap (AGP)",
+        "price": 55
+      },
+      {
+        "name": "Ibuget (Getz)",
+        "price": 45
+      }
+    ]
+  },
+  {
+    "brand_name": "Ponstan 500mg",
+    "generic_name": "Mefenamic Acid",
+    "brand_price": 175,
+    "generic_alternatives": [
+      {
+        "name": "Mefget (Getz)",
+        "price": 85
+      },
+      {
+        "name": "Mefpak (Searle)",
+        "price": 75
+      }
+    ]
+  },
+  {
+    "brand_name": "Cataflam 50mg",
+    "generic_name": "Diclofenac",
+    "brand_price": 145,
+    "generic_alternatives": [
+      {
+        "name": "Arsal (Platinum)",
+        "price": 55
+      },
+      {
+        "name": "Dicloget (Getz)",
+        "price": 65
+      }
+    ]
+  },
+  {
+    "brand_name": "Celebrex 200mg",
+    "generic_name": "Celecoxib",
+    "brand_price": 580,
+    "generic_alternatives": [
+      {
+        "name": "Celeget (Getz)",
+        "price": 280
+      },
+      {
+        "name": "Celepak (Searle)",
+        "price": 250
+      }
+    ]
+  },
+  {
+    "brand_name": "Eltroxin 50mcg",
+    "generic_name": "Levothyroxine",
+    "brand_price": 180,
+    "generic_alternatives": [
+      {
+        "name": "Thyroget (Getz)",
+        "price": 90
+      },
+      {
+        "name": "Thyrox (Searle)",
+        "price": 80
+      }
+    ]
+  },
+  {
+    "brand_name": "Dermovate Cream",
+    "generic_name": "Clobetasol",
+    "brand_price": 280,
+    "generic_alternatives": [
+      {
+        "name": "Clobet (Searle)",
+        "price": 120
+      }
+    ]
+  },
+  {
+    "brand_name": "Fucidin Cream",
+    "generic_name": "Fusidic Acid",
+    "brand_price": 380,
+    "generic_alternatives": [
+      {
+        "name": "Fusiget (Getz)",
+        "price": 180
+      }
+    ]
+  },
+  {
+    "brand_name": "Viagra 50mg",
+    "generic_name": "Sildenafil",
+    "brand_price": 950,
+    "generic_alternatives": [
+      {
+        "name": "Silget (Getz)",
+        "price": 350
+      },
+      {
+        "name": "Vigore (Searle)",
+        "price": 280
+      }
+    ]
+  },
+  {
+    "brand_name": "Zyloric 300mg",
+    "generic_name": "Allopurinol",
+    "brand_price": 120,
+    "generic_alternatives": [
+      {
+        "name": "Alloget (Getz)",
+        "price": 60
+      }
+    ]
+  },
+  {
+    "brand_name": "Fosamax 70mg",
+    "generic_name": "Alendronate",
+    "brand_price": 850,
+    "generic_alternatives": [
+      {
+        "name": "Aleget (Getz)",
+        "price": 420
+      }
+    ]
+  },
+  {
+    "brand_name": "Plaquenil 200mg",
+    "generic_name": "Hydroxychloroquine",
+    "brand_price": 350,
+    "generic_alternatives": [
+      {
+        "name": "HCQ (Searle)",
+        "price": 150
+      }
+    ]
+  },
+  {
+    "brand_name": "Tamiflu 75mg",
+    "generic_name": "Oseltamivir",
+    "brand_price": 1200,
+    "generic_alternatives": [
+      {
+        "name": "Oseltaget (Getz)",
+        "price": 580
+      }
+    ]
+  },
+  {
+    "brand_name": "Diflucan 150mg",
+    "generic_name": "Fluconazole",
+    "brand_price": 380,
+    "generic_alternatives": [
+      {
+        "name": "Flucoget (Getz)",
+        "price": 120
+      },
+      {
+        "name": "Flucopak (Searle)",
+        "price": 100
+      }
+    ]
+  }
+]

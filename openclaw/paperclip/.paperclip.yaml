@@ -1,0 +1,65 @@
+# DawaaGuard — Paperclip runtime configuration
+# Adapter and heartbeat settings are applied after company import via Paperclip API/dashboard.
+#
+# Cron job ids are referenced by name (nizam-patrol, talash-hunt, ...) rather than
+# by generated UUID, so this file stays valid across environments.
+
+runtime:
+  adapter_defaults:
+    type: process
+    # Repository root. Set DAWAACHECK_ROOT in the environment; a hardcoded
+    # absolute path breaks the moment anyone else clones this.
+    cwd: "${DAWAACHECK_ROOT}"
+    timeoutSec: 300
+    graceSec: 15
+
+  agents:
+    nizam:
+      adapter:
+        command: openclaw
+        args: ["cron", "run", "nizam-patrol"]
+      heartbeat:
+        intervalSec: 21600  # 6 hours
+        mode: proactive
+        wakeOnOnDemand: true
+    talash:
+      adapter:
+        command: openclaw
+        args: ["cron", "run", "talash-hunt"]
+      heartbeat:
+        intervalSec: 43200  # 12 hours
+        mode: proactive
+        wakeOnOnDemand: true
+    jaanch:
+      adapter:
+        command: openclaw
+        args: ["agent", "--agent", "jaanch", "--message", "Run E2E tests on DawaaCheck"]
+      heartbeat:
+        enabled: false  # on-demand only
+        wakeOnOnDemand: true
+    nigran:
+      adapter:
+        command: openclaw
+        args: ["cron", "run", "nigran-health"]
+      heartbeat:
+        intervalSec: 10800  # 3 hours
+        mode: proactive
+        wakeOnOnDemand: true
+        wakeOnAutomation: true  # health probe crash trigger
+    muhafiz:
+      adapter:
+        command: openclaw
+        args: ["cron", "run", "muhafiz-audit"]
+      heartbeat:
+        intervalSec: 86400  # 24 hours (daily at 10 PM PKT via routine)
+        mode: proactive
+        wakeOnOnDemand: true
+
+  budget:
+    monthly_limit_cents: 3000  # $30/month ≈ $1/day
+
+notes: |
+  After import, configure each agent's adapter and heartbeat in the Paperclip
+  dashboard or via API. This file documents the intended runtime config.
+  Budget is global — $1.00/day cap across all 5 agents.
+  All times are PKT (UTC+5) — Paperclip uses system clock.

@@ -1,0 +1,164 @@
+{
+  "conditions": {
+    "Hypertension": {
+      "first_line": ["Amlodipine", "Lisinopril", "Losartan", "Hydrochlorothiazide"],
+      "second_line": ["Metoprolol", "Atenolol", "Valsartan", "Telmisartan", "Ramipril"],
+      "lifestyle": "Low salt diet, regular exercise, weight management, stress reduction",
+      "monitoring": "Blood pressure at each visit, renal function annually, electrolytes"
+    },
+    "Type 2 Diabetes": {
+      "first_line": ["Metformin"],
+      "second_line": ["Glimepiride", "Gliclazide", "Sitagliptin", "Empagliflozin", "Dapagliflozin"],
+      "third_line": ["Insulin Glargine", "Semaglutide", "Liraglutide", "Pioglitazone"],
+      "lifestyle": "Calorie control, 150min/week exercise, weight loss 5-10%",
+      "monitoring": "HbA1c every 3 months, fasting glucose, renal function, lipids annually"
+    },
+    "Type 1 Diabetes": {
+      "first_line": ["Insulin Glargine", "Insulin Aspart", "Insulin Lispro"],
+      "monitoring": "Self-monitoring blood glucose 4-10 times/day, HbA1c every 3 months"
+    },
+    "Asthma": {
+      "reliever": ["Salbutamol (Ventolin)", "Ipratropium"],
+      "controller_mild": ["Budesonide", "Fluticasone", "Beclomethasone"],
+      "controller_moderate": ["Fluticasone + Salmeterol (Seretide)", "Budesonide + Formoterol (Symbicort)"],
+      "add_on": ["Montelukast", "Tiotropium", "Theophylline"],
+      "monitoring": "Peak flow, FEV1, asthma control test score"
+    },
+    "COPD": {
+      "first_line": ["Tiotropium (Spiriva)", "Salbutamol"],
+      "second_line": ["Fluticasone + Salmeterol", "Budesonide + Formoterol"],
+      "monitoring": "Spirometry annually, exacerbation frequency, CAT score"
+    },
+    "GERD / Acid Reflux": {
+      "first_line": ["Omeprazole", "Esomeprazole", "Pantoprazole"],
+      "second_line": ["Famotidine", "Sucralfate"],
+      "adjunctive": ["Domperidone", "Gaviscon"],
+      "lifestyle": "Avoid late meals, elevate head of bed, weight loss, avoid triggers"
+    },
+    "Peptic Ulcer (H. pylori)": {
+      "triple_therapy": ["Omeprazole + Amoxicillin + Clarithromycin (14 days)"],
+      "quadruple_therapy": ["Omeprazole + Bismuth + Metronidazole + Tetracycline"],
+      "monitoring": "Urea breath test 4 weeks after completing therapy"
+    },
+    "Depression (Major)": {
+      "first_line": ["Escitalopram", "Sertraline", "Fluoxetine"],
+      "second_line": ["Venlafaxine", "Duloxetine", "Mirtazapine", "Bupropion"],
+      "adjunctive": ["Aripiprazole", "Quetiapine (low dose)", "Lithium"],
+      "monitoring": "PHQ-9 score, suicidal ideation screening, weight, metabolic panel"
+    },
+    "Anxiety (GAD)": {
+      "first_line": ["Escitalopram", "Sertraline", "Venlafaxine"],
+      "short_term": ["Lorazepam", "Diazepam (max 2-4 weeks)"],
+      "non_pharmacological": "CBT is first-line. Medications as adjunct."
+    },
+    "Epilepsy": {
+      "focal_seizures": ["Carbamazepine", "Lamotrigine", "Levetiracetam"],
+      "generalized_seizures": ["Valproate", "Lamotrigine", "Levetiracetam"],
+      "absence_seizures": ["Valproate", "Ethosuximide"],
+      "monitoring": "Drug levels, liver function, CBC, seizure diary"
+    },
+    "Migraine": {
+      "acute": ["Sumatriptan", "Rizatriptan", "Ibuprofen", "Paracetamol"],
+      "prophylaxis": ["Propranolol", "Amitriptyline", "Topiramate", "Valproate"],
+      "monitoring": "Headache diary, frequency per month"
+    },
+    "Rheumatoid Arthritis": {
+      "first_line": ["Methotrexate"],
+      "second_line": ["Hydroxychloroquine", "Sulfasalazine", "Leflunomide"],
+      "biologics": ["Adalimumab", "Etanercept", "Rituximab"],
+      "monitoring": "DAS28 score, CBC, liver function, chest X-ray annually"
+    },
+    "Gout": {
+      "acute": ["Colchicine", "Indomethacin", "Prednisolone"],
+      "prophylaxis": ["Allopurinol", "Febuxostat"],
+      "target": "Serum urate <6mg/dL",
+      "monitoring": "Serum urate every 3 months until target, then 6-monthly"
+    },
+    "UTI (Uncomplicated)": {
+      "first_line": ["Nitrofurantoin (5 days)", "Fosfomycin (single dose)"],
+      "second_line": ["Trimethoprim (3 days)", "Ciprofloxacin (3 days)"],
+      "monitoring": "Symptom resolution. Culture if recurrent."
+    },
+    "Pneumonia (Community-acquired)": {
+      "mild_outpatient": ["Amoxicillin", "Azithromycin"],
+      "moderate": ["Amoxicillin + Clavulanate", "Levofloxacin"],
+      "severe": ["Ceftriaxone + Azithromycin"],
+      "monitoring": "Clinical response at 48-72 hours, chest X-ray at 6 weeks"
+    },
+    "Tuberculosis": {
+      "intensive_phase": ["Rifampicin + Isoniazid + Pyrazinamide + Ethambutol (2 months)"],
+      "continuation_phase": ["Rifampicin + Isoniazid (4 months)"],
+      "monitoring": "Sputum AFB at 2 and 5 months, liver function monthly"
+    },
+    "Malaria (P. falciparum)": {
+      "first_line": ["Artemether + Lumefantrine"],
+      "second_line": ["Quinine + Doxycycline"],
+      "severe": ["IV Artesunate"],
+      "monitoring": "Parasite clearance at 48-72 hours"
+    },
+    "Heart Failure": {
+      "first_line": ["ACE Inhibitor (Ramipril/Enalapril) + Beta Blocker (Carvedilol/Bisoprolol)"],
+      "add_on": ["Spironolactone", "Furosemide", "Digoxin"],
+      "newer": ["Sacubitril/Valsartan", "Dapagliflozin", "Empagliflozin"],
+      "monitoring": "BNP/NT-proBNP, ejection fraction, renal function, electrolytes"
+    },
+    "Atrial Fibrillation": {
+      "rate_control": ["Bisoprolol", "Diltiazem", "Digoxin"],
+      "rhythm_control": ["Amiodarone", "Flecainide"],
+      "anticoagulation": ["Rivaroxaban", "Apixaban", "Warfarin"],
+      "monitoring": "CHA2DS2-VASc score, INR (if warfarin), renal function"
+    },
+    "DVT / PE": {
+      "acute": ["Enoxaparin", "Rivaroxaban", "Apixaban"],
+      "long_term": ["Warfarin", "Rivaroxaban"],
+      "monitoring": "INR (warfarin), anti-Xa levels (LMWH), renal function"
+    },
+    "Hypothyroidism": {
+      "treatment": ["Levothyroxine"],
+      "monitoring": "TSH at 6-8 weeks after dose change, then 6-12 monthly",
+      "notes": "Take on empty stomach, 30-60 min before breakfast"
+    },
+    "Hyperthyroidism": {
+      "treatment": ["Carbimazole", "Propylthiouracil", "Propranolol (symptomatic)"],
+      "monitoring": "TFTs every 4-6 weeks initially, then 3-monthly"
+    },
+    "Osteoporosis": {
+      "first_line": ["Alendronate", "Risedronate"],
+      "second_line": ["Denosumab", "Teriparatide"],
+      "adjunctive": ["Calcium + Vitamin D"],
+      "monitoring": "DEXA scan every 2 years, calcium, vitamin D levels"
+    },
+    "Iron Deficiency Anemia": {
+      "treatment": ["Ferrous Sulfate", "Ferrous Fumarate", "Iron Infusion (IV)"],
+      "monitoring": "CBC, ferritin, iron studies at 4 and 12 weeks"
+    },
+    "Allergic Rhinitis": {
+      "first_line": ["Cetirizine", "Loratadine", "Fexofenadine"],
+      "nasal": ["Fluticasone nasal spray", "Mometasone nasal spray"],
+      "monitoring": "Symptom control, quality of life assessment"
+    },
+    "Eczema / Atopic Dermatitis": {
+      "mild": ["Emollients", "Hydrocortisone 1% cream"],
+      "moderate": ["Betamethasone cream", "Mometasone cream"],
+      "severe": ["Clobetasol cream", "Tacrolimus ointment"],
+      "monitoring": "SCORAD index, skin infection signs"
+    },
+    "Acne Vulgaris": {
+      "mild": ["Benzoyl Peroxide", "Adapalene", "Clindamycin topical"],
+      "moderate": ["Doxycycline (oral)", "Azithromycin (pulse)"],
+      "severe": ["Isotretinoin"],
+      "monitoring": "Liver function, lipids, pregnancy test (isotretinoin)"
+    },
+    "Chronic Kidney Disease": {
+      "management": ["ACE Inhibitor/ARB", "Dapagliflozin/Empagliflozin"],
+      "complications": ["Calcium + Vitamin D", "Erythropoietin", "Sodium bicarbonate"],
+      "avoid": "NSAIDs, excessive potassium, nephrotoxic drugs",
+      "monitoring": "eGFR, urine ACR, electrolytes, phosphate, PTH"
+    },
+    "BPH (Benign Prostatic Hyperplasia)": {
+      "first_line": ["Tamsulosin", "Alfuzosin"],
+      "combination": ["Tamsulosin + Finasteride"],
+      "monitoring": "IPSS score, PSA, uroflowmetry"
+    }
+  }
+}

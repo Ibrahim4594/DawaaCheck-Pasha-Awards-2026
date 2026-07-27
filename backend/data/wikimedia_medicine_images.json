@@ -1,0 +1,3288 @@
+[
+  {
+    "drug_name": "Paracetamol",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Paracetamol-skeletal.svg/500px-Paracetamol-skeletal.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 432,
+    "height": 232
+  },
+  {
+    "drug_name": "Paracetamol",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Axelrod.jpg",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 5754,
+    "height": 4610
+  },
+  {
+    "drug_name": "Paracetamol",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Brown_tree_snake_aerial_bait_cartridges.jpg",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 3264,
+    "height": 2448
+  },
+  {
+    "drug_name": "Paracetamol",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Celanese_method_for_the_preparation_of_paracetamol.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 2338,
+    "height": 740
+  },
+  {
+    "drug_name": "Paracetamol",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=bf001b70-6164-1ec9-e053-2a95a90a1274&name=AC+Fast+Back.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Paracetamol",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=bf001b70-6164-1ec9-e053-2a95a90a1274&name=AC+Fast+Front.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Paracetamol",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=bf001b70-6164-1ec9-e053-2a95a90a1274&name=bf001794-f7a1-6ad0-e053-2995a90a4e8f.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Amoxicillin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Amoxicillin-from-xtal-3D-bs-17.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 3000,
+    "height": 2119
+  },
+  {
+    "drug_name": "Amoxicillin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Amoxicillin.JPG",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 998,
+    "height": 772
+  },
+  {
+    "drug_name": "Amoxicillin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Amoxicillin_rash_11_hours_after_17th_dose.JPG",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 740,
+    "height": 1051
+  },
+  {
+    "drug_name": "Amoxicillin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=30446852-9a54-4d16-ba12-56ffd0149985&name=amoxiclav-fig1.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Amoxicillin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=30446852-9a54-4d16-ba12-56ffd0149985&name=amoxiclav-str1.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Amoxicillin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=30446852-9a54-4d16-ba12-56ffd0149985&name=amoxiclav-str2.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Ibuprofen",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Ibuprofen-3D-balls.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1100,
+    "height": 598
+  },
+  {
+    "drug_name": "Ibuprofen",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/%28S%29-ibuprofen-3D-balls.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1100,
+    "height": 546
+  },
+  {
+    "drug_name": "Ibuprofen",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/200mg_ibuprofen_tablets.jpg",
+    "image_type": "pill",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 3659,
+    "height": 1016
+  },
+  {
+    "drug_name": "Ibuprofen",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Boots_synthesis_of_ibuprofen.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 5436,
+    "height": 1898
+  },
+  {
+    "drug_name": "Ibuprofen",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=215e2275-2968-419c-9a89-8dbb3b4f4d2e&name=cvs-childrens-ibuprofen-chewables-grape-carton-image.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Ibuprofen",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=e28d0916-8165-431c-a19c-ef7d4bb6b8e6&name=cvs-health-infants-ibuprofen-carton-image.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Ibuprofen",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=ef204cc0-4009-4dd0-83e2-2b5ad6f98409&name=cvs-health-childrens-ibuprofen-berry-carton-image.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Metronidazole",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Metronidazole.svg/960px-Metronidazole.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 512,
+    "height": 477
+  },
+  {
+    "drug_name": "Metronidazole",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Metronidazole_3D_1w3r.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1037,
+    "height": 1000
+  },
+  {
+    "drug_name": "Metronidazole",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Metronidazole_Aurobindo_tube.jpg",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 3908,
+    "height": 1906
+  },
+  {
+    "drug_name": "Metronidazole",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Synthesis_of_metronidazole.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 4601,
+    "height": 1951
+  },
+  {
+    "drug_name": "Metronidazole",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=43ed872b-63ac-4a22-9c9e-cc0e05bcc41e&name=45gcarton.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Metronidazole",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=43ed872b-63ac-4a22-9c9e-cc0e05bcc41e&name=45gtubelabel.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Metronidazole",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=43ed872b-63ac-4a22-9c9e-cc0e05bcc41e&name=structure.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Mefenamic Acid",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Mefenamic_acid2DACS.svg/960px-Mefenamic_acid2DACS.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 726,
+    "height": 570
+  },
+  {
+    "drug_name": "Mefenamic Acid",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=d0291319-ab3e-20c8-e053-2a95a90afabb&name=mefe-acid-caps-1.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Mefenamic Acid",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=d0291319-ab3e-20c8-e053-2a95a90afabb&name=mefenamic.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Mefenamic Acid",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=d15733a9-d5fd-4d5f-86ce-e7ed8c706c7f&name=cdffe462-1f27-4cdd-b7f0-9ad1345f93a6-01.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Omeprazole",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Omeprazol_Activis_bottle.jpg",
+    "image_type": "package",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 2599,
+    "height": 3470
+  },
+  {
+    "drug_name": "Omeprazole",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Omeprazole_enantiomers_ball-and-stick_models_from_xtal_2015.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 59036,
+    "height": 14525
+  },
+  {
+    "drug_name": "Omeprazole",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/POTC_Label_Facts.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 3000,
+    "height": 3000
+  },
+  {
+    "drug_name": "Omeprazole",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=4c0cf466-f9e8-390e-e063-6294a90a2ed8&name=OMEPRAZOLE+60760-747-90.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Omeprazole",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=4c0cf466-f9e8-390e-e063-6294a90a2ed8&name=structure.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Omeprazole",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=603d2d06-c5e8-4378-a422-8dca1a410af7&name=DCarton.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Ciprofloxacin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Ciprofloxacin_skeletal_formula_from_xtal_2010.svg/1280px-Ciprofloxacin_skeletal_formula_from_xtal_2010.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1138,
+    "height": 684
+  },
+  {
+    "drug_name": "Ciprofloxacin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Cipro_250_mg.JPG",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 3648,
+    "height": 2432
+  },
+  {
+    "drug_name": "Ciprofloxacin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Ciprofloxacin_ball-and-stick_model_from_xtal_2010.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 24400,
+    "height": 15406
+  },
+  {
+    "drug_name": "Ciprofloxacin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=36d6c27d-45dc-3081-e063-6394a90a87e9&name=72189-627-10.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Ciprofloxacin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=36d6c27d-45dc-3081-e063-6394a90a87e9&name=72189-627-14.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Ciprofloxacin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=f67d727f-b9ca-aec0-e053-2995a90aab69&name=51655-086-84+-+Rev+A+02-23+NHC.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Cetirizine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Cetirizine_structure.svg/1920px-Cetirizine_structure.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1715,
+    "height": 900
+  },
+  {
+    "drug_name": "Cetirizine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Cetirizine-ball-and-stick.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 741,
+    "height": 455
+  },
+  {
+    "drug_name": "Cetirizine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Cetirizine10.JPG",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 3648,
+    "height": 2432
+  },
+  {
+    "drug_name": "Cetirizine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Cetirizine_synthesis.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 2494,
+    "height": 446
+  },
+  {
+    "drug_name": "Cetirizine",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=ffbca2a4-8df0-4c85-adf9-9414cd706fb2&name=cetirizine-allergy-fig1.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Cetirizine",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=ffbca2a4-8df0-4c85-adf9-9414cd706fb2&name=cetirizine-allergy-fig2.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Cetirizine",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=48d835d7-5c99-0bd6-e063-6394a90a61ba&name=Cetirizine+Hydrochloride.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Salbutamol",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/RS-salbutamol-from-xtal-3D-balls.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1100,
+    "height": 1191
+  },
+  {
+    "drug_name": "Salbutamol",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Ventolin_2mg.JPG",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 3648,
+    "height": 2432
+  },
+  {
+    "drug_name": "Salbutamol",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=e5f94675-f9cc-35f1-e053-2a95a90af1d9&name=AnyConv.com__caja.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Metformin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Metformin.svg/960px-Metformin.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 512,
+    "height": 287
+  },
+  {
+    "drug_name": "Metformin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Galega_officinalis1UME.jpg",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 960,
+    "height": 1280
+  },
+  {
+    "drug_name": "Metformin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Metformin-from-xtal-3D-balls.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1100,
+    "height": 1043
+  },
+  {
+    "drug_name": "Metformin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Metformin_500mg_Tablets.jpg",
+    "image_type": "pill",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1499,
+    "height": 1325
+  },
+  {
+    "drug_name": "Metformin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=1e8136e0-cc98-41e4-ad4b-a8fc27fb4daa&name=Metformin+HCl+850mg_70518-3084-03.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Metformin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=1e8136e0-cc98-41e4-ad4b-a8fc27fb4daa&name=Metformin+HCl+850mg_70518-3084-04.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Metformin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=1e8136e0-cc98-41e4-ad4b-a8fc27fb4daa&name=Metformin+HCl+850mg_70518-3084-06.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Aspirin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Acetylsalicylic_acid.jpg",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1521,
+    "height": 1384
+  },
+  {
+    "drug_name": "Aspirin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Acetylation_of_salicylic_acid%2C_mechanism.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 3056,
+    "height": 832
+  },
+  {
+    "drug_name": "Aspirin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Aspirin-B-3D-balls.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1100,
+    "height": 1057
+  },
+  {
+    "drug_name": "Aspirin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=48ea0a2c-511b-4805-e063-6394a90a1225&name=Extra+Strength+Acetaminophen+250+mg+Aspirin+250+mg+and+Caffeine+65+mg.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Aspirin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=bd11081f-c5d1-4c98-8f5a-4c45269df79b&name=cvs-chewable-aspirin-81-mg-cherry-carton-image.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Aspirin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=e130831a-ec50-467a-9e5c-ba6ebc7bef3c&name=cvs-migraine-relief-carton-image.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Esomeprazole",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Esomeprazole_ball-and-stick_model.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 2394,
+    "height": 1226
+  },
+  {
+    "drug_name": "Esomeprazole",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Esomeprazole_Strontium_49.3_mg_Delayed-Release_Capsules.jpg",
+    "image_type": "pill",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1332,
+    "height": 1212
+  },
+  {
+    "drug_name": "Esomeprazole",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Nexium_%28esomeprazole_magnesium%29_pills.JPG",
+    "image_type": "pill",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 932,
+    "height": 958
+  },
+  {
+    "drug_name": "Esomeprazole",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=034bcbad-f57f-4338-a193-7a5aa9f09aa6&name=esomeprazole-fig1.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Esomeprazole",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=034bcbad-f57f-4338-a193-7a5aa9f09aa6&name=esomeprazole-fig2.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Esomeprazole",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=27e7f7f0-7403-4425-8baa-d12ae9321364&name=Esomeprazolemagnesiumfigure1.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Amlodipine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amlodipine.svg/960px-Amlodipine.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 561,
+    "height": 326
+  },
+  {
+    "drug_name": "Amlodipine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Amlodipin_Sandoz_bottle.jpg",
+    "image_type": "package",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 2673,
+    "height": 3564
+  },
+  {
+    "drug_name": "Amlodipine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Amlodipine_ball-and-stick_model_from_xtal_2010.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 9305,
+    "height": 6602
+  },
+  {
+    "drug_name": "Amlodipine",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=47acdbff-b538-9edc-e063-6394a90a3e3b&name=84677-013-01OL+-+Amlodipine+and+Benazepril+10mg_40mg+-+rev+1225.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Amlodipine",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=47acdbff-b538-9edc-e063-6394a90a3e3b&name=amlo-bes-str.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Amlodipine",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=47acdbff-b538-9edc-e063-6394a90a3e3b&name=avet-logo-1.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Atorvastatin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Atorvastatin.svg/960px-Atorvastatin.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 512,
+    "height": 264
+  },
+  {
+    "drug_name": "Atorvastatin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Atorvastatin-from-xtal-3D-bs-17.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 3000,
+    "height": 1709
+  },
+  {
+    "drug_name": "Atorvastatin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Atorvastatin40mg.jpg",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 640,
+    "height": 420
+  },
+  {
+    "drug_name": "Atorvastatin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Atorvastatin_synthesis_stereocenter_commercial.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 2095,
+    "height": 442
+  },
+  {
+    "drug_name": "Atorvastatin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=9786388d-ac8d-4646-9fe4-b33e8fda86b2&name=Atorvastatin+Calcium+40mg_70518-3273-01.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Atorvastatin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=9786388d-ac8d-4646-9fe4-b33e8fda86b2&name=Atorvastatin+Calcium+40mg_70518-3273-04.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Atorvastatin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=9786388d-ac8d-4646-9fe4-b33e8fda86b2&name=Atorvastatin+Calcium+40mg_70518-3273-05.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Sertraline",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sertraline.svg/960px-Sertraline.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 512,
+    "height": 334
+  },
+  {
+    "drug_name": "Sertraline",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Sertraline-A-3D-balls.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1100,
+    "height": 684
+  },
+  {
+    "drug_name": "Sertraline",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=e46bc887-69e2-4037-be59-6513277d157b&name=f8a443ce-38d2-4184-ac36-7954fbae84d3-01.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Sertraline",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=e46bc887-69e2-4037-be59-6513277d157b&name=lbl500907614.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Sertraline",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=e46bc887-69e2-4037-be59-6513277d157b&name=logo-MG.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Rosuvastatin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Rosuvastatin-3D-balls.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1047,
+    "height": 593
+  },
+  {
+    "drug_name": "Rosuvastatin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Crestor_Tablets_%28rosuvastatin%29.jpg",
+    "image_type": "pill",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 2349,
+    "height": 2077
+  },
+  {
+    "drug_name": "Rosuvastatin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=be73cea2-f89a-e4c5-e053-2a95a90a9cce&name=68071-2379-2.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Rosuvastatin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=be73cea2-f89a-e4c5-e053-2a95a90a9cce&name=rosuvastatin-structure.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Rosuvastatin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=6f978191-775e-4745-9c07-99e5be888afe&name=rosuvastatin-tabs-10mg-90s-count.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Losartan",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Losartan_structure.svg/960px-Losartan_structure.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 512,
+    "height": 384
+  },
+  {
+    "drug_name": "Losartan",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Losartan-from-xtal-3D-bs-17.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 3000,
+    "height": 1734
+  },
+  {
+    "drug_name": "Losartan",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=6d677f9e-c0e4-4d6e-bea2-a58e986e4635&name=73c71ed3-figure-01.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Losartan",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=6d677f9e-c0e4-4d6e-bea2-a58e986e4635&name=73c71ed3-figure-02.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Losartan",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=6d677f9e-c0e4-4d6e-bea2-a58e986e4635&name=image-01.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Azithromycin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Azithromycin.svg/960px-Azithromycin.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 785,
+    "height": 685
+  },
+  {
+    "drug_name": "Azithromycin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Azithromycin_3d_structure.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1399,
+    "height": 1268
+  },
+  {
+    "drug_name": "Azithromycin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Sumamed_tablete_091208.jpg",
+    "image_type": "pill",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 640,
+    "height": 425
+  },
+  {
+    "drug_name": "Azithromycin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Zithromax_%28Azithromycin%29_tablets.jpg",
+    "image_type": "pill",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 2591,
+    "height": 2448
+  },
+  {
+    "drug_name": "Azithromycin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=405ab07f-7d1d-4552-ad3b-2a03be8e9949&name=lbl500906296.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Azithromycin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=405ab07f-7d1d-4552-ad3b-2a03be8e9949&name=structure-formula.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Azithromycin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=11446677-a3dc-40cb-897d-7a9851b8c89c&name=azithromycin-01.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Doxycycline",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Doxycycline_structure.svg/960px-Doxycycline_structure.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 512,
+    "height": 286
+  },
+  {
+    "drug_name": "Doxycycline",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Doksiciklin_100_091208.jpg",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 800,
+    "height": 978
+  },
+  {
+    "drug_name": "Doxycycline",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Doxycycline_100mg_capsules.jpg",
+    "image_type": "pill",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1020,
+    "height": 936
+  },
+  {
+    "drug_name": "Doxycycline",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Doxycycline_ball-and-stick_model_from_xtal_2012.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 11378,
+    "height": 6329
+  },
+  {
+    "drug_name": "Doxycycline",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=7028b7f9-21cd-4c8e-97aa-a3e7d849939b&name=72789496.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Doxycycline",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=7028b7f9-21cd-4c8e-97aa-a3e7d849939b&name=9d689079-6de1-4288-af1b-d9505c626c19-01.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Doxycycline",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=db53637e-16ac-41b0-b9d5-553471405d64&name=Doxycycline+Hyclate+100mg_70518-3039-00.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Montelukast",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Montelukast_3D_ball-and-stick.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1200,
+    "height": 916
+  },
+  {
+    "drug_name": "Montelukast",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=09b0bc9e-3035-45b4-b61b-4aca70848360&name=Figure1.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Montelukast",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=09b0bc9e-3035-45b4-b61b-4aca70848360&name=camberlogo.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Montelukast",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=09b0bc9e-3035-45b4-b61b-4aca70848360&name=figure2.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Pregabalin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Pregabalin_ball-and-stick_model.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 2153,
+    "height": 1134
+  },
+  {
+    "drug_name": "Pregabalin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Gabapentinoids.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 800,
+    "height": 688
+  },
+  {
+    "drug_name": "Pregabalin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Lyrica_150mg_box_in_Finland_20110618.jpg",
+    "image_type": "pill",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 3872,
+    "height": 2592
+  },
+  {
+    "drug_name": "Pregabalin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Lyrica_Swedish.jpg",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 4150,
+    "height": 3075
+  },
+  {
+    "drug_name": "Pregabalin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=4b94bfc1-88fc-2b5f-e063-6394a90a7077&name=PREGABALIN+60760-753-60.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Pregabalin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=4b94bfc1-88fc-2b5f-e063-6394a90a7077&name=pregabain-gault-equation.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Pregabalin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=4b94bfc1-88fc-2b5f-e063-6394a90a7077&name=pregabalin-figure-01.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Gabapentin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/GabapentinStructure.svg/960px-GabapentinStructure.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 512,
+    "height": 411
+  },
+  {
+    "drug_name": "Gabapentin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Gaba_and_gabapentin.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1466,
+    "height": 447
+  },
+  {
+    "drug_name": "Gabapentin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Gabapentin_Orion_bottle.jpg",
+    "image_type": "package",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 3162,
+    "height": 4216
+  },
+  {
+    "drug_name": "Gabapentin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Synthesis_of_gabapentin.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 2427,
+    "height": 608
+  },
+  {
+    "drug_name": "Gabapentin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=76f5eff8-698f-2753-e053-2991aa0ae7f9&name=51407-047-90+-+REV+08-22.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Gabapentin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=76f5eff8-698f-2753-e053-2991aa0ae7f9&name=51407-048-90+-+REV+08-22.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Gabapentin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=76f5eff8-698f-2753-e053-2991aa0ae7f9&name=51407-049-90+-+REV+08-22.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Pantoprazole",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Pantoprazole_3D.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 4640,
+    "height": 2899
+  },
+  {
+    "drug_name": "Pantoprazole",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/PantoIV.jpg",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 2577,
+    "height": 3013
+  },
+  {
+    "drug_name": "Pantoprazole",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Pantoprazole_20mg.jpg",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 840,
+    "height": 560
+  },
+  {
+    "drug_name": "Pantoprazole",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=6637d90b-b268-4a5f-ab5b-885f2d5f0d4b&name=pantoprazole-fig1.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Pantoprazole",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=6637d90b-b268-4a5f-ab5b-885f2d5f0d4b&name=pantoprazole-str.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Pantoprazole",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=c1f37929-a981-4ace-95e6-ae6795a797b3&name=72789268.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Escitalopram",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Escitalopram.svg/960px-Escitalopram.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 512,
+    "height": 366
+  },
+  {
+    "drug_name": "Escitalopram",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Cipralex.jpg",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1024,
+    "height": 768
+  },
+  {
+    "drug_name": "Escitalopram",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Escitalopram-based-on-xtal-3D-bs-17.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 2471,
+    "height": 2303
+  },
+  {
+    "drug_name": "Escitalopram",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=f4a12048-181e-45ed-a382-f53096d1b689&name=aa1ecae7-8a57-434f-a72b-088335b1a42c-00.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Escitalopram",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=f4a12048-181e-45ed-a382-f53096d1b689&name=aa1ecae7-8a57-434f-a72b-088335b1a42c-01.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Escitalopram",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=f4a12048-181e-45ed-a382-f53096d1b689&name=aa1ecae7-8a57-434f-a72b-088335b1a42c-02.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Diclofenac",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Diclofenac.svg/330px-Diclofenac.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 265,
+    "height": 204
+  },
+  {
+    "drug_name": "Diclofenac",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Diclofenac-from-xtal-3D-bs-17.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 2374,
+    "height": 2222
+  },
+  {
+    "drug_name": "Diclofenac",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Diclofenac_Topical_Gel.jpg",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1024,
+    "height": 442
+  },
+  {
+    "drug_name": "Diclofenac",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Diclofenac_sodium_100mg.jpg",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 682,
+    "height": 417
+  },
+  {
+    "drug_name": "Diclofenac",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=337c2253-34c1-4611-88c9-d558507255a2&name=diclofenac-sodium-dr-tablets-usp-structure.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Diclofenac",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=337c2253-34c1-4611-88c9-d558507255a2&name=lbl500907646.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Diclofenac",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=bd25a2b1-a4d5-4893-97d1-efdcd414a97d&name=100mg-bottle-label.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Tramadol",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Tramadol_as_a_racemic_mixture.svg/960px-Tramadol_as_a_racemic_mixture.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 606,
+    "height": 396
+  },
+  {
+    "drug_name": "Tramadol",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/%281R%2C2R%29-Tramadol_molecule_spacefill.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1880,
+    "height": 2000
+  },
+  {
+    "drug_name": "Tramadol",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/%281S%2C2S%29-Tramadol_molecule_ball.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1787,
+    "height": 2000
+  },
+  {
+    "drug_name": "Tramadol",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/50_mg_Tramadol_HCl_tablets_%28generic_Ultram%29_marketed_by_Amneal_Pharmaceuticals_%28rotated%29.jpg",
+    "image_type": "pill",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 811,
+    "height": 380
+  },
+  {
+    "drug_name": "Tramadol",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=24aea499-c6f1-9200-e063-6394a90a9db6&name=51407-007-01LB+REV.+02-25.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Tramadol",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=24aea499-c6f1-9200-e063-6394a90a9db6&name=tramadol-hcl-tablets-a075977-scored-1.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Tramadol",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=24aea499-c6f1-9200-e063-6394a90a9db6&name=tramadol-hcl-tablets-a075977-scored-2.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Metoprolol",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Metoprolol_ball-and-stick.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 3197,
+    "height": 1613
+  },
+  {
+    "drug_name": "Metoprolol",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=d92dc643-37b1-4d1e-8fc0-cfb27c3e2702&name=Metoprolol+Succinate+ER+Tabs+Labels+Rev+9-2025+100mg+100s.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Metoprolol",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=d92dc643-37b1-4d1e-8fc0-cfb27c3e2702&name=Metoprolol+Succinate+ER+Tabs+Labels+Rev+9-2025+100mg+500s.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Metoprolol",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=d92dc643-37b1-4d1e-8fc0-cfb27c3e2702&name=Metoprolol+Succinate+ER+Tabs+Labels+Rev+9-2025+200mg+100s.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Furosemide",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Furosemide.svg/960px-Furosemide.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 512,
+    "height": 262
+  },
+  {
+    "drug_name": "Furosemide",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Furosemide-1Z9Y-3D-balls.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1100,
+    "height": 930
+  },
+  {
+    "drug_name": "Furosemide",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Furosemide_for_veterinary_use.jpg",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1540,
+    "height": 1146
+  },
+  {
+    "drug_name": "Furosemide",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Lasix-box2016.jpg",
+    "image_type": "pill",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 3264,
+    "height": 2448
+  },
+  {
+    "drug_name": "Furosemide",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=f3173c0d-2b62-7c7b-e053-2995a90ada05&name=51655-481-52+-+Rev+B+06-21+NHC.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Furosemide",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=f3173c0d-2b62-7c7b-e053-2995a90ada05&name=image-03.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Furosemide",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=9e493331-dddd-496e-abf8-61747fb67aba&name=bl-40mgper5ml-500ml-10.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Warfarin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Warfarin.svg/960px-Warfarin.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 512,
+    "height": 378
+  },
+  {
+    "drug_name": "Warfarin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/INR_self_test.jpg",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 3015,
+    "height": 2643
+  },
+  {
+    "drug_name": "Warfarin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Vitamin_K1_warfarin_therapeutic_window.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 380,
+    "height": 271
+  },
+  {
+    "drug_name": "Warfarin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Warfarin_ball-and-stick_model_from_xtal_2002.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 7914,
+    "height": 5907
+  },
+  {
+    "drug_name": "Warfarin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=f32d3578-0c90-567c-e053-2a95a90a23b8&name=51655-620-52+-+Rev+A+01-23+NHC.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Warfarin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=f32d3578-0c90-567c-e053-2a95a90a23b8&name=image-1.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Warfarin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=f32dd451-3f7a-815b-e053-2995a90a528f&name=51655-629-52+-+Rev+A+03-23+NHC.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Clopidogrel",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Clopidogrel_skeletal_formula.svg/960px-Clopidogrel_skeletal_formula.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 512,
+    "height": 369
+  },
+  {
+    "drug_name": "Clopidogrel",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Clopidogrel_1.jpg",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1935,
+    "height": 1811
+  },
+  {
+    "drug_name": "Clopidogrel",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Clopidogrel_molecule_ball_from_xtal.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 2997,
+    "height": 3000
+  },
+  {
+    "drug_name": "Clopidogrel",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Plavix_2007-04-19.jpg",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 3648,
+    "height": 2736
+  },
+  {
+    "drug_name": "Clopidogrel",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=8406b8e3-e203-402f-8858-2748119e2351&name=clopidogrel-tabs-8625-1.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Clopidogrel",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=8406b8e3-e203-402f-8858-2748119e2351&name=clopidogrel-tabs-8625-10.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Clopidogrel",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=8406b8e3-e203-402f-8858-2748119e2351&name=clopidogrel-tabs-8625-11.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Levothyroxine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Levothyroxine-from-xtal-3D-bs-17.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 3000,
+    "height": 1439
+  },
+  {
+    "drug_name": "Levothyroxine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/007815180lg_Generic_Levothyroxine.jpg",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 840,
+    "height": 560
+  },
+  {
+    "drug_name": "Levothyroxine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Generic_Euthyrox.jpg",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 2530,
+    "height": 1380
+  },
+  {
+    "drug_name": "Levothyroxine",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=db9821db-3fe3-d1cf-e053-2a95a90a0252&name=51655-728-52+-+Rev+A+06-21+NHC.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Levothyroxine",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=db9821db-3fe3-d1cf-e053-2a95a90a0252&name=Levothyroxine+Molecule.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Levothyroxine",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=6f4998ac-0714-4f5d-8944-9e6902b9f0a6&name=72789297.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Prednisolone",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Prednisolone-2D-skeletal.svg/960px-Prednisolone-2D-skeletal.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 512,
+    "height": 413
+  },
+  {
+    "drug_name": "Prednisolone",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/001_2019_05_27_Augenpflege.jpg",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 2794,
+    "height": 1789
+  },
+  {
+    "drug_name": "Prednisolone",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Cataract_%2828464844371%29.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 993,
+    "height": 647
+  },
+  {
+    "drug_name": "Prednisolone",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Conjuntivitis_%28RPS_03-06-2015%29.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 2278,
+    "height": 1767
+  },
+  {
+    "drug_name": "Prednisolone",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=2d8c861d-3756-4b75-aaa9-1b82cf11eb94&name=prednisolone-sodium-phosphate-oral-solution-01.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Prednisolone",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=2d8c861d-3756-4b75-aaa9-1b82cf11eb94&name=prednisolone-sodium-phosphate-oral-solution-02.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Prednisolone",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=2d8c861d-3756-4b75-aaa9-1b82cf11eb94&name=prednisolone-sodium-phosphate-oral-solution-unit-dose-label.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Clarithromycin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Clarithromycin_structure.svg/960px-Clarithromycin_structure.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 620,
+    "height": 481
+  },
+  {
+    "drug_name": "Clarithromycin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Clarith-200.jpg",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1073,
+    "height": 2277
+  },
+  {
+    "drug_name": "Clarithromycin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Clarithromycin-from-xtal-3D-bs-17.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 2907,
+    "height": 2402
+  },
+  {
+    "drug_name": "Clarithromycin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=fad1e5a3-59f9-4868-9937-d3b061ab8f00&name=clarithro-fig3.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Clarithromycin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=fad1e5a3-59f9-4868-9937-d3b061ab8f00&name=clarithro01.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Clarithromycin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=fad1e5a3-59f9-4868-9937-d3b061ab8f00&name=lbl500900994.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Levofloxacin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Levofloxacin_skeletal_formula_from_xtal_2019.svg/1280px-Levofloxacin_skeletal_formula_from_xtal_2019.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1180,
+    "height": 644
+  },
+  {
+    "drug_name": "Levofloxacin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Levofloxacin.jpg",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1536,
+    "height": 2048
+  },
+  {
+    "drug_name": "Levofloxacin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Levofloxacin_ball-and-stick_model_from_xtal_2019.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 24529,
+    "height": 14429
+  },
+  {
+    "drug_name": "Levofloxacin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=2a4e97e0-0709-411b-92e8-6f7d669412e4&name=Levofloxacin+750mg_70518-0968-00.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Levofloxacin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=2a4e97e0-0709-411b-92e8-6f7d669412e4&name=Levofloxacin+750mg_70518-0968-03.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Levofloxacin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=2a4e97e0-0709-411b-92e8-6f7d669412e4&name=levofloxacinfigure1.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Loratadine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Loratadine.svg/960px-Loratadine.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 512,
+    "height": 501
+  },
+  {
+    "drug_name": "Loratadine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Loratadine10mg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 111,
+    "height": 111
+  },
+  {
+    "drug_name": "Loratadine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Loratadine_-_3d%2C_portrait_orientation.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 585,
+    "height": 827
+  },
+  {
+    "drug_name": "Loratadine",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=0038bc38-c205-4d8d-ab78-1abbcd76829e&name=cvs-allergy-relief-carton-image.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Loratadine",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=039f144b-891b-4ab0-e063-6394a90aa4c8&name=72789347.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Loratadine",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=3c5b2eaa-24da-3314-e063-6294a90a5b21&name=Principal+Display+Panel+10.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Bisoprolol",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Bisoprolol_ball-and-stick.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 3273,
+    "height": 1824
+  },
+  {
+    "drug_name": "Bisoprolol",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/000859lg_Zebeta_5_MG_Oral_Tablet.jpg",
+    "image_type": "pill",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 840,
+    "height": 600
+  },
+  {
+    "drug_name": "Bisoprolol",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=2db1a899-f115-4da5-89fe-6e5b41086f6c&name=bisoprolol-fig1.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Bisoprolol",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=2db1a899-f115-4da5-89fe-6e5b41086f6c&name=bisoprolol-fig2.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Bisoprolol",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=2db1a899-f115-4da5-89fe-6e5b41086f6c&name=bisoprolol-fig3.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Fluconazole",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Fluconazole_skeletal_formula.svg/960px-Fluconazole_skeletal_formula.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 512,
+    "height": 421
+  },
+  {
+    "drug_name": "Fluconazole",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Fluconazole_ball-and-stick_model.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1309,
+    "height": 1162
+  },
+  {
+    "drug_name": "Fluconazole",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=60f3e8af-d98f-48dd-83e6-a78315aaed22&name=fluconazole-fig1.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Fluconazole",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=60f3e8af-d98f-48dd-83e6-a78315aaed22&name=fluconazole-fig2.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Fluconazole",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=60f3e8af-d98f-48dd-83e6-a78315aaed22&name=fluconazole-str.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Lisinopril",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Lisinopril_structure.svg/960px-Lisinopril_structure.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 512,
+    "height": 432
+  },
+  {
+    "drug_name": "Lisinopril",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Lisinopril_zwitterion_3D_ball.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 2000,
+    "height": 1384
+  },
+  {
+    "drug_name": "Lisinopril",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=62e8c093-cd8e-4342-aadb-209c7e6699c8&name=image-01.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Lisinopril",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=62e8c093-cd8e-4342-aadb-209c7e6699c8&name=image-02.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Lisinopril",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=62e8c093-cd8e-4342-aadb-209c7e6699c8&name=lbl500906204.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Valsartan",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Valsartan_skeletal.svg/960px-Valsartan_skeletal.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 512,
+    "height": 375
+  },
+  {
+    "drug_name": "Valsartan",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Two_boxes_and_a_blister_pack_of_Co-Diovan_%28Valsartan_and_hydrochlorothiazide%29%2C_Singapore_-_20150210.jpg",
+    "image_type": "pill",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 3264,
+    "height": 2448
+  },
+  {
+    "drug_name": "Valsartan",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Valsartan-from-xtal-3D-bs-17.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 3000,
+    "height": 1766
+  },
+  {
+    "drug_name": "Valsartan",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=4f88efbb-3718-43a1-91d4-da5943ccfca1&name=0e853a5e-9eab-4bb6-803d-fd9b97e8b550-01.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Valsartan",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=4f88efbb-3718-43a1-91d4-da5943ccfca1&name=0e853a5e-9eab-4bb6-803d-fd9b97e8b550-02.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Valsartan",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=4f88efbb-3718-43a1-91d4-da5943ccfca1&name=0e853a5e-9eab-4bb6-803d-fd9b97e8b550-03.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Telmisartan",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Telmisartan.svg/960px-Telmisartan.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 512,
+    "height": 507
+  },
+  {
+    "drug_name": "Telmisartan",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=91215664-6e19-4e04-9ae7-ab5664799426&name=Remedy_Label.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Telmisartan",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=91215664-6e19-4e04-9ae7-ab5664799426&name=image-1.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Telmisartan",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=91215664-6e19-4e04-9ae7-ab5664799426&name=image-2.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Ramipril",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ramipril_structure.svg/960px-Ramipril_structure.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 512,
+    "height": 379
+  },
+  {
+    "drug_name": "Ramipril",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Ramipril_1.25_MG_Oral_Capsule.jpg",
+    "image_type": "pill",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 840,
+    "height": 560
+  },
+  {
+    "drug_name": "Ramipril",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=4bd2d586-6851-4a40-e063-6394a90a0cab&name=68071-3971-3+%282%29.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Ramipril",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=4bd2d586-6851-4a40-e063-6394a90a0cab&name=ramipril-fig1.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Ramipril",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=4bd2d586-6851-4a40-e063-6394a90a0cab&name=ramipril-fig2.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Glimepiride",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Glimepiride.svg/960px-Glimepiride.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 512,
+    "height": 179
+  },
+  {
+    "drug_name": "Glimepiride",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Glimepiride_2_MG_Oral_Tablet.jpg",
+    "image_type": "pill",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 840,
+    "height": 560
+  },
+  {
+    "drug_name": "Glimepiride",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Glimepiride_ball-and-stick_model_from_xtal_1997.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 14197,
+    "height": 6027
+  },
+  {
+    "drug_name": "Glimepiride",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=1450f455-a14a-4f9b-b3aa-dae49ea0c186&name=72789370.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Glimepiride",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=1450f455-a14a-4f9b-b3aa-dae49ea0c186&name=glimepiride-str.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Glimepiride",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=bf8e5993-5ee7-d26d-e053-2a95a90ae5df&name=68071-2385-8.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Sitagliptin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Sitagliptin.svg/960px-Sitagliptin.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 512,
+    "height": 304
+  },
+  {
+    "drug_name": "Sitagliptin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Sitagliptin_3D.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1589,
+    "height": 1000
+  },
+  {
+    "drug_name": "Sitagliptin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=2f635b36-e86a-4e53-8eaf-589917b5f342&name=506adfe0-80b4-4a62-9b2c-39bb23b04254-01.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Sitagliptin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=2f635b36-e86a-4e53-8eaf-589917b5f342&name=506adfe0-80b4-4a62-9b2c-39bb23b04254-02.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Sitagliptin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=2f635b36-e86a-4e53-8eaf-589917b5f342&name=506adfe0-80b4-4a62-9b2c-39bb23b04254-03.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Empagliflozin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=5777b8a8-ada6-4950-8548-43a1de11f075&name=09daa78d-f417-436c-a29e-029c015ca6d6-00.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Empagliflozin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=5777b8a8-ada6-4950-8548-43a1de11f075&name=09daa78d-f417-436c-a29e-029c015ca6d6-01.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Empagliflozin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=5777b8a8-ada6-4950-8548-43a1de11f075&name=jardiance-01.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Quetiapine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Quetiapine.svg/960px-Quetiapine.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 512,
+    "height": 372
+  },
+  {
+    "drug_name": "Quetiapine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Quetiapine-from-xtal-3D-balls.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 739,
+    "height": 1100
+  },
+  {
+    "drug_name": "Quetiapine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Quetiapine_syn.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 3331,
+    "height": 759
+  },
+  {
+    "drug_name": "Quetiapine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Seroquel-25mg.jpg",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1553,
+    "height": 1013
+  },
+  {
+    "drug_name": "Quetiapine",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=42bd7dd3-9f81-4d8b-bce9-302e5559da2f&name=9054a1a7-c7ea-4630-be0b-2dcbe910ca94-01.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Quetiapine",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=42bd7dd3-9f81-4d8b-bce9-302e5559da2f&name=9054a1a7-c7ea-4630-be0b-2dcbe910ca94-02.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Quetiapine",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=42bd7dd3-9f81-4d8b-bce9-302e5559da2f&name=9054a1a7-c7ea-4630-be0b-2dcbe910ca94-03.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Diazepam",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Diazepam_structure.svg/960px-Diazepam_structure.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 831,
+    "height": 907
+  },
+  {
+    "drug_name": "Diazepam",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/5mgrocheaus.jpg",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 3264,
+    "height": 1835
+  },
+  {
+    "drug_name": "Diazepam",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Diazepam%28Valium%29_DOJ.jpg",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 168,
+    "height": 282
+  },
+  {
+    "drug_name": "Diazepam",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Diazepam-from-xtal-3D-balls.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1100,
+    "height": 951
+  },
+  {
+    "drug_name": "Diazepam",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=bfa85a63-967f-4176-a752-0bafabbaaae3&name=Formula1.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Diazepam",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=bfa85a63-967f-4176-a752-0bafabbaaae3&name=Image1.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Diazepam",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=bfa85a63-967f-4176-a752-0bafabbaaae3&name=Image2.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Alprazolam",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Alprazolam_structure.svg/960px-Alprazolam_structure.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 512,
+    "height": 647
+  },
+  {
+    "drug_name": "Alprazolam",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/6huo_GABAA-Rezeptorstruktur.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 677,
+    "height": 938
+  },
+  {
+    "drug_name": "Alprazolam",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Alprazolam_Tablets_China.jpg",
+    "image_type": "pill",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1920,
+    "height": 1324
+  },
+  {
+    "drug_name": "Alprazolam",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Alprazolam_ball-and-stick_model.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 989,
+    "height": 1331
+  },
+  {
+    "drug_name": "Alprazolam",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=388e249d-b9b6-44c3-9f8f-880eced0239f&name=image-01.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Alprazolam",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=388e249d-b9b6-44c3-9f8f-880eced0239f&name=image-02.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Alprazolam",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=388e249d-b9b6-44c3-9f8f-880eced0239f&name=image-03.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Carbamazepine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Carbamazepine.svg/960px-Carbamazepine.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 512,
+    "height": 378
+  },
+  {
+    "drug_name": "Carbamazepine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Carbamazepine-from-xtal-3D-bs-17.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 3000,
+    "height": 2054
+  },
+  {
+    "drug_name": "Carbamazepine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Tegretol.jpg",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 2512,
+    "height": 3368
+  },
+  {
+    "drug_name": "Carbamazepine",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=1922a7cd-6a43-dab5-e063-6294a90a3d8f&name=51407-895-01OL-+CARBAMAZEPINE+100MG+ER+TABLETS+100S-+REV-05-24.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Carbamazepine",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=1922a7cd-6a43-dab5-e063-6294a90a3d8f&name=51407-896-01OL-+CARBAMAZEPINE+200MG+ER+TABLETS+100S-+REV-05-24.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Carbamazepine",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=1922a7cd-6a43-dab5-e063-6294a90a3d8f&name=51407-897-01OL-+CARBAMAZEPINE+400MG+ER+TABLETS+100S-+REV-05-24.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Lamotrigine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Lamotrigine.svg/330px-Lamotrigine.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 251,
+    "height": 201
+  },
+  {
+    "drug_name": "Lamotrigine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Lamictal_25mg.JPG",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 2056,
+    "height": 2153
+  },
+  {
+    "drug_name": "Lamotrigine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Lamotrigine_ball-and-stick_model.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 2555,
+    "height": 1233
+  },
+  {
+    "drug_name": "Lamotrigine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Lamotrigine_tablets_in_China.jpg",
+    "image_type": "pill",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1920,
+    "height": 1367
+  },
+  {
+    "drug_name": "Lamotrigine",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=6034a8b8-9e80-43ca-b84f-ea82f788268c&name=150+mg+Blister.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Lamotrigine",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=6034a8b8-9e80-43ca-b84f-ea82f788268c&name=150+mg+Lamotrigine+Tablets+Carton.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Lamotrigine",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=6034a8b8-9e80-43ca-b84f-ea82f788268c&name=200+mg+Lamotrigine+Tablet+Blister.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Duloxetine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Duloxetine.svg/960px-Duloxetine.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 512,
+    "height": 305
+  },
+  {
+    "drug_name": "Duloxetine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/2024-03-16_Duloxetine%EF%BC%88SNRI%EF%BC%89%E3%82%BB%E3%83%AD%E3%83%88%E3%83%8B%E3%83%B3%E3%83%BB%E3%83%8E%E3%83%AB%E3%82%A2%E3%83%89%E3%83%AC%E3%83%8A%E3%83%AA%E3%83%B3%2C%E3%82%B5%E3%82%A4%E3%83%B3%E3%83%90%E3%83%AB%E3%82%BF%2C%E3%83%87%E3%83%A5%E3%83%AD%E3%82%AD%E3%82%BB%E3%83%81%E3%83%B3%2C%E5%86%8D%E5%8F%96%E3%82%8A%E8%BE%BC%E3%81%BF%E9%98%BB%E5%AE%B3%E8%96%ACDSCF7713.jpg",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 2304,
+    "height": 1536
+  },
+  {
+    "drug_name": "Duloxetine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Cymbalta60mg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 300,
+    "height": 158
+  },
+  {
+    "drug_name": "Duloxetine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Duloxetine-hydrochloride-from-xtal-3D-bs-17.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 2481,
+    "height": 2276
+  },
+  {
+    "drug_name": "Duloxetine",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=c194a7b0-1e7e-a32b-e053-2995a90a7dbd&name=51655-237-25+-+Rev+A+04-21+NHC.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Duloxetine",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=c194a7b0-1e7e-a32b-e053-2995a90a7dbd&name=duloxetine-fig1.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Duloxetine",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=c194a7b0-1e7e-a32b-e053-2995a90a7dbd&name=duloxetine-fig10.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Fluoxetine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Fluoxetine.svg/960px-Fluoxetine.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 512,
+    "height": 265
+  },
+  {
+    "drug_name": "Fluoxetine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/10mgBlueProzacPills.jpg",
+    "image_type": "pill",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1485,
+    "height": 1450
+  },
+  {
+    "drug_name": "Fluoxetine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Fluoxetine_20mg_with_Packet.jpg",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1264,
+    "height": 1491
+  },
+  {
+    "drug_name": "Fluoxetine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/R-and-S-fluoxetine-enantiomers-based-on-HCl-xtal-Mercury-3D-balls.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 2000,
+    "height": 1048
+  },
+  {
+    "drug_name": "Fluoxetine",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=096e9438-2bed-434b-aa56-a6d55471fef1&name=fluoxetine-str.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Fluoxetine",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=096e9438-2bed-434b-aa56-a6d55471fef1&name=lbl500907915.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Fluoxetine",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=aae4e339-5244-f6f9-e053-2995a90a42ce&name=51655-274-26+-+Rev+A+05-20+NHC.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Amitriptyline",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Amitriptyline2DACS.svg/960px-Amitriptyline2DACS.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 705,
+    "height": 709
+  },
+  {
+    "drug_name": "Amitriptyline",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Amitriptyline-from-picrate-xtal-3D-balls.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1100,
+    "height": 843
+  },
+  {
+    "drug_name": "Amitriptyline",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Amitriptyline_metabolism.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 2032,
+    "height": 1837
+  },
+  {
+    "drug_name": "Amitriptyline",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/EndepBoxes.JPG",
+    "image_type": "pill",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 3968,
+    "height": 2232
+  },
+  {
+    "drug_name": "Amitriptyline",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=451b8742-8b3c-4335-9075-c1d8313cd3d0&name=4dc4ebc6-0e15-466e-9a38-a29aa1766731-01.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Amitriptyline",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=451b8742-8b3c-4335-9075-c1d8313cd3d0&name=72789305.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Amitriptyline",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=67e31675-1da2-4acf-84ac-77522b02f0b9&name=7a7b6c33-050f-4ea4-aee4-d6e1f275ce4e-01.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Risperidone",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Risperidone3D.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 7680,
+    "height": 4320
+  },
+  {
+    "drug_name": "Risperidone",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Risperdal_tablets.jpg",
+    "image_type": "pill",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1521,
+    "height": 2021
+  },
+  {
+    "drug_name": "Risperidone",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Rispolept_Risperidone.jpg",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 3968,
+    "height": 2976
+  },
+  {
+    "drug_name": "Risperidone",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=b462e48c-ef1d-4591-8fca-6b5829d8ed90&name=0eef7640-926d-4357-9f6d-38565fe2b838-01.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Risperidone",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=b462e48c-ef1d-4591-8fca-6b5829d8ed90&name=0eef7640-926d-4357-9f6d-38565fe2b838-02.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Risperidone",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=b462e48c-ef1d-4591-8fca-6b5829d8ed90&name=0eef7640-926d-4357-9f6d-38565fe2b838-03.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Olanzapine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Olanzapine.svg/960px-Olanzapine.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 512,
+    "height": 523
+  },
+  {
+    "drug_name": "Olanzapine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Olanzapine-from-xtal-3D-balls.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1100,
+    "height": 1066
+  },
+  {
+    "drug_name": "Olanzapine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Zyprexa.jpg",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 908,
+    "height": 681
+  },
+  {
+    "drug_name": "Olanzapine",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=2cb1bebe-0ced-46d8-bf21-c28a9acc4a15&name=10mg-30s.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Olanzapine",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=2cb1bebe-0ced-46d8-bf21-c28a9acc4a15&name=15mg-30s.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Olanzapine",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=2cb1bebe-0ced-46d8-bf21-c28a9acc4a15&name=2-5mg-30s.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Aripiprazole",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Aripiprazole_skeletal_formula_from_xtal_2012.svg/1920px-Aripiprazole_skeletal_formula_from_xtal_2012.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1758,
+    "height": 923
+  },
+  {
+    "drug_name": "Aripiprazole",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Abilify_10mg.jpg",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 2560,
+    "height": 1920
+  },
+  {
+    "drug_name": "Aripiprazole",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Aripiprazole%28abilify%29.jpg",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 4330,
+    "height": 4665
+  },
+  {
+    "drug_name": "Aripiprazole",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Aripiprazole-15mg-2-tablets.jpg",
+    "image_type": "pill",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1905,
+    "height": 1199
+  },
+  {
+    "drug_name": "Aripiprazole",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=476b92f3-cf7b-4c09-ac67-6ed35e6811d5&name=aripiprazole-fig1.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Aripiprazole",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=476b92f3-cf7b-4c09-ac67-6ed35e6811d5&name=aripiprazole-fig10.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Aripiprazole",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=476b92f3-cf7b-4c09-ac67-6ed35e6811d5&name=aripiprazole-fig11.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Insulin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Insulin_struct.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 2400,
+    "height": 2400
+  },
+  {
+    "drug_name": "Insulin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/C._H._Best_and_F._G._Banting_ca._1924_Insulin_P10103_0001.jpg",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 5198,
+    "height": 4025
+  },
+  {
+    "drug_name": "Insulin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Charles_H._Best_and_Clark_Noble_ca._1920.jpg",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 2954,
+    "height": 2060
+  },
+  {
+    "drug_name": "Insulin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Chart_for_Elizabeth_Hughes_%2812308739143%29.jpg",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1000,
+    "height": 789
+  },
+  {
+    "drug_name": "Insulin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=29f4637b-e204-425b-b89c-7238008d8c10&name=afr01-0008-01.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Insulin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=29f4637b-e204-425b-b89c-7238008d8c10&name=afr01-0008-02.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Insulin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=29f4637b-e204-425b-b89c-7238008d8c10&name=afr01-0008-03.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Domperidone",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Domperidone-from-xtal-3D-bs-17.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 3043,
+    "height": 2341
+  },
+  {
+    "drug_name": "Domperidone",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=865b3b41-61da-4eba-b00e-6899d812213e&name=Ovaprim+carton+label.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Domperidone",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=865b3b41-61da-4eba-b00e-6899d812213e&name=Ovaprim+vial+label.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Domperidone",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=cdb0c9b9-388c-4a06-9fe9-bb4e52278a4e&name=Domperidone.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Ranitidine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ranitidine.svg/960px-Ranitidine.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 512,
+    "height": 437
+  },
+  {
+    "drug_name": "Ranitidine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Ranitidine-A-3D-balls.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1100,
+    "height": 649
+  },
+  {
+    "drug_name": "Ranitidine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Zantac.jpg",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1323,
+    "height": 1708
+  },
+  {
+    "drug_name": "Ranitidine",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=0fba6615-37c2-4ba6-b6e5-09599369a5bc&name=ranitidine-150mg-30ct.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Ranitidine",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=0fba6615-37c2-4ba6-b6e5-09599369a5bc&name=ranitidine-300mg-30ct.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Ranitidine",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=0fba6615-37c2-4ba6-b6e5-09599369a5bc&name=ranitidine-companylogo.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Prednisone",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Prednisone.svg/960px-Prednisone.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 512,
+    "height": 402
+  },
+  {
+    "drug_name": "Prednisone",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/006035339lg_Prednisone_20_MG_Oral_Tablet.jpg",
+    "image_type": "pill",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 840,
+    "height": 560
+  },
+  {
+    "drug_name": "Prednisone",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Prednisone-from-xtal-3D-bs-17.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 2484,
+    "height": 2338
+  },
+  {
+    "drug_name": "Prednisone",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=2760a808-b076-5887-e063-6294a90a79ae&name=68071-3721-2.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Prednisone",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=2760a808-b076-5887-e063-6294a90a79ae&name=prednisone-str.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Prednisone",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=4aa286e3-e272-8095-e063-6394a90ae871&name=42708-195-10+Label.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Erythromycin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Erythromycin_A_skeletal.svg/960px-Erythromycin_A_skeletal.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 765,
+    "height": 780
+  },
+  {
+    "drug_name": "Erythromycin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/000719lg_Enteric_coated_erythomycin.jpg",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 840,
+    "height": 599
+  },
+  {
+    "drug_name": "Erythromycin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Erythromycin_A_3D.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 3500,
+    "height": 2899
+  },
+  {
+    "drug_name": "Erythromycin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=c49ad63b-c2fd-4535-bec0-6415c93cf847&name=ChemStructure.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Erythromycin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=c49ad63b-c2fd-4535-bec0-6415c93cf847&name=Erythromycin+0.5_70518-0465-00.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Erythromycin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=301ee5ad-3b6c-1152-e063-6294a90a54e7&name=31+container.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Hydrochlorothiazide",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hydrochlorothiazide.svg/960px-Hydrochlorothiazide.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 512,
+    "height": 311
+  },
+  {
+    "drug_name": "Hydrochlorothiazide",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/001850277lg_Benazepril_hydrochloride_20_MG_Hydrochlorothiazide_25_MG_Oral_Tablet.jpg",
+    "image_type": "pill",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 840,
+    "height": 560
+  },
+  {
+    "drug_name": "Hydrochlorothiazide",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Hydrochlorothiazide-from-xtal-3D-balls.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1100,
+    "height": 768
+  },
+  {
+    "drug_name": "Hydrochlorothiazide",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Two_boxes_and_a_blister_pack_of_Co-Diovan_%28Valsartan_and_hydrochlorothiazide%29%2C_Singapore_-_20150210.jpg",
+    "image_type": "pill",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 3264,
+    "height": 2448
+  },
+  {
+    "drug_name": "Hydrochlorothiazide",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=9fe534cd-cf5f-64b4-e053-2995a90a926e&name=51407-286-01LB.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Hydrochlorothiazide",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=9fe534cd-cf5f-64b4-e053-2995a90a926e&name=structure-hydrochlorothiazide.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Hydrochlorothiazide",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=9fe534cd-cf5f-64b4-e053-2995a90a926e&name=structure-triamterene.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Valproic Acid",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Valproic_acid-optimized-ball-and-stick-model.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 3189,
+    "height": 2381
+  },
+  {
+    "drug_name": "Valproic Acid",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=ec41025a-ed7d-48c8-9005-08e3a9417f30&name=Valproic+Acid+250mg_70518-0079-00.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Valproic Acid",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=ec41025a-ed7d-48c8-9005-08e3a9417f30&name=Valproic+Acid+250mg_70518-0079-01.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Valproic Acid",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=ec41025a-ed7d-48c8-9005-08e3a9417f30&name=Valproic+Acid+250mg_70518-0079-02.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Phenytoin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Phenytoin_structure.svg/960px-Phenytoin_structure.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 512,
+    "height": 533
+  },
+  {
+    "drug_name": "Phenytoin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Phenytoin_3D_ball.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1706,
+    "height": 2000
+  },
+  {
+    "drug_name": "Phenytoin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Phenytoin_sodium_mechanism_of_action.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 941,
+    "height": 738
+  },
+  {
+    "drug_name": "Phenytoin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=98bd1d9f-b1a4-49eb-a0b4-a790265710dd&name=phenytoin-chewable-tabs-8623-1.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Phenytoin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=98bd1d9f-b1a4-49eb-a0b4-a790265710dd&name=phenytoin-chewable-tabs-8623-2.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Phenytoin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=ca119a89-2394-4d34-8078-cd1fa4e8e2f1&name=dilantin-01.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Sildenafil",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Sildenafil_structure.svg/960px-Sildenafil_structure.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 512,
+    "height": 295
+  },
+  {
+    "drug_name": "Sildenafil",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/1udt.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 328,
+    "height": 314
+  },
+  {
+    "drug_name": "Sildenafil",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/CBP_with_bag_of_seized_counterfeit_Viagra.jpg",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 3328,
+    "height": 4992
+  },
+  {
+    "drug_name": "Sildenafil",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Sildenafil-from-xtal-3D-balls.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1100,
+    "height": 1025
+  },
+  {
+    "drug_name": "Sildenafil",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=b48630b1-5208-4d00-b56f-21701f223758&name=LOGO1.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Sildenafil",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=b48630b1-5208-4d00-b56f-21701f223758&name=chemical-structure.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Sildenafil",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=b48630b1-5208-4d00-b56f-21701f223758&name=figure-1.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Tadalafil",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Tadalafil.svg/960px-Tadalafil.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 512,
+    "height": 524
+  },
+  {
+    "drug_name": "Tadalafil",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Cialis_5mg_UK.jpg",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 4032,
+    "height": 3024
+  },
+  {
+    "drug_name": "Tadalafil",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Tadalafil_20mg.jpg",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 640,
+    "height": 480
+  },
+  {
+    "drug_name": "Tadalafil",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Tadalafil_3D_1XOZ.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1234,
+    "height": 1000
+  },
+  {
+    "drug_name": "Tadalafil",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=fee8c2be-ccfa-4c66-abed-5e232ec762ae&name=2c3d64d3-27b6-4ec1-bd71-7c6bab4cd31d-01.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Tadalafil",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=fee8c2be-ccfa-4c66-abed-5e232ec762ae&name=2c3d64d3-27b6-4ec1-bd71-7c6bab4cd31d-02.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Tadalafil",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=fee8c2be-ccfa-4c66-abed-5e232ec762ae&name=2c3d64d3-27b6-4ec1-bd71-7c6bab4cd31d-03.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Rivaroxaban",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Rivaroxaban2DCSD.svg/6222px-Rivaroxaban2DCSD.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 6222,
+    "height": 3580
+  },
+  {
+    "drug_name": "Rivaroxaban",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Rivaroxaban_xtal_2005.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 3266,
+    "height": 1739
+  },
+  {
+    "drug_name": "Rivaroxaban",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Xarelto.jpg",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 2208,
+    "height": 1891
+  },
+  {
+    "drug_name": "Rivaroxaban",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=d0e105f6-28f3-45ee-83bd-7d458835242b&name=48884709-657d-6712-e063-6394a90a88e7-00.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Rivaroxaban",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=d0e105f6-28f3-45ee-83bd-7d458835242b&name=48884709-657d-6712-e063-6394a90a88e7-01.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Rivaroxaban",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=d0e105f6-28f3-45ee-83bd-7d458835242b&name=48884709-657d-6712-e063-6394a90a88e7-02.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Apixaban",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Apixaban.svg/960px-Apixaban.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 512,
+    "height": 502
+  },
+  {
+    "drug_name": "Apixaban",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Apixaban_ball-and-stick_model.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1400,
+    "height": 1480
+  },
+  {
+    "drug_name": "Apixaban",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=a454cd24-0c6d-46e8-b1e4-197388606175&name=ARISTOTLE+Major+Bleeding+Forest+Plot.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Apixaban",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=a454cd24-0c6d-46e8-b1e4-197388606175&name=apixaban-struct.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Apixaban",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=a454cd24-0c6d-46e8-b1e4-197388606175&name=c6b2240a-a9d6-4dd9-9bc4-b42dc90c0d2f-00.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Clonazepam",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Clonazepam_200.svg/960px-Clonazepam_200.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 512,
+    "height": 458
+  },
+  {
+    "drug_name": "Clonazepam",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Clonazepam2mg_DOJ.jpg",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 172,
+    "height": 99
+  },
+  {
+    "drug_name": "Clonazepam",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/ClonazepamODT.jpg",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 370,
+    "height": 314
+  },
+  {
+    "drug_name": "Clonazepam",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Clonazepam_ball-and-stick_model.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1214,
+    "height": 1136
+  },
+  {
+    "drug_name": "Clonazepam",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=f2662808-01c4-330c-e053-2a95a90aa335&name=173-15.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Clonazepam",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=f2662808-01c4-330c-e053-2a95a90aa335&name=174-15.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Clonazepam",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=f2662808-01c4-330c-e053-2a95a90aa335&name=175-15.jpg",
+    "image_type": "pill",
+    "source": "DailyMed NIH",
+    "license": "Public Domain (US Government)"
+  }
+]

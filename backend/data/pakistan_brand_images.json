@@ -1,0 +1,169 @@
+{
+  "_note": "Pakistani medicine brand image URLs for demo display. For production, download and cache these images locally or in Supabase storage.",
+  "_source_instructions": "Before the P@SHA demo, manually download product images from Dawaai.pk or DVAGO.pk for these top brands. Open each brand page in browser, right-click product image, save to dawaacheck/assets/images/medicines/",
+  "_demo_priority": "The first 20 brands below are MUST-HAVE for demo day",
+
+  "brands": {
+    "Panadol": {
+      "search_url": "https://dawaai.pk/search?q=panadol",
+      "dvago_url": "https://dvago.pk/panadol",
+      "local_asset": "assets/images/medicines/panadol.png",
+      "generic_name": "Paracetamol",
+      "demo_priority": 1
+    },
+    "Panadol Extra": {
+      "search_url": "https://dawaai.pk/search?q=panadol+extra",
+      "local_asset": "assets/images/medicines/panadol_extra.png",
+      "generic_name": "Paracetamol + Caffeine",
+      "demo_priority": 2
+    },
+    "Augmentin": {
+      "search_url": "https://dawaai.pk/search?q=augmentin",
+      "local_asset": "assets/images/medicines/augmentin.png",
+      "generic_name": "Amoxicillin + Clavulanate",
+      "demo_priority": 3
+    },
+    "Brufen": {
+      "search_url": "https://dawaai.pk/search?q=brufen",
+      "local_asset": "assets/images/medicines/brufen.png",
+      "generic_name": "Ibuprofen",
+      "demo_priority": 4
+    },
+    "Flagyl": {
+      "search_url": "https://dawaai.pk/search?q=flagyl",
+      "local_asset": "assets/images/medicines/flagyl.png",
+      "generic_name": "Metronidazole",
+      "demo_priority": 5
+    },
+    "Amoxil": {
+      "search_url": "https://dawaai.pk/search?q=amoxil",
+      "local_asset": "assets/images/medicines/amoxil.png",
+      "generic_name": "Amoxicillin",
+      "demo_priority": 6
+    },
+    "Azomax": {
+      "search_url": "https://dawaai.pk/search?q=azomax",
+      "local_asset": "assets/images/medicines/azomax.png",
+      "generic_name": "Azithromycin",
+      "demo_priority": 7
+    },
+    "Risek": {
+      "search_url": "https://dawaai.pk/search?q=risek",
+      "local_asset": "assets/images/medicines/risek.png",
+      "generic_name": "Omeprazole",
+      "demo_priority": 8
+    },
+    "Novidat": {
+      "search_url": "https://dawaai.pk/search?q=novidat",
+      "local_asset": "assets/images/medicines/novidat.png",
+      "generic_name": "Ciprofloxacin",
+      "demo_priority": 9
+    },
+    "Ponstan": {
+      "search_url": "https://dawaai.pk/search?q=ponstan",
+      "local_asset": "assets/images/medicines/ponstan.png",
+      "generic_name": "Mefenamic Acid",
+      "demo_priority": 10
+    },
+    "Norvasc": {
+      "search_url": "https://dawaai.pk/search?q=norvasc",
+      "local_asset": "assets/images/medicines/norvasc.png",
+      "generic_name": "Amlodipine",
+      "demo_priority": 11
+    },
+    "Glucophage": {
+      "search_url": "https://dawaai.pk/search?q=glucophage",
+      "local_asset": "assets/images/medicines/glucophage.png",
+      "generic_name": "Metformin",
+      "demo_priority": 12
+    },
+    "Zyrtec": {
+      "search_url": "https://dawaai.pk/search?q=zyrtec",
+      "local_asset": "assets/images/medicines/zyrtec.png",
+      "generic_name": "Cetirizine",
+      "demo_priority": 13
+    },
+    "Ventolin": {
+      "search_url": "https://dawaai.pk/search?q=ventolin",
+      "local_asset": "assets/images/medicines/ventolin.png",
+      "generic_name": "Salbutamol",
+      "demo_priority": 14
+    },
+    "Lipitor": {
+      "search_url": "https://dawaai.pk/search?q=lipitor",
+      "local_asset": "assets/images/medicines/lipitor.png",
+      "generic_name": "Atorvastatin",
+      "demo_priority": 15
+    },
+    "Calpol": {
+      "search_url": "https://dawaai.pk/search?q=calpol",
+      "local_asset": "assets/images/medicines/calpol.png",
+      "generic_name": "Paracetamol (Pediatric)",
+      "demo_priority": 16
+    },
+    "Nexium": {
+      "search_url": "https://dawaai.pk/search?q=nexium",
+      "local_asset": "assets/images/medicines/nexium.png",
+      "generic_name": "Esomeprazole",
+      "demo_priority": 17
+    },
+    "Disprin": {
+      "search_url": "https://dawaai.pk/search?q=disprin",
+      "local_asset": "assets/images/medicines/disprin.png",
+      "generic_name": "Aspirin",
+      "demo_priority": 18
+    },
+    "Voltaren": {
+      "search_url": "https://dawaai.pk/search?q=voltaren",
+      "local_asset": "assets/images/medicines/voltaren.png",
+      "generic_name": "Diclofenac",
+      "demo_priority": 19
+    },
+    "Plavix": {
+      "search_url": "https://dawaai.pk/search?q=plavix",
+      "local_asset": "assets/images/medicines/plavix.png",
+      "generic_name": "Clopidogrel",
+      "demo_priority": 20
+    },
+    "Concor": {
+      "search_url": "https://dawaai.pk/search?q=concor",
+      "local_asset": "assets/images/medicines/concor.png",
+      "generic_name": "Bisoprolol"
+    },
+    "Amaryl": {
+      "search_url": "https://dawaai.pk/search?q=amaryl",
+      "local_asset": "assets/images/medicines/amaryl.png",
+      "generic_name": "Glimepiride"
+    },
+    "Singulair": {
+      "search_url": "https://dawaai.pk/search?q=singulair",
+      "local_asset": "assets/images/medicines/singulair.png",
+      "generic_name": "Montelukast"
+    },
+    "Arinac": {
+      "search_url": "https://dawaai.pk/search?q=arinac",
+      "local_asset": "assets/images/medicines/arinac.png",
+      "generic_name": "Ibuprofen + Pseudoephedrine"
+    },
+    "Motilium": {
+      "search_url": "https://dawaai.pk/search?q=motilium",
+      "local_asset": "assets/images/medicines/motilium.png",
+      "generic_name": "Domperidone"
+    },
+    "Zentel": {
+      "search_url": "https://dawaai.pk/search?q=zentel",
+      "local_asset": "assets/images/medicines/zentel.png",
+      "generic_name": "Albendazole"
+    },
+    "Lyrica": {
+      "search_url": "https://dawaai.pk/search?q=lyrica",
+      "local_asset": "assets/images/medicines/lyrica.png",
+      "generic_name": "Pregabalin"
+    },
+    "Zoloft": {
+      "search_url": "https://dawaai.pk/search?q=zoloft",
+      "local_asset": "assets/images/medicines/zoloft.png",
+      "generic_name": "Sertraline"
+    }
+  }
+}

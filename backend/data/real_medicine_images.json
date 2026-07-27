@@ -1,0 +1,626 @@
+[
+  {
+    "drug_name": "Paracetamol",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Paracetamol-skeletal.svg/500px-Paracetamol-skeletal.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 432,
+    "height": 232
+  },
+  {
+    "drug_name": "Panadol",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=01e7dddb-755c-4745-b701-edcdb6209064",
+    "image_type": "label_page",
+    "source": "OpenFDA/DailyMed",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Amoxicillin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Amoxicillin-from-xtal-3D-bs-17.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 3000,
+    "height": 2119
+  },
+  {
+    "drug_name": "Augmentin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=04a31a42-d79e-bbb4-e063-6394a90a63ee",
+    "image_type": "label_page",
+    "source": "OpenFDA/DailyMed",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Ibuprofen",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Ibuprofen-3D-balls.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1100,
+    "height": 598
+  },
+  {
+    "drug_name": "Ibuprofen",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=00653b7c-7099-487e-9a01-e89781c21323",
+    "image_type": "label_page",
+    "source": "OpenFDA/DailyMed",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Metronidazole",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Metronidazole.svg/960px-Metronidazole.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 512,
+    "height": 477
+  },
+  {
+    "drug_name": "Flagyl",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a2883ca1-5a9a-4259-9d80-46ab67274384",
+    "image_type": "label_page",
+    "source": "OpenFDA/DailyMed",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Sulfamethoxazole",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Sulfamethoxazole-from-xtal-3D-bs-17.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 3043,
+    "height": 2337
+  },
+  {
+    "drug_name": "Sulfamethoxazole",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=079c828c-148f-45b9-966e-d8906043b2a2",
+    "image_type": "label_page",
+    "source": "OpenFDA/DailyMed",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Aspirin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Acetylsalicylic_acid.jpg",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1521,
+    "height": 1384
+  },
+  {
+    "drug_name": "Aspirin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0058175f-3474-40c3-a046-6cfaec86d84b",
+    "image_type": "label_page",
+    "source": "OpenFDA/DailyMed",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Mefenamic Acid",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Mefenamic_acid2DACS.svg/960px-Mefenamic_acid2DACS.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 726,
+    "height": 570
+  },
+  {
+    "drug_name": "Mefenamic Acid",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1e927779-411a-b5f5-e063-6394a90aae93",
+    "image_type": "label_page",
+    "source": "OpenFDA/DailyMed",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Omeprazole",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0057cb91-fc5e-8e9d-a926-299405c5c3a8",
+    "image_type": "label_page",
+    "source": "OpenFDA/DailyMed",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Ciprofloxacin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Ciprofloxacin_skeletal_formula_from_xtal_2010.svg/1280px-Ciprofloxacin_skeletal_formula_from_xtal_2010.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1138,
+    "height": 684
+  },
+  {
+    "drug_name": "Ciprofloxacin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=05b2836d-cd3d-4d7f-970c-66ec2d788667",
+    "image_type": "label_page",
+    "source": "OpenFDA/DailyMed",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Cetirizine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Cetirizine_structure.svg/1920px-Cetirizine_structure.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1715,
+    "height": 900
+  },
+  {
+    "drug_name": "Cetirizine",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=016b66fd-dde9-4f13-afaf-a8aafbdeed1a",
+    "image_type": "label_page",
+    "source": "OpenFDA/DailyMed",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Salbutamol",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/RS-salbutamol-from-xtal-3D-balls.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1100,
+    "height": 1191
+  },
+  {
+    "drug_name": "Ventolin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2ed73618-be3a-4331-9509-6401258f791f",
+    "image_type": "label_page",
+    "source": "OpenFDA/DailyMed",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Metformin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Metformin.svg/960px-Metformin.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 512,
+    "height": 287
+  },
+  {
+    "drug_name": "Metformin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=011de1a5-1ac0-4831-9e8d-26ec79ba2205",
+    "image_type": "label_page",
+    "source": "OpenFDA/DailyMed",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Amlodipine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amlodipine.svg/960px-Amlodipine.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 561,
+    "height": 326
+  },
+  {
+    "drug_name": "Norvasc",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7367289c-b0b0-466a-83e2-558e2985c29f",
+    "image_type": "label_page",
+    "source": "OpenFDA/DailyMed",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Atorvastatin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Atorvastatin.svg/960px-Atorvastatin.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 512,
+    "height": 264
+  },
+  {
+    "drug_name": "Lipitor",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a60cc18b-0631-4cf0-b021-9f52224ece65",
+    "image_type": "label_page",
+    "source": "OpenFDA/DailyMed",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Sertraline",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sertraline.svg/960px-Sertraline.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 512,
+    "height": 334
+  },
+  {
+    "drug_name": "Zoloft",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fda754f6-d0f3-4dce-a17a-927d64f912f7",
+    "image_type": "label_page",
+    "source": "OpenFDA/DailyMed",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Esomeprazole",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Esomeprazole_ball-and-stick_model.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 2394,
+    "height": 1226
+  },
+  {
+    "drug_name": "Nexium",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4513934d-0cf0-40fc-a348-b4e75a33b094",
+    "image_type": "label_page",
+    "source": "OpenFDA/DailyMed",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Rosuvastatin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Rosuvastatin-3D-balls.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1047,
+    "height": 593
+  },
+  {
+    "drug_name": "Crestor",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=325a5d0e-9a72-4015-9fcd-1655fb504cee",
+    "image_type": "label_page",
+    "source": "OpenFDA/DailyMed",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Losartan",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Losartan_structure.svg/960px-Losartan_structure.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 512,
+    "height": 384
+  },
+  {
+    "drug_name": "Losartan",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=021cd76a-b093-4704-8410-5e7d01e20a54",
+    "image_type": "label_page",
+    "source": "OpenFDA/DailyMed",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Azithromycin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Azithromycin.svg/960px-Azithromycin.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 785,
+    "height": 685
+  },
+  {
+    "drug_name": "Azithromycin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=003307c5-3f73-4a5d-a704-bfdea3c656e8",
+    "image_type": "label_page",
+    "source": "OpenFDA/DailyMed",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Doxycycline",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Doxycycline_structure.svg/960px-Doxycycline_structure.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 512,
+    "height": 286
+  },
+  {
+    "drug_name": "Doxycycline",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=00b2aa98-dea2-90c3-e063-6294a90a35d6",
+    "image_type": "label_page",
+    "source": "OpenFDA/DailyMed",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Montelukast",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Montelukast_3D_ball-and-stick.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1200,
+    "height": 916
+  },
+  {
+    "drug_name": "Montelukast",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=07d5fbea-b183-41c9-a20f-30da1f44ab1b",
+    "image_type": "label_page",
+    "source": "OpenFDA/DailyMed",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Pregabalin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Pregabalin_ball-and-stick_model.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 2153,
+    "height": 1134
+  },
+  {
+    "drug_name": "Pregabalin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0101cd1f-4a95-40e9-86a8-ccde8d656e3d",
+    "image_type": "label_page",
+    "source": "OpenFDA/DailyMed",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Gabapentin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/GabapentinStructure.svg/960px-GabapentinStructure.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 512,
+    "height": 411
+  },
+  {
+    "drug_name": "Gabapentin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=01b810b7-f4c8-4412-bbc5-b9220d8770d8",
+    "image_type": "label_page",
+    "source": "OpenFDA/DailyMed",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Pantoprazole",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Pantoprazole_3D.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 4640,
+    "height": 2899
+  },
+  {
+    "drug_name": "Pantoprazole",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=014f9762-6948-46b7-8659-5c89f35ad8bf",
+    "image_type": "label_page",
+    "source": "OpenFDA/DailyMed",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Escitalopram",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Escitalopram.svg/960px-Escitalopram.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 512,
+    "height": 366
+  },
+  {
+    "drug_name": "Escitalopram",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0458445b-e431-4c82-86b8-90373813c10a",
+    "image_type": "label_page",
+    "source": "OpenFDA/DailyMed",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Diclofenac",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Diclofenac.svg/330px-Diclofenac.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 265,
+    "height": 204
+  },
+  {
+    "drug_name": "Diclofenac",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=005299ac-b6de-511f-e063-6294a90a29e0",
+    "image_type": "label_page",
+    "source": "OpenFDA/DailyMed",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Tramadol",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Tramadol_as_a_racemic_mixture.svg/960px-Tramadol_as_a_racemic_mixture.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 606,
+    "height": 396
+  },
+  {
+    "drug_name": "Tramadol",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=004de5a4-80f8-4040-a6ea-be5e99352a36",
+    "image_type": "label_page",
+    "source": "OpenFDA/DailyMed",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Metoprolol",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Metoprolol_ball-and-stick.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 3197,
+    "height": 1613
+  },
+  {
+    "drug_name": "Metoprolol",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=00de1f16-f979-4dbf-aa60-246ffac8d410",
+    "image_type": "label_page",
+    "source": "OpenFDA/DailyMed",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Furosemide",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Furosemide.svg/960px-Furosemide.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 512,
+    "height": 262
+  },
+  {
+    "drug_name": "Furosemide",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=01a5f094-b473-4e46-9e61-69d5ec6dd766",
+    "image_type": "label_page",
+    "source": "OpenFDA/DailyMed",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Warfarin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Warfarin.svg/960px-Warfarin.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 512,
+    "height": 378
+  },
+  {
+    "drug_name": "Warfarin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0cbce382-9c88-4f58-ae0f-532a841e8f95",
+    "image_type": "label_page",
+    "source": "OpenFDA/DailyMed",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Clopidogrel",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Clopidogrel_skeletal_formula.svg/960px-Clopidogrel_skeletal_formula.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 512,
+    "height": 369
+  },
+  {
+    "drug_name": "Clopidogrel",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0078fb3d-3595-4ae1-a059-1d5e81c879cf",
+    "image_type": "label_page",
+    "source": "OpenFDA/DailyMed",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Insulin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Insulin_struct.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 2400,
+    "height": 2400
+  },
+  {
+    "drug_name": "Insulin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=14499781-b90e-47d5-a7de-006965439b94",
+    "image_type": "label_page",
+    "source": "OpenFDA/DailyMed",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Levothyroxine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Levothyroxine-from-xtal-3D-bs-17.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 3000,
+    "height": 1439
+  },
+  {
+    "drug_name": "Levothyroxine",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=008de8fd-150f-4022-8ccb-c8bfa94875c7",
+    "image_type": "label_page",
+    "source": "OpenFDA/DailyMed",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Prednisolone",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Prednisolone-2D-skeletal.svg/960px-Prednisolone-2D-skeletal.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 512,
+    "height": 413
+  },
+  {
+    "drug_name": "Prednisolone",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=02fc6f0b-d053-49e1-82de-f272dd05d529",
+    "image_type": "label_page",
+    "source": "OpenFDA/DailyMed",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Clarithromycin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Clarithromycin_structure.svg/960px-Clarithromycin_structure.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 620,
+    "height": 481
+  },
+  {
+    "drug_name": "Clarithromycin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0be243c6-de02-45dd-8210-cab1bbc8dfa7",
+    "image_type": "label_page",
+    "source": "OpenFDA/DailyMed",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Levofloxacin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Levofloxacin_skeletal_formula_from_xtal_2019.svg/1280px-Levofloxacin_skeletal_formula_from_xtal_2019.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 1180,
+    "height": 644
+  },
+  {
+    "drug_name": "Levofloxacin",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=05d179f5-b200-8597-e063-6394a90a10cc",
+    "image_type": "label_page",
+    "source": "OpenFDA/DailyMed",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Ranitidine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ranitidine.svg/960px-Ranitidine.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 512,
+    "height": 437
+  },
+  {
+    "drug_name": "Ranitidine",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=00df8a42-296f-80dd-98af-ee8b30eb38cc",
+    "image_type": "label_page",
+    "source": "OpenFDA/DailyMed",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Domperidone",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Domperidone-from-xtal-3D-bs-17.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 3043,
+    "height": 2341
+  },
+  {
+    "drug_name": "Loratadine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Loratadine.svg/960px-Loratadine.svg.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 512,
+    "height": 501
+  },
+  {
+    "drug_name": "Loratadine",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=004dd408-e3ff-4ba6-b859-beebe364f0e1",
+    "image_type": "label_page",
+    "source": "OpenFDA/DailyMed",
+    "license": "Public Domain (US Government)"
+  },
+  {
+    "drug_name": "Bisoprolol",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Bisoprolol_ball-and-stick.png",
+    "image_type": "molecular",
+    "source": "Wikipedia",
+    "license": "CC BY-SA",
+    "width": 3273,
+    "height": 1824
+  },
+  {
+    "drug_name": "Bisoprolol",
+    "image_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=084308e4-3b8b-40d6-acbf-d775772a8a73",
+    "image_type": "label_page",
+    "source": "OpenFDA/DailyMed",
+    "license": "Public Domain (US Government)"
+  }
+]

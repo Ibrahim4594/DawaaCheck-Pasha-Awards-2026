@@ -1,0 +1,1028 @@
+[
+  {
+    "name": "acetaminophen",
+    "rxcui": "161",
+    "classes": [
+      {
+        "name": "Anilides",
+        "type": "ATC1-4",
+        "id": "N02BE"
+      },
+      {
+        "name": "Opioids in combination with non-opioid analgesics",
+        "type": "ATC1-4",
+        "id": "N02AJ"
+      },
+      {
+        "name": "Opioids in combination with non-opioid analgesics",
+        "type": "ATC1-4",
+        "id": "N02AJ"
+      }
+    ],
+    "properties": {
+      "TTY": "IN",
+      "RxNorm Name": "acetaminophen",
+      "Source": "Veterans Health Administration National Drug File"
+    }
+  },
+  {
+    "name": "ibuprofen",
+    "rxcui": "5640",
+    "classes": [
+      {
+        "name": "Opioids in combination with non-opioid analgesics",
+        "type": "ATC1-4",
+        "id": "N02AJ"
+      },
+      {
+        "name": "Opioids in combination with non-opioid analgesics",
+        "type": "ATC1-4",
+        "id": "N02AJ"
+      },
+      {
+        "name": "Other cardiac preparations",
+        "type": "ATC1-4",
+        "id": "C01EB"
+      },
+      {
+        "name": "Antiinflammatory products for vaginal administration",
+        "type": "ATC1-4",
+        "id": "G02CC"
+      },
+      {
+        "name": "Propionic acid derivatives",
+        "type": "ATC1-4",
+        "id": "M01AE"
+      }
+    ],
+    "properties": {
+      "TTY": "IN",
+      "RxNorm Name": "ibuprofen",
+      "Source": "Veterans Health Administration National Drug File"
+    }
+  },
+  {
+    "name": "amoxicillin",
+    "rxcui": "133008",
+    "classes": [
+      {
+        "name": "Penicillins with extended spectrum",
+        "type": "ATC1-4",
+        "id": "J01CA"
+      }
+    ],
+    "properties": {
+      "TTY": "PIN",
+      "RxNorm Name": "amoxicillin trihydrate",
+      "Source": "Veterans Health Administration National Drug File"
+    }
+  },
+  {
+    "name": "azithromycin",
+    "rxcui": "1298839",
+    "classes": [
+      {
+        "name": "Macrolides",
+        "type": "ATC1-4",
+        "id": "J01FA"
+      },
+      {
+        "name": "Antibiotics",
+        "type": "ATC1-4",
+        "id": "S01AA"
+      }
+    ],
+    "properties": {
+      "TTY": "PIN",
+      "RxNorm Name": "azithromycin monohydrate",
+      "Source": "US Edition of SNOMED_CT"
+    }
+  },
+  {
+    "name": "metformin",
+    "rxcui": "235743",
+    "classes": [
+      {
+        "name": "Combinations of oral blood glucose lowering drugs",
+        "type": "ATC1-4",
+        "id": "A10BD"
+      },
+      {
+        "name": "Combinations of oral blood glucose lowering drugs",
+        "type": "ATC1-4",
+        "id": "A10BD"
+      },
+      {
+        "name": "Combinations of oral blood glucose lowering drugs",
+        "type": "ATC1-4",
+        "id": "A10BD"
+      },
+      {
+        "name": "Combinations of oral blood glucose lowering drugs",
+        "type": "ATC1-4",
+        "id": "A10BD"
+      },
+      {
+        "name": "Combinations of oral blood glucose lowering drugs",
+        "type": "ATC1-4",
+        "id": "A10BD"
+      }
+    ],
+    "properties": {
+      "TTY": "PIN",
+      "RxNorm Name": "metformin hydrochloride",
+      "Source": "Veterans Health Administration National Drug File"
+    }
+  },
+  {
+    "name": "lisinopril",
+    "rxcui": "29046",
+    "classes": [
+      {
+        "name": "ACE inhibitors, plain",
+        "type": "ATC1-4",
+        "id": "C09AA"
+      }
+    ],
+    "properties": {
+      "TTY": "IN",
+      "RxNorm Name": "lisinopril",
+      "Source": "Veterans Health Administration National Drug File"
+    }
+  },
+  {
+    "name": "amlodipine",
+    "rxcui": "104416",
+    "classes": [
+      {
+        "name": "Dihydropyridine derivatives",
+        "type": "ATC1-4",
+        "id": "C08CA"
+      }
+    ],
+    "properties": {
+      "TTY": "PIN",
+      "RxNorm Name": "amlodipine besylate",
+      "Source": "Veterans Health Administration National Drug File"
+    }
+  },
+  {
+    "name": "atorvastatin",
+    "rxcui": "83367",
+    "classes": [
+      {
+        "name": "Combinations of various lipid modifying agents",
+        "type": "ATC1-4",
+        "id": "C10BA"
+      },
+      {
+        "name": "Lipid modifying agents in combination with other drugs",
+        "type": "ATC1-4",
+        "id": "C10BX"
+      },
+      {
+        "name": "HMG CoA reductase inhibitors",
+        "type": "ATC1-4",
+        "id": "C10AA"
+      }
+    ],
+    "properties": {
+      "TTY": "IN",
+      "RxNorm Name": "atorvastatin",
+      "Source": "Veterans Health Administration National Drug File"
+    }
+  },
+  {
+    "name": "omeprazole",
+    "rxcui": "283742",
+    "classes": [
+      {
+        "name": "Proton pump inhibitors",
+        "type": "ATC1-4",
+        "id": "A02BC"
+      },
+      {
+        "name": "Propionic acid derivatives",
+        "type": "ATC1-4",
+        "id": "M01AE"
+      }
+    ],
+    "properties": {
+      "TTY": "IN",
+      "RxNorm Name": "esomeprazole",
+      "Source": "Veterans Health Administration National Drug File"
+    }
+  },
+  {
+    "name": "losartan",
+    "rxcui": "52175",
+    "classes": [
+      {
+        "name": "Angiotensin II receptor blockers (ARBs), plain",
+        "type": "ATC1-4",
+        "id": "C09CA"
+      }
+    ],
+    "properties": {
+      "TTY": "IN",
+      "RxNorm Name": "losartan",
+      "Source": "Veterans Health Administration National Drug File"
+    }
+  },
+  {
+    "name": "metoprolol",
+    "rxcui": "221124",
+    "classes": [
+      {
+        "name": "Beta blocking agents, selective",
+        "type": "ATC1-4",
+        "id": "C07AB"
+      }
+    ],
+    "properties": {
+      "TTY": "PIN",
+      "RxNorm Name": "metoprolol succinate",
+      "Source": "Veterans Health Administration National Drug File"
+    }
+  },
+  {
+    "name": "levothyroxine",
+    "rxcui": "10582",
+    "classes": [
+      {
+        "name": "Thyroid hormones",
+        "type": "ATC1-4",
+        "id": "H03AA"
+      }
+    ],
+    "properties": {
+      "TTY": "IN",
+      "RxNorm Name": "levothyroxine",
+      "Source": "Veterans Health Administration National Drug File"
+    }
+  },
+  {
+    "name": "albuterol",
+    "rxcui": "142153",
+    "classes": [
+      {
+        "name": "Selective beta-2-adrenoreceptor agonists",
+        "type": "ATC1-4",
+        "id": "R03AC"
+      },
+      {
+        "name": "Selective beta-2-adrenoreceptor agonists",
+        "type": "ATC1-4",
+        "id": "R03CC"
+      }
+    ],
+    "properties": {
+      "TTY": "PIN",
+      "RxNorm Name": "albuterol sulfate",
+      "Source": "Veterans Health Administration National Drug File"
+    }
+  },
+  {
+    "name": "gabapentin",
+    "rxcui": "25480",
+    "classes": [
+      {
+        "name": "Gabapentinoids",
+        "type": "ATC1-4",
+        "id": "N02BF"
+      }
+    ],
+    "properties": {
+      "TTY": "IN",
+      "RxNorm Name": "gabapentin",
+      "Source": "Veterans Health Administration National Drug File"
+    }
+  },
+  {
+    "name": "sertraline",
+    "rxcui": "155137",
+    "classes": [
+      {
+        "name": "Selective serotonin reuptake inhibitors",
+        "type": "ATC1-4",
+        "id": "N06AB"
+      }
+    ],
+    "properties": {
+      "TTY": "PIN",
+      "RxNorm Name": "sertraline hydrochloride",
+      "Source": "Veterans Health Administration National Drug File"
+    }
+  },
+  {
+    "name": "furosemide",
+    "rxcui": "4603",
+    "classes": [
+      {
+        "name": "Sulfonamides and potassium in combination",
+        "type": "ATC1-4",
+        "id": "C03CB"
+      },
+      {
+        "name": "Sulfonamides, plain",
+        "type": "ATC1-4",
+        "id": "C03CA"
+      }
+    ],
+    "properties": {
+      "TTY": "IN",
+      "RxNorm Name": "furosemide",
+      "Source": "Veterans Health Administration National Drug File"
+    }
+  },
+  {
+    "name": "hydrochlorothiazide",
+    "rxcui": "5487",
+    "classes": [
+      {
+        "name": "Renin-inhibitors",
+        "type": "ATC1-4",
+        "id": "C09XA"
+      },
+      {
+        "name": "Thiazides, plain",
+        "type": "ATC1-4",
+        "id": "C03AA"
+      },
+      {
+        "name": "Renin-inhibitors",
+        "type": "ATC1-4",
+        "id": "C09XA"
+      },
+      {
+        "name": "Angiotensin II receptor blockers (ARBs), other combinations",
+        "type": "ATC1-4",
+        "id": "C09DX"
+      }
+    ],
+    "properties": {
+      "TTY": "IN",
+      "RxNorm Name": "hydrochlorothiazide",
+      "Source": "Veterans Health Administration National Drug File"
+    }
+  },
+  {
+    "name": "montelukast",
+    "rxcui": "88249",
+    "classes": [
+      {
+        "name": "Leukotriene receptor antagonists",
+        "type": "ATC1-4",
+        "id": "R03DC"
+      }
+    ],
+    "properties": {
+      "TTY": "IN",
+      "RxNorm Name": "montelukast",
+      "Source": "Veterans Health Administration National Drug File"
+    }
+  },
+  {
+    "name": "rosuvastatin",
+    "rxcui": "301542",
+    "classes": [
+      {
+        "name": "Combinations of various lipid modifying agents",
+        "type": "ATC1-4",
+        "id": "C10BA"
+      },
+      {
+        "name": "HMG CoA reductase inhibitors",
+        "type": "ATC1-4",
+        "id": "C10AA"
+      }
+    ],
+    "properties": {
+      "TTY": "IN",
+      "RxNorm Name": "rosuvastatin",
+      "Source": "Veterans Health Administration National Drug File"
+    }
+  },
+  {
+    "name": "escitalopram",
+    "rxcui": "321988",
+    "classes": [
+      {
+        "name": "Selective serotonin reuptake inhibitors",
+        "type": "ATC1-4",
+        "id": "N06AB"
+      }
+    ],
+    "properties": {
+      "TTY": "IN",
+      "RxNorm Name": "escitalopram",
+      "Source": "Veterans Health Administration National Drug File"
+    }
+  },
+  {
+    "name": "fluoxetine",
+    "rxcui": "227224",
+    "classes": [
+      {
+        "name": "Selective serotonin reuptake inhibitors",
+        "type": "ATC1-4",
+        "id": "N06AB"
+      }
+    ],
+    "properties": {
+      "TTY": "PIN",
+      "RxNorm Name": "fluoxetine hydrochloride",
+      "Source": "Veterans Health Administration National Drug File"
+    }
+  },
+  {
+    "name": "prednisone",
+    "rxcui": "8640",
+    "classes": [
+      {
+        "name": "Corticosteroids acting locally",
+        "type": "ATC1-4",
+        "id": "A07EA"
+      },
+      {
+        "name": "Glucocorticoids",
+        "type": "ATC1-4",
+        "id": "H02AB"
+      }
+    ],
+    "properties": {
+      "TTY": "IN",
+      "RxNorm Name": "prednisone",
+      "Source": "Veterans Health Administration National Drug File"
+    }
+  },
+  {
+    "name": "pantoprazole",
+    "rxcui": "40790",
+    "classes": [
+      {
+        "name": "Proton pump inhibitors",
+        "type": "ATC1-4",
+        "id": "A02BC"
+      }
+    ],
+    "properties": {
+      "TTY": "IN",
+      "RxNorm Name": "pantoprazole",
+      "Source": "Veterans Health Administration National Drug File"
+    }
+  },
+  {
+    "name": "clopidogrel",
+    "rxcui": "236991",
+    "classes": [
+      {
+        "name": "Platelet aggregation inhibitors excl. heparin",
+        "type": "ATC1-4",
+        "id": "B01AC"
+      }
+    ],
+    "properties": {
+      "TTY": "PIN",
+      "RxNorm Name": "clopidogrel bisulfate",
+      "Source": "Veterans Health Administration National Drug File"
+    }
+  },
+  {
+    "name": "tramadol",
+    "rxcui": "10689",
+    "classes": [
+      {
+        "name": "Other opioids",
+        "type": "ATC1-4",
+        "id": "N02AX"
+      },
+      {
+        "name": "Opioids in combination with non-opioid analgesics",
+        "type": "ATC1-4",
+        "id": "N02AJ"
+      },
+      {
+        "name": "Opioids in combination with non-opioid analgesics",
+        "type": "ATC1-4",
+        "id": "N02AJ"
+      }
+    ],
+    "properties": {}
+  },
+  {
+    "name": "fentanyl",
+    "rxcui": "142436",
+    "classes": [
+      {
+        "name": "Opioid anesthetics",
+        "type": "ATC1-4",
+        "id": "N01AH"
+      },
+      {
+        "name": "Phenylpiperidine derivatives",
+        "type": "ATC1-4",
+        "id": "N02AB"
+      }
+    ],
+    "properties": {
+      "TTY": "PIN",
+      "RxNorm Name": "fentanyl citrate",
+      "Source": "Veterans Health Administration National Drug File"
+    }
+  },
+  {
+    "name": "oxycodone",
+    "rxcui": "7804",
+    "classes": [
+      {
+        "name": "Natural opium alkaloids",
+        "type": "ATC1-4",
+        "id": "N02AA"
+      },
+      {
+        "name": "Natural opium alkaloids",
+        "type": "ATC1-4",
+        "id": "N02AA"
+      },
+      {
+        "name": "Opioids in combination with non-opioid analgesics",
+        "type": "ATC1-4",
+        "id": "N02AJ"
+      },
+      {
+        "name": "Natural opium alkaloids",
+        "type": "ATC1-4",
+        "id": "N02AA"
+      }
+    ],
+    "properties": {
+      "TTY": "IN",
+      "RxNorm Name": "oxycodone",
+      "Source": "Veterans Health Administration National Drug File"
+    }
+  },
+  {
+    "name": "ceftriaxone",
+    "rxcui": "2193",
+    "classes": [
+      {
+        "name": "Third-generation cephalosporins",
+        "type": "ATC1-4",
+        "id": "J01DD"
+      }
+    ],
+    "properties": {
+      "TTY": "IN",
+      "RxNorm Name": "ceftriaxone",
+      "Source": "Veterans Health Administration National Drug File"
+    }
+  },
+  {
+    "name": "meropenem",
+    "rxcui": "29561",
+    "classes": [
+      {
+        "name": "Carbapenems",
+        "type": "ATC1-4",
+        "id": "J01DH"
+      },
+      {
+        "name": "Carbapenems",
+        "type": "ATC1-4",
+        "id": "J01DH"
+      }
+    ],
+    "properties": {
+      "TTY": "IN",
+      "RxNorm Name": "meropenem",
+      "Source": "Veterans Health Administration National Drug File"
+    }
+  },
+  {
+    "name": "vancomycin",
+    "rxcui": "11124",
+    "classes": [
+      {
+        "name": "Antibiotics",
+        "type": "ATC1-4",
+        "id": "A07AA"
+      },
+      {
+        "name": "Glycopeptide antibacterials",
+        "type": "ATC1-4",
+        "id": "J01XA"
+      },
+      {
+        "name": "Antibiotics",
+        "type": "ATC1-4",
+        "id": "S01AA"
+      }
+    ],
+    "properties": {
+      "TTY": "IN",
+      "RxNorm Name": "vancomycin",
+      "Source": "Veterans Health Administration National Drug File"
+    }
+  },
+  {
+    "name": "linezolid",
+    "rxcui": "190376",
+    "classes": [
+      {
+        "name": "Other antibacterials",
+        "type": "ATC1-4",
+        "id": "J01XX"
+      }
+    ],
+    "properties": {
+      "TTY": "IN",
+      "RxNorm Name": "linezolid",
+      "Source": "Veterans Health Administration National Drug File"
+    }
+  },
+  {
+    "name": "clindamycin",
+    "rxcui": "21235",
+    "classes": [
+      {
+        "name": "Antiinfectives for treatment of acne",
+        "type": "ATC1-4",
+        "id": "D10AF"
+      },
+      {
+        "name": "Antibiotics",
+        "type": "ATC1-4",
+        "id": "G01AA"
+      },
+      {
+        "name": "Lincosamides",
+        "type": "ATC1-4",
+        "id": "J01FF"
+      }
+    ],
+    "properties": {
+      "TTY": "PIN",
+      "RxNorm Name": "clindamycin palmitate",
+      "Source": "US Edition of SNOMED_CT"
+    }
+  },
+  {
+    "name": "levofloxacin",
+    "rxcui": "82122",
+    "classes": [
+      {
+        "name": "Fluoroquinolones",
+        "type": "ATC1-4",
+        "id": "J01MA"
+      },
+      {
+        "name": "Fluoroquinolones",
+        "type": "ATC1-4",
+        "id": "S01AE"
+      }
+    ],
+    "properties": {
+      "TTY": "IN",
+      "RxNorm Name": "levofloxacin",
+      "Source": "Veterans Health Administration National Drug File"
+    }
+  },
+  {
+    "name": "moxifloxacin",
+    "rxcui": "139462",
+    "classes": [
+      {
+        "name": "Fluoroquinolones",
+        "type": "ATC1-4",
+        "id": "J01MA"
+      },
+      {
+        "name": "Fluoroquinolones",
+        "type": "ATC1-4",
+        "id": "S01AE"
+      }
+    ],
+    "properties": {
+      "TTY": "IN",
+      "RxNorm Name": "moxifloxacin",
+      "Source": "Veterans Health Administration National Drug File"
+    }
+  },
+  {
+    "name": "nitrofurantoin",
+    "rxcui": "221129",
+    "classes": [
+      {
+        "name": "Nitrofuran derivatives",
+        "type": "ATC1-4",
+        "id": "J01XE"
+      }
+    ],
+    "properties": {
+      "TTY": "PIN",
+      "RxNorm Name": "nitrofurantoin, monohydrate",
+      "Source": "US Edition of SNOMED_CT"
+    }
+  },
+  {
+    "name": "rifampicin",
+    "rxcui": "9384",
+    "classes": [
+      {
+        "name": "Combinations of drugs for treatment of tuberculosis",
+        "type": "ATC1-4",
+        "id": "J04AM"
+      },
+      {
+        "name": "Combinations of drugs for treatment of tuberculosis",
+        "type": "ATC1-4",
+        "id": "J04AM"
+      },
+      {
+        "name": "Combinations of drugs for treatment of tuberculosis",
+        "type": "ATC1-4",
+        "id": "J04AM"
+      },
+      {
+        "name": "Antibiotics",
+        "type": "ATC1-4",
+        "id": "J04AB"
+      }
+    ],
+    "properties": {
+      "TTY": "IN",
+      "RxNorm Name": "rifampin",
+      "Source": "Veterans Health Administration National Drug File"
+    }
+  },
+  {
+    "name": "isoniazid",
+    "rxcui": "6038",
+    "classes": [
+      {
+        "name": "Combinations of drugs for treatment of tuberculosis",
+        "type": "ATC1-4",
+        "id": "J04AM"
+      },
+      {
+        "name": "Combinations of drugs for treatment of tuberculosis",
+        "type": "ATC1-4",
+        "id": "J04AM"
+      },
+      {
+        "name": "Hydrazides",
+        "type": "ATC1-4",
+        "id": "J04AC"
+      },
+      {
+        "name": "Combinations of drugs for treatment of tuberculosis",
+        "type": "ATC1-4",
+        "id": "J04AM"
+      },
+      {
+        "name": "Combinations of drugs for treatment of tuberculosis",
+        "type": "ATC1-4",
+        "id": "J04AM"
+      }
+    ],
+    "properties": {
+      "TTY": "IN",
+      "RxNorm Name": "isoniazid",
+      "Source": "Veterans Health Administration National Drug File"
+    }
+  },
+  {
+    "name": "ethambutol",
+    "rxcui": "142435",
+    "classes": [
+      {
+        "name": "Other drugs for treatment of tuberculosis",
+        "type": "ATC1-4",
+        "id": "J04AK"
+      }
+    ],
+    "properties": {
+      "TTY": "PIN",
+      "RxNorm Name": "ethambutol hydrochloride",
+      "Source": "Veterans Health Administration National Drug File"
+    }
+  },
+  {
+    "name": "pyrazinamide",
+    "rxcui": "8987",
+    "classes": [
+      {
+        "name": "Combinations of drugs for treatment of tuberculosis",
+        "type": "ATC1-4",
+        "id": "J04AM"
+      },
+      {
+        "name": "Other drugs for treatment of tuberculosis",
+        "type": "ATC1-4",
+        "id": "J04AK"
+      }
+    ],
+    "properties": {
+      "TTY": "IN",
+      "RxNorm Name": "pyrazinamide",
+      "Source": "Veterans Health Administration National Drug File"
+    }
+  },
+  {
+    "name": "albendazole",
+    "rxcui": "430",
+    "classes": [
+      {
+        "name": "Benzimidazole derivatives",
+        "type": "ATC1-4",
+        "id": "P02CA"
+      }
+    ],
+    "properties": {
+      "TTY": "IN",
+      "RxNorm Name": "albendazole",
+      "Source": "Veterans Health Administration National Drug File"
+    }
+  },
+  {
+    "name": "prednisolone",
+    "rxcui": "34372",
+    "classes": [
+      {
+        "name": "Corticosteroids for local oral treatment",
+        "type": "ATC1-4",
+        "id": "A01AC"
+      },
+      {
+        "name": "Corticosteroids acting locally",
+        "type": "ATC1-4",
+        "id": "A07EA"
+      },
+      {
+        "name": "Corticosteroids",
+        "type": "ATC1-4",
+        "id": "C05AA"
+      },
+      {
+        "name": "Corticosteroids, weak (group I)",
+        "type": "ATC1-4",
+        "id": "D07AA"
+      },
+      {
+        "name": "Corticosteroids, weak, other combinations",
+        "type": "ATC1-4",
+        "id": "D07XA"
+      }
+    ],
+    "properties": {
+      "TTY": "PIN",
+      "RxNorm Name": "prednisolone acetate",
+      "Source": "Veterans Health Administration National Drug File"
+    }
+  },
+  {
+    "name": "dexamethasone",
+    "rxcui": "22690",
+    "classes": [
+      {
+        "name": "Corticosteroids for local oral treatment",
+        "type": "ATC1-4",
+        "id": "A01AC"
+      },
+      {
+        "name": "Corticosteroids",
+        "type": "ATC1-4",
+        "id": "C05AA"
+      },
+      {
+        "name": "Corticosteroids, moderately potent (group II)",
+        "type": "ATC1-4",
+        "id": "D07AB"
+      },
+      {
+        "name": "Corticosteroids, moderately potent, other combinations",
+        "type": "ATC1-4",
+        "id": "D07XB"
+      },
+      {
+        "name": "Corticosteroids, combinations for treatment of acne",
+        "type": "ATC1-4",
+        "id": "D10AA"
+      }
+    ],
+    "properties": {
+      "TTY": "PIN",
+      "RxNorm Name": "dexamethasone acetate",
+      "Source": "Veterans Health Administration National Drug File"
+    }
+  },
+  {
+    "name": "methylprednisolone",
+    "rxcui": "155323",
+    "classes": [
+      {
+        "name": "Corticosteroids, weak (group I)",
+        "type": "ATC1-4",
+        "id": "D07AA"
+      },
+      {
+        "name": "Corticosteroids, combinations for treatment of acne",
+        "type": "ATC1-4",
+        "id": "D10AA"
+      },
+      {
+        "name": "Glucocorticoids",
+        "type": "ATC1-4",
+        "id": "H02AB"
+      }
+    ],
+    "properties": {
+      "TTY": "PIN",
+      "RxNorm Name": "methylprednisolone acetate",
+      "Source": "Veterans Health Administration National Drug File"
+    }
+  },
+  {
+    "name": "hydrocortisone",
+    "rxcui": "1007334",
+    "classes": [
+      {
+        "name": "Corticosteroids for local oral treatment",
+        "type": "ATC1-4",
+        "id": "A01AC"
+      },
+      {
+        "name": "Corticosteroids acting locally",
+        "type": "ATC1-4",
+        "id": "A07EA"
+      },
+      {
+        "name": "Corticosteroids",
+        "type": "ATC1-4",
+        "id": "C05AA"
+      },
+      {
+        "name": "Corticosteroids, weak (group I)",
+        "type": "ATC1-4",
+        "id": "D07AA"
+      },
+      {
+        "name": "Corticosteroids, weak, other combinations",
+        "type": "ATC1-4",
+        "id": "D07XA"
+      }
+    ],
+    "properties": {
+      "TTY": "MIN",
+      "RxNorm Name": "hydrocortisone / lactate"
+    }
+  },
+  {
+    "name": "insulin aspart",
+    "rxcui": "51428",
+    "classes": [
+      {
+        "name": "Insulins and analogues for injection, fast-acting",
+        "type": "ATC1-4",
+        "id": "A10AB"
+      },
+      {
+        "name": "Insulins and analogues for injection, intermediate- or long-acting combined with fast-acting",
+        "type": "ATC1-4",
+        "id": "A10AD"
+      }
+    ],
+    "properties": {
+      "TTY": "IN",
+      "RxNorm Name": "insulin aspart, human",
+      "Source": "Veterans Health Administration National Drug File"
+    }
+  },
+  {
+    "name": "insulin lispro",
+    "rxcui": "86009",
+    "classes": [
+      {
+        "name": "Insulins and analogues for injection, fast-acting",
+        "type": "ATC1-4",
+        "id": "A10AB"
+      },
+      {
+        "name": "Insulins and analogues for injection, intermediate-acting",
+        "type": "ATC1-4",
+        "id": "A10AC"
+      },
+      {
+        "name": "Insulins and analogues for injection, intermediate- or long-acting combined with fast-acting",
+        "type": "ATC1-4",
+        "id": "A10AD"
+      }
+    ],
+    "properties": {
+      "TTY": "IN",
+      "RxNorm Name": "insulin lispro",
+      "Source": "Veterans Health Administration National Drug File"
+    }
+  }
+]

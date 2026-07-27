@@ -1,0 +1,68 @@
+# ── Secrets — never commit ──────────────────────────────────────────────────
+.env
+.env.*
+!.env.example
+secrets/
+*.pem
+*.p12
+*.pfx
+*.key
+*-service-account.json
+firebase-service-account.json
+GoogleService-Info.plist
+
+# NOTE on Firebase client config: dawaacheck/android/app/google-services.json is
+# deliberately TRACKED, holding placeholder values, because the Google Services
+# Gradle plugin refuses to build without it. `flutterfire configure` overwrites
+# it with your real project — do not commit that back.
+dawaacheck/ios/Runner/GoogleService-Info.plist
+
+# Android signing
+*.jks
+*.keystore
+key.properties
+
+# ── Build output ────────────────────────────────────────────────────────────
+build/
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+*.apk
+*.aab
+*.ipa
+symbols/
+.firebase/
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/app/release/
+ios/Pods/
+ios/.symlinks/
+
+# ── Python ──────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# ── Stray backups / scratch ─────────────────────────────────────────────────
+*.bak
+*.orig
+*.rej
+*~
+
+# ── Editors / OS ────────────────────────────────────────────────────────────
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# ── Agent runtime state ─────────────────────────────────────────────────────
+openclaw/memory/*
+!openclaw/memory/.gitkeep

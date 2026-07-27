@@ -1,0 +1,840 @@
+[
+  {
+    "id": "RCL-2025-001",
+    "recall_class": "CLASS_I",
+    "medicine_name": "Panadol Extra 500mg Tablets",
+    "registration_number": "014285",
+    "batch_numbers": [
+      "B2024-1187",
+      "B2024-1188",
+      "B2024-1203"
+    ],
+    "recall_reason": "Contamination with unknown impurity detected during post-market surveillance; NDMA levels exceeding acceptable daily intake",
+    "recall_date": "2025-01-15",
+    "drap_notice_number": "F.No.10-18/2025",
+    "is_active": true,
+    "manufacturer": "GlaxoSmithKline Pakistan Limited",
+    "affected_regions": [
+      "Karachi",
+      "Lahore",
+      "Islamabad",
+      "Peshawar"
+    ]
+  },
+  {
+    "id": "RCL-2025-002",
+    "recall_class": "CLASS_II",
+    "medicine_name": "Augmentin 625mg Tablets",
+    "registration_number": "008741",
+    "batch_numbers": [
+      "AUG-24-0456"
+    ],
+    "recall_reason": "Substandard API content; amoxicillin assay found at 84.3%, below the acceptable limit of 90%",
+    "recall_date": "2025-01-22",
+    "drap_notice_number": "F.No.10-22/2025",
+    "is_active": true,
+    "manufacturer": "GlaxoSmithKline Pakistan Limited",
+    "affected_regions": [
+      "Lahore",
+      "Faisalabad",
+      "Multan"
+    ]
+  },
+  {
+    "id": "RCL-2025-003",
+    "recall_class": "CLASS_I",
+    "medicine_name": "Risek 20mg Capsules",
+    "registration_number": "051209",
+    "batch_numbers": [
+      "RSK-2024-773",
+      "RSK-2024-774"
+    ],
+    "recall_reason": "Counterfeit product detected in Sindh province; hologram and packaging anomalies confirmed by DRAP laboratory",
+    "recall_date": "2025-02-03",
+    "drap_notice_number": "F.No.11-05/2025",
+    "is_active": true,
+    "manufacturer": "Getz Pharma (Pvt) Ltd (counterfeit — not manufactured by Getz Pharma)",
+    "affected_regions": [
+      "Karachi",
+      "Hyderabad",
+      "Sukkur"
+    ]
+  },
+  {
+    "id": "RCL-2025-004",
+    "recall_class": "CLASS_II",
+    "medicine_name": "Nexium 40mg Tablets",
+    "registration_number": "032876",
+    "batch_numbers": [
+      "NXM-24-0901",
+      "NXM-24-0902"
+    ],
+    "recall_reason": "Failed dissolution testing; less than 60% of esomeprazole released within 45 minutes",
+    "recall_date": "2025-02-10",
+    "drap_notice_number": "F.No.10-29/2025",
+    "is_active": true,
+    "manufacturer": "AstraZeneca Pakistan",
+    "affected_regions": [
+      "Islamabad",
+      "Rawalpindi",
+      "Lahore"
+    ]
+  },
+  {
+    "id": "RCL-2025-005",
+    "recall_class": "CLASS_I",
+    "medicine_name": "Amoxi-Clav 375mg Tablets",
+    "registration_number": "071548",
+    "batch_numbers": [
+      "AC-2024-330",
+      "AC-2024-331",
+      "AC-2024-332"
+    ],
+    "recall_reason": "Microbial contamination; Pseudomonas aeruginosa detected in finished product samples",
+    "recall_date": "2025-02-18",
+    "drap_notice_number": "F.No.12-03/2025",
+    "is_active": true,
+    "manufacturer": "Sami Pharmaceuticals (Pvt) Ltd",
+    "affected_regions": [
+      "Karachi",
+      "Lahore",
+      "Peshawar",
+      "Quetta"
+    ]
+  },
+  {
+    "id": "RCL-2025-006",
+    "recall_class": "CLASS_II",
+    "medicine_name": "Novaclav 625mg Tablets",
+    "registration_number": "068932",
+    "batch_numbers": [
+      "NVC-24-112"
+    ],
+    "recall_reason": "Packaging defect; blister strips missing batch number and expiry date information",
+    "recall_date": "2025-03-01",
+    "drap_notice_number": "F.No.10-34/2025",
+    "is_active": true,
+    "manufacturer": "Novartis Pharma (Pakistan) Ltd",
+    "affected_regions": [
+      "Lahore",
+      "Faisalabad"
+    ]
+  },
+  {
+    "id": "RCL-2025-007",
+    "recall_class": "CLASS_I",
+    "medicine_name": "Cefiget 400mg Capsules",
+    "registration_number": "082145",
+    "batch_numbers": [
+      "CFG-2024-560",
+      "CFG-2024-561"
+    ],
+    "recall_reason": "Unregistered medicine; product not listed in DRAP registry and suspected to be smuggled from India",
+    "recall_date": "2025-03-05",
+    "drap_notice_number": "F.No.14-07/2025",
+    "is_active": true,
+    "manufacturer": "Unknown / Unregistered Manufacturer",
+    "affected_regions": [
+      "Karachi",
+      "Quetta",
+      "Peshawar"
+    ]
+  },
+  {
+    "id": "RCL-2025-008",
+    "recall_class": "CLASS_I",
+    "medicine_name": "Inj. Ceftriaxone 1g",
+    "registration_number": "045672",
+    "batch_numbers": [
+      "CTX-2024-1001",
+      "CTX-2024-1002",
+      "CTX-2024-1003"
+    ],
+    "recall_reason": "Contamination with unknown impurity; particulate matter observed in reconstituted solution",
+    "recall_date": "2025-03-12",
+    "drap_notice_number": "F.No.11-11/2025",
+    "is_active": true,
+    "manufacturer": "Searle Company Ltd",
+    "affected_regions": [
+      "Karachi",
+      "Lahore",
+      "Islamabad",
+      "Multan",
+      "Peshawar"
+    ]
+  },
+  {
+    "id": "RCL-2025-009",
+    "recall_class": "CLASS_II",
+    "medicine_name": "Ponstan Forte 500mg Tablets",
+    "registration_number": "003298",
+    "batch_numbers": [
+      "PF-24-0220"
+    ],
+    "recall_reason": "Substandard API content; mefenamic acid assay at 112.7%, above the acceptable limit of 110%",
+    "recall_date": "2025-03-20",
+    "drap_notice_number": "F.No.10-41/2025",
+    "is_active": true,
+    "manufacturer": "Pfizer Pakistan Ltd",
+    "affected_regions": [
+      "Islamabad",
+      "Rawalpindi"
+    ]
+  },
+  {
+    "id": "RCL-2025-010",
+    "recall_class": "CLASS_I",
+    "medicine_name": "Ascard 75mg Tablets",
+    "registration_number": "056781",
+    "batch_numbers": [
+      "ASC-2024-889",
+      "ASC-2024-890"
+    ],
+    "recall_reason": "Expired product being resold; original expiry date tampered and re-stamped with extended date",
+    "recall_date": "2025-04-02",
+    "drap_notice_number": "F.No.14-12/2025",
+    "is_active": true,
+    "manufacturer": "Atco Laboratories Ltd (tampered by unauthorized distributor)",
+    "affected_regions": [
+      "Karachi",
+      "Hyderabad",
+      "Nawabshah"
+    ]
+  },
+  {
+    "id": "RCL-2025-011",
+    "recall_class": "CLASS_II",
+    "medicine_name": "Entamizole Tablets",
+    "registration_number": "023890",
+    "batch_numbers": [
+      "ENT-24-0450",
+      "ENT-24-0451"
+    ],
+    "recall_reason": "Failed dissolution testing; metronidazole dissolution at 52% after 30 minutes, below the 70% Q requirement",
+    "recall_date": "2025-04-10",
+    "drap_notice_number": "F.No.10-48/2025",
+    "is_active": true,
+    "manufacturer": "Hilton Pharma (Pvt) Ltd",
+    "affected_regions": [
+      "Karachi",
+      "Lahore"
+    ]
+  },
+  {
+    "id": "RCL-2025-012",
+    "recall_class": "CLASS_I",
+    "medicine_name": "Velosef 500mg Capsules",
+    "registration_number": "011234",
+    "batch_numbers": [
+      "VEL-2024-667"
+    ],
+    "recall_reason": "Counterfeit product detected; cephradine content found to be zero, capsules contained only lactose filler",
+    "recall_date": "2025-04-15",
+    "drap_notice_number": "F.No.14-16/2025",
+    "is_active": true,
+    "manufacturer": "Bristol-Myers Squibb Pakistan (counterfeit — not genuine BMS product)",
+    "affected_regions": [
+      "Quetta",
+      "Zhob",
+      "Loralai"
+    ]
+  },
+  {
+    "id": "RCL-2025-013",
+    "recall_class": "CLASS_II",
+    "medicine_name": "Brufen 400mg Tablets",
+    "registration_number": "005467",
+    "batch_numbers": [
+      "BRF-24-0730",
+      "BRF-24-0731"
+    ],
+    "recall_reason": "Packaging defect; wrong label applied — 200mg strength label on 400mg blister packs",
+    "recall_date": "2025-04-22",
+    "drap_notice_number": "F.No.10-55/2025",
+    "is_active": false,
+    "manufacturer": "Abbott Laboratories Pakistan Ltd",
+    "affected_regions": [
+      "Lahore",
+      "Islamabad",
+      "Karachi"
+    ]
+  },
+  {
+    "id": "RCL-2025-014",
+    "recall_class": "CLASS_I",
+    "medicine_name": "Ampiclox 500mg Capsules",
+    "registration_number": "078432",
+    "batch_numbers": [
+      "APC-2024-201",
+      "APC-2024-202",
+      "APC-2024-203"
+    ],
+    "recall_reason": "Microbial contamination; Staphylococcus aureus detected above pharmacopoeial limits",
+    "recall_date": "2025-05-01",
+    "drap_notice_number": "F.No.12-09/2025",
+    "is_active": true,
+    "manufacturer": "Ferozsons Laboratories Ltd",
+    "affected_regions": [
+      "Rawalpindi",
+      "Peshawar",
+      "Abbottabad"
+    ]
+  },
+  {
+    "id": "RCL-2025-015",
+    "recall_class": "CLASS_I",
+    "medicine_name": "Inj. Ranitidine 50mg/2ml",
+    "registration_number": "039087",
+    "batch_numbers": [
+      "RAN-2024-500",
+      "RAN-2024-501"
+    ],
+    "recall_reason": "Contamination with unknown impurity; NDMA (N-Nitrosodimethylamine) levels 10x above acceptable daily intake",
+    "recall_date": "2025-05-08",
+    "drap_notice_number": "F.No.11-20/2025",
+    "is_active": true,
+    "manufacturer": "Sanofi-Aventis Pakistan Ltd",
+    "affected_regions": [
+      "Karachi",
+      "Lahore",
+      "Islamabad",
+      "Faisalabad",
+      "Multan",
+      "Peshawar"
+    ]
+  },
+  {
+    "id": "RCL-2025-016",
+    "recall_class": "CLASS_II",
+    "medicine_name": "Flagyl 400mg Tablets",
+    "registration_number": "002109",
+    "batch_numbers": [
+      "FLG-24-0340"
+    ],
+    "recall_reason": "Substandard API content; metronidazole assay at 87.1%, below the acceptable limit of 90%",
+    "recall_date": "2025-05-15",
+    "drap_notice_number": "F.No.10-62/2025",
+    "is_active": true,
+    "manufacturer": "Sanofi-Aventis Pakistan Ltd",
+    "affected_regions": [
+      "Multan",
+      "Bahawalpur"
+    ]
+  },
+  {
+    "id": "RCL-2025-017",
+    "recall_class": "CLASS_I",
+    "medicine_name": "Inj. Diclofenac Sodium 75mg/3ml",
+    "registration_number": "061234",
+    "batch_numbers": [
+      "DIC-2024-445",
+      "DIC-2024-446"
+    ],
+    "recall_reason": "Unregistered medicine; manufacturing license expired and product manufactured after license expiry without renewal",
+    "recall_date": "2025-05-22",
+    "drap_notice_number": "F.No.14-23/2025",
+    "is_active": true,
+    "manufacturer": "Helix Pharma (Pvt) Ltd",
+    "affected_regions": [
+      "Karachi",
+      "Hyderabad"
+    ]
+  },
+  {
+    "id": "RCL-2025-018",
+    "recall_class": "CLASS_II",
+    "medicine_name": "Amoxicillin Dry Suspension 125mg/5ml",
+    "registration_number": "084523",
+    "batch_numbers": [
+      "ADS-24-0890",
+      "ADS-24-0891",
+      "ADS-24-0892"
+    ],
+    "recall_reason": "Failed dissolution testing; reconstituted suspension shows sedimentation and poor uniformity of dosage units",
+    "recall_date": "2025-06-01",
+    "drap_notice_number": "F.No.10-68/2025",
+    "is_active": true,
+    "manufacturer": "Platinum Pharmaceuticals (Pvt) Ltd",
+    "affected_regions": [
+      "Karachi",
+      "Lahore",
+      "Peshawar"
+    ]
+  },
+  {
+    "id": "RCL-2025-019",
+    "recall_class": "CLASS_I",
+    "medicine_name": "Ciprofloxacin 500mg Tablets",
+    "registration_number": "091345",
+    "batch_numbers": [
+      "CIP-2024-1120"
+    ],
+    "recall_reason": "Expired product being resold; batch expired 2024-03, intercepted at wholesale market in Karachi with altered expiry labels",
+    "recall_date": "2025-06-10",
+    "drap_notice_number": "F.No.14-28/2025",
+    "is_active": true,
+    "manufacturer": "Highnoon Laboratories Ltd (tampered by unauthorized party)",
+    "affected_regions": [
+      "Karachi"
+    ]
+  },
+  {
+    "id": "RCL-2025-020",
+    "recall_class": "CLASS_I",
+    "medicine_name": "Insulin Glargine 100IU/ml Injection",
+    "registration_number": "102987",
+    "batch_numbers": [
+      "ING-2024-055",
+      "ING-2024-056"
+    ],
+    "recall_reason": "Contamination with unknown impurity; endotoxin levels exceeding pharmacopoeial limits in injectable preparation",
+    "recall_date": "2025-06-18",
+    "drap_notice_number": "F.No.11-30/2025",
+    "is_active": true,
+    "manufacturer": "Novo Nordisk Pakistan",
+    "affected_regions": [
+      "Lahore",
+      "Islamabad",
+      "Karachi",
+      "Rawalpindi"
+    ]
+  },
+  {
+    "id": "RCL-2025-021",
+    "recall_class": "CLASS_II",
+    "medicine_name": "Disprin 300mg Tablets",
+    "registration_number": "001567",
+    "batch_numbers": [
+      "DSP-24-1450",
+      "DSP-24-1451"
+    ],
+    "recall_reason": "Packaging defect; desiccant sachet missing from bottle, moisture ingress causing tablet disintegration",
+    "recall_date": "2025-06-25",
+    "drap_notice_number": "F.No.10-75/2025",
+    "is_active": false,
+    "manufacturer": "Reckitt Benckiser Pakistan Ltd",
+    "affected_regions": [
+      "Lahore",
+      "Faisalabad",
+      "Sialkot"
+    ]
+  },
+  {
+    "id": "RCL-2025-022",
+    "recall_class": "CLASS_I",
+    "medicine_name": "Cefspan 100mg Capsules",
+    "registration_number": "043210",
+    "batch_numbers": [
+      "CSP-2024-780"
+    ],
+    "recall_reason": "Counterfeit product detected; cefixime content at 12% of label claim, bulk counterfeit operation uncovered in Punjab",
+    "recall_date": "2025-07-03",
+    "drap_notice_number": "F.No.14-33/2025",
+    "is_active": true,
+    "manufacturer": "Highnoon Laboratories Ltd (counterfeit — not genuine Highnoon product)",
+    "affected_regions": [
+      "Lahore",
+      "Gujranwala",
+      "Sialkot",
+      "Gujrat"
+    ]
+  },
+  {
+    "id": "RCL-2025-023",
+    "recall_class": "CLASS_II",
+    "medicine_name": "Azomax 500mg Tablets",
+    "registration_number": "067890",
+    "batch_numbers": [
+      "AZM-24-0310",
+      "AZM-24-0311"
+    ],
+    "recall_reason": "Substandard API content; azithromycin assay at 88.5%, below the acceptable limit of 90%",
+    "recall_date": "2025-07-10",
+    "drap_notice_number": "F.No.10-80/2025",
+    "is_active": true,
+    "manufacturer": "Sami Pharmaceuticals (Pvt) Ltd",
+    "affected_regions": [
+      "Karachi",
+      "Hyderabad",
+      "Sukkur"
+    ]
+  },
+  {
+    "id": "RCL-2025-024",
+    "recall_class": "CLASS_I",
+    "medicine_name": "Inj. Gentamicin 80mg/2ml",
+    "registration_number": "034567",
+    "batch_numbers": [
+      "GEN-2024-290",
+      "GEN-2024-291"
+    ],
+    "recall_reason": "Microbial contamination; sterility test failure — Bacillus cereus isolated from sealed vials",
+    "recall_date": "2025-07-18",
+    "drap_notice_number": "F.No.12-15/2025",
+    "is_active": true,
+    "manufacturer": "Wilson's Pharmaceuticals",
+    "affected_regions": [
+      "Islamabad",
+      "Rawalpindi",
+      "Peshawar",
+      "Mardan"
+    ]
+  },
+  {
+    "id": "RCL-2025-025",
+    "recall_class": "CLASS_I",
+    "medicine_name": "Lipitor 20mg Tablets",
+    "registration_number": "019876",
+    "batch_numbers": [
+      "LPT-2024-650"
+    ],
+    "recall_reason": "Unregistered/smuggled medicine; product bearing Indian MRP label found in wholesale markets, not registered with DRAP",
+    "recall_date": "2025-07-25",
+    "drap_notice_number": "F.No.14-38/2025",
+    "is_active": true,
+    "manufacturer": "Unknown (smuggled product bearing Pfizer India markings)",
+    "affected_regions": [
+      "Quetta",
+      "Chaman",
+      "Karachi"
+    ]
+  },
+  {
+    "id": "DRAP-2025-026",
+    "recall_class": "CLASS_I",
+    "medicine_name": "Paracetamol Injection 1g",
+    "registration_number": "099001",
+    "batch_numbers": [
+      "PJ-2024-A12",
+      "PJ-2024-A13"
+    ],
+    "recall_reason": "Particulate matter detected in multiple vials",
+    "recall_date": "2025-11-15",
+    "drap_notice_number": "F.No.10-08/2025-DD(QA)",
+    "is_active": true
+  },
+  {
+    "id": "DRAP-2025-027",
+    "recall_class": "CLASS_II",
+    "medicine_name": "Cetirizine Syrup 5mg/5ml",
+    "registration_number": "099002",
+    "batch_numbers": [
+      "CS-B456"
+    ],
+    "recall_reason": "Failed dissolution test - reduced bioavailability",
+    "recall_date": "2025-11-20",
+    "drap_notice_number": "F.No.10-09/2025-DD(QA)",
+    "is_active": true
+  },
+  {
+    "id": "DRAP-2025-028",
+    "recall_class": "CLASS_I",
+    "medicine_name": "Amoxicillin Capsule 500mg",
+    "registration_number": "099003",
+    "batch_numbers": [
+      "AMX-2024-C1",
+      "AMX-2024-C2",
+      "AMX-2024-C3"
+    ],
+    "recall_reason": "Cross-contamination with penicillin residues exceeding limits",
+    "recall_date": "2025-10-05",
+    "drap_notice_number": "F.No.10-10/2025-DD(QA)",
+    "is_active": true
+  },
+  {
+    "id": "DRAP-2025-029",
+    "recall_class": "CLASS_II",
+    "medicine_name": "Metformin Tablet 850mg",
+    "registration_number": "099004",
+    "batch_numbers": [
+      "MET-D789"
+    ],
+    "recall_reason": "NDMA impurity above acceptable intake limit",
+    "recall_date": "2025-09-28",
+    "drap_notice_number": "F.No.10-11/2025-DD(QA)",
+    "is_active": true
+  },
+  {
+    "id": "DRAP-2025-030",
+    "recall_class": "CLASS_I",
+    "medicine_name": "Insulin Glargine 100IU/ml",
+    "registration_number": "099005",
+    "batch_numbers": [
+      "IG-2024-E01"
+    ],
+    "recall_reason": "Potency below specification - risk of hyperglycemia",
+    "recall_date": "2025-09-15",
+    "drap_notice_number": "F.No.10-12/2025-DD(QA)",
+    "is_active": true
+  },
+  {
+    "id": "DRAP-2025-031",
+    "recall_class": "CLASS_II",
+    "medicine_name": "Omeprazole Capsule 20mg",
+    "registration_number": "099006",
+    "batch_numbers": [
+      "OMP-F234",
+      "OMP-F235"
+    ],
+    "recall_reason": "Stability failure - degradation products exceeding limits at 6 months",
+    "recall_date": "2025-08-22",
+    "drap_notice_number": "F.No.10-13/2025-DD(QA)",
+    "is_active": true
+  },
+  {
+    "id": "DRAP-2025-032",
+    "recall_class": "CLASS_I",
+    "medicine_name": "Ciprofloxacin Infusion 200mg/100ml",
+    "registration_number": "099007",
+    "batch_numbers": [
+      "CIP-G567"
+    ],
+    "recall_reason": "Non-sterility detected during routine testing",
+    "recall_date": "2025-08-10",
+    "drap_notice_number": "F.No.10-14/2025-DD(QA)",
+    "is_active": true
+  },
+  {
+    "id": "DRAP-2025-033",
+    "recall_class": "CLASS_II",
+    "medicine_name": "Losartan Tablet 50mg",
+    "registration_number": "099008",
+    "batch_numbers": [
+      "LOS-H890",
+      "LOS-H891"
+    ],
+    "recall_reason": "Azido impurity exceeding acceptable daily intake",
+    "recall_date": "2025-07-18",
+    "drap_notice_number": "F.No.10-15/2025-DD(QA)",
+    "is_active": true
+  },
+  {
+    "id": "DRAP-2025-034",
+    "recall_class": "CLASS_I",
+    "medicine_name": "Ceftriaxone Injection 1g",
+    "registration_number": "099009",
+    "batch_numbers": [
+      "CEF-I123",
+      "CEF-I124"
+    ],
+    "recall_reason": "Endotoxin levels above specification",
+    "recall_date": "2025-07-05",
+    "drap_notice_number": "F.No.10-16/2025-DD(QA)",
+    "is_active": true
+  },
+  {
+    "id": "DRAP-2025-035",
+    "recall_class": "CLASS_II",
+    "medicine_name": "Diclofenac Gel 1%",
+    "registration_number": "099010",
+    "batch_numbers": [
+      "DG-J456"
+    ],
+    "recall_reason": "Microbial contamination - total aerobic count above limits",
+    "recall_date": "2025-06-25",
+    "drap_notice_number": "F.No.10-17/2025-DD(QA)",
+    "is_active": true
+  },
+  {
+    "id": "DRAP-2025-036",
+    "recall_class": "CLASS_I",
+    "medicine_name": "Amlodipine Tablet 10mg",
+    "registration_number": "099011",
+    "batch_numbers": [
+      "AML-K789"
+    ],
+    "recall_reason": "Incorrect active ingredient quantity - 15mg instead of 10mg",
+    "recall_date": "2025-06-12",
+    "drap_notice_number": "F.No.10-18/2025-DD(QA)",
+    "is_active": true
+  },
+  {
+    "id": "DRAP-2025-037",
+    "recall_class": "CLASS_II",
+    "medicine_name": "Salbutamol Inhaler 100mcg",
+    "registration_number": "099012",
+    "batch_numbers": [
+      "SAL-L012",
+      "SAL-L013"
+    ],
+    "recall_reason": "Dose uniformity failure - inconsistent spray delivery",
+    "recall_date": "2025-05-30",
+    "drap_notice_number": "F.No.10-19/2025-DD(QA)",
+    "is_active": true
+  },
+  {
+    "id": "DRAP-2025-038",
+    "recall_class": "CLASS_I",
+    "medicine_name": "Enoxaparin Injection 40mg",
+    "registration_number": "099013",
+    "batch_numbers": [
+      "ENX-M345"
+    ],
+    "recall_reason": "Potency failure - anti-Xa activity below specification",
+    "recall_date": "2025-05-18",
+    "drap_notice_number": "F.No.10-20/2025-DD(QA)",
+    "is_active": true
+  },
+  {
+    "id": "DRAP-2025-039",
+    "recall_class": "CLASS_II",
+    "medicine_name": "Atorvastatin Tablet 20mg",
+    "registration_number": "099014",
+    "batch_numbers": [
+      "ATV-N678",
+      "ATV-N679"
+    ],
+    "recall_reason": "Failed content uniformity test",
+    "recall_date": "2025-04-22",
+    "drap_notice_number": "F.No.10-21/2025-DD(QA)",
+    "is_active": true
+  },
+  {
+    "id": "DRAP-2025-040",
+    "recall_class": "CLASS_I",
+    "medicine_name": "Vancomycin Injection 500mg",
+    "registration_number": "099015",
+    "batch_numbers": [
+      "VAN-O901"
+    ],
+    "recall_reason": "Glass particles detected from cracked vials",
+    "recall_date": "2025-04-08",
+    "drap_notice_number": "F.No.10-22/2025-DD(QA)",
+    "is_active": true
+  },
+  {
+    "id": "DRAP-2024-041",
+    "recall_class": "CLASS_II",
+    "medicine_name": "Ibuprofen Suspension 100mg/5ml",
+    "registration_number": "099016",
+    "batch_numbers": [
+      "IBU-P234"
+    ],
+    "recall_reason": "Artificial sweetener degradation producing toxic byproduct",
+    "recall_date": "2024-12-15",
+    "drap_notice_number": "F.No.10-23/2024-DD(QA)",
+    "is_active": false
+  },
+  {
+    "id": "DRAP-2024-042",
+    "recall_class": "CLASS_I",
+    "medicine_name": "Diazepam Injection 10mg/2ml",
+    "registration_number": "099017",
+    "batch_numbers": [
+      "DZP-Q567",
+      "DZP-Q568"
+    ],
+    "recall_reason": "pH out of specification - precipitation observed",
+    "recall_date": "2024-11-28",
+    "drap_notice_number": "F.No.10-24/2024-DD(QA)",
+    "is_active": false
+  },
+  {
+    "id": "DRAP-2024-043",
+    "recall_class": "CLASS_II",
+    "medicine_name": "Azithromycin Suspension 200mg/5ml",
+    "registration_number": "099018",
+    "batch_numbers": [
+      "AZT-R890"
+    ],
+    "recall_reason": "Incorrect dosing syringe included - risk of overdose",
+    "recall_date": "2024-11-10",
+    "drap_notice_number": "F.No.10-25/2024-DD(QA)",
+    "is_active": false
+  },
+  {
+    "id": "DRAP-2024-044",
+    "recall_class": "CLASS_I",
+    "medicine_name": "Dexamethasone Injection 4mg/ml",
+    "registration_number": "099019",
+    "batch_numbers": [
+      "DEX-S123"
+    ],
+    "recall_reason": "Container closure integrity failure - sterility not assured",
+    "recall_date": "2024-10-20",
+    "drap_notice_number": "F.No.10-26/2024-DD(QA)",
+    "is_active": false
+  },
+  {
+    "id": "DRAP-2024-045",
+    "recall_class": "CLASS_II",
+    "medicine_name": "Glimepiride Tablet 2mg",
+    "registration_number": "099020",
+    "batch_numbers": [
+      "GLM-T456",
+      "GLM-T457"
+    ],
+    "recall_reason": "Dissolution rate below 75% at 30 minutes",
+    "recall_date": "2024-10-05",
+    "drap_notice_number": "F.No.10-27/2024-DD(QA)",
+    "is_active": false
+  },
+  {
+    "id": "DRAP-2024-046",
+    "recall_class": "CLASS_I",
+    "medicine_name": "Pantoprazole Injection 40mg",
+    "registration_number": "099021",
+    "batch_numbers": [
+      "PAN-U789"
+    ],
+    "recall_reason": "Visible particles in reconstituted solution",
+    "recall_date": "2024-09-18",
+    "drap_notice_number": "F.No.10-28/2024-DD(QA)",
+    "is_active": false
+  },
+  {
+    "id": "DRAP-2024-047",
+    "recall_class": "CLASS_II",
+    "medicine_name": "Prednisolone Tablet 5mg",
+    "registration_number": "099022",
+    "batch_numbers": [
+      "PRD-V012"
+    ],
+    "recall_reason": "Label claims 5mg but assay shows 3.8mg active ingredient",
+    "recall_date": "2024-09-02",
+    "drap_notice_number": "F.No.10-29/2024-DD(QA)",
+    "is_active": false
+  },
+  {
+    "id": "DRAP-2024-048",
+    "recall_class": "CLASS_I",
+    "medicine_name": "Meropenem Injection 1g",
+    "registration_number": "099023",
+    "batch_numbers": [
+      "MER-W345",
+      "MER-W346"
+    ],
+    "recall_reason": "Failed sterility test - Burkholderia cepacia detected",
+    "recall_date": "2024-08-15",
+    "drap_notice_number": "F.No.10-30/2024-DD(QA)",
+    "is_active": false
+  },
+  {
+    "id": "DRAP-2024-049",
+    "recall_class": "CLASS_II",
+    "medicine_name": "Montelukast Chewable 5mg",
+    "registration_number": "099024",
+    "batch_numbers": [
+      "MON-X678"
+    ],
+    "recall_reason": "Color additive not approved for pediatric formulations",
+    "recall_date": "2024-07-28",
+    "drap_notice_number": "F.No.10-31/2024-DD(QA)",
+    "is_active": false
+  },
+  {
+    "id": "DRAP-2024-050",
+    "recall_class": "CLASS_I",
+    "medicine_name": "Ranitidine Tablet 150mg",
+    "registration_number": "099025",
+    "batch_numbers": [
+      "RAN-Y901",
+      "RAN-Y902",
+      "RAN-Y903"
+    ],
+    "recall_reason": "Unacceptable levels of NDMA carcinogen detected",
+    "recall_date": "2024-07-10",
+    "drap_notice_number": "F.No.10-32/2024-DD(QA)",
+    "is_active": false
+  }
+]

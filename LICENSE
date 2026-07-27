@@ -1,0 +1,43 @@
+Copyright (c) 2026 Ibrahim Samad. All rights reserved.
+
+DawaaCheck — AI medicine verification for Pakistan.
+
+This source code is made public for evaluation, review and educational
+reference, including by judges and reviewers of the HBL P@SHA ICT Awards.
+
+PERMITTED
+    Viewing, cloning, building and running this software for the purposes of
+    evaluation, security review, academic study, or personal non-commercial
+    experimentation.
+
+NOT PERMITTED WITHOUT WRITTEN PERMISSION
+    Commercial use, redistribution, publication of derivative works, or use of
+    the DawaaCheck name or branding.
+
+MEDICAL DISCLAIMER
+    This software surfaces regulatory and safety signals about medicine
+    packaging. It does not provide medical advice, diagnosis or treatment, and
+    it is not a substitute for a qualified pharmacist or physician. Verification
+    results depend on data published by third parties, including DRAP, OpenFDA
+    and the WHO, and on the quality of the photographs supplied. They may be
+    incomplete or out of date.
+
+    Do not rely on this software alone to decide whether a medicine is safe to
+    take. If a result concerns you, consult a pharmacist or doctor and report
+    the product to DRAP.
+
+NO WARRANTY
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+    AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+    ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+    WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+THIRD-PARTY DATA
+    Pakistan boundary geometry is derived from geoBoundaries (gbOpen release),
+    which is released into the public domain. Drug reference data originates
+    from DRAP, OpenFDA and WHO publications and remains subject to the terms of
+    those sources.
+
+Contact: Ibrahim Samad, Karachi, Pakistan.

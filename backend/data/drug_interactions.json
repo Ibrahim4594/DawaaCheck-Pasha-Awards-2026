@@ -1,0 +1,352 @@
+[
+  {
+    "drug_a": "Warfarin",
+    "drug_b": "Aspirin",
+    "severity": "MAJOR",
+    "description": "Increased risk of bleeding. Both drugs affect hemostasis through different mechanisms.",
+    "recommendation": "Avoid combination unless benefits outweigh risks. Monitor INR closely."
+  },
+  {
+    "drug_a": "Warfarin",
+    "drug_b": "Ciprofloxacin",
+    "severity": "MAJOR",
+    "description": "Ciprofloxacin inhibits CYP1A2, increasing warfarin levels and bleeding risk.",
+    "recommendation": "Monitor INR within 3-5 days of starting ciprofloxacin. Dose adjustment may be needed."
+  },
+  {
+    "drug_a": "Warfarin",
+    "drug_b": "Metronidazole",
+    "severity": "MAJOR",
+    "description": "Metronidazole inhibits warfarin metabolism, increasing anticoagulant effect.",
+    "recommendation": "Reduce warfarin dose by 25-50%. Monitor INR every 2-3 days."
+  },
+  {
+    "drug_a": "Warfarin",
+    "drug_b": "Omeprazole",
+    "severity": "MODERATE",
+    "description": "Omeprazole may increase warfarin levels via CYP2C19 inhibition.",
+    "recommendation": "Monitor INR when starting or stopping omeprazole."
+  },
+  {
+    "drug_a": "Metformin",
+    "drug_b": "Contrast Dye",
+    "severity": "MAJOR",
+    "description": "Risk of lactic acidosis. Iodinated contrast can cause acute kidney injury, reducing metformin clearance.",
+    "recommendation": "Hold metformin 48 hours before and after contrast administration. Check renal function."
+  },
+  {
+    "drug_a": "ACE Inhibitors",
+    "drug_b": "Potassium Supplements",
+    "severity": "MAJOR",
+    "description": "ACE inhibitors reduce aldosterone, causing potassium retention. Combined with K+ supplements, hyperkalemia risk.",
+    "recommendation": "Monitor serum potassium regularly. Avoid routine K+ supplementation."
+  },
+  {
+    "drug_a": "ACE Inhibitors",
+    "drug_b": "Spironolactone",
+    "severity": "MAJOR",
+    "description": "Both cause potassium retention. Combined use significantly increases hyperkalemia risk.",
+    "recommendation": "If used together, start spironolactone at lowest dose. Monitor K+ within 1 week."
+  },
+  {
+    "drug_a": "Digoxin",
+    "drug_b": "Amiodarone",
+    "severity": "MAJOR",
+    "description": "Amiodarone increases digoxin levels by 70-100% by reducing renal and non-renal clearance.",
+    "recommendation": "Reduce digoxin dose by 50% when starting amiodarone. Monitor digoxin levels."
+  },
+  {
+    "drug_a": "Simvastatin",
+    "drug_b": "Clarithromycin",
+    "severity": "MAJOR",
+    "description": "Clarithromycin is a strong CYP3A4 inhibitor, drastically increasing statin levels and rhabdomyolysis risk.",
+    "recommendation": "Contraindicated. Use azithromycin as alternative antibiotic."
+  },
+  {
+    "drug_a": "Simvastatin",
+    "drug_b": "Amlodipine",
+    "severity": "MODERATE",
+    "description": "Amlodipine moderately inhibits CYP3A4, increasing simvastatin exposure.",
+    "recommendation": "Do not exceed simvastatin 20mg daily with amlodipine."
+  },
+  {
+    "drug_a": "Methotrexate",
+    "drug_b": "NSAIDs",
+    "severity": "MAJOR",
+    "description": "NSAIDs reduce renal clearance of methotrexate, increasing toxicity risk (pancytopenia, nephrotoxicity).",
+    "recommendation": "Avoid NSAIDs with high-dose methotrexate. With low-dose, monitor CBC and renal function."
+  },
+  {
+    "drug_a": "Methotrexate",
+    "drug_b": "Trimethoprim",
+    "severity": "MAJOR",
+    "description": "Both are folate antagonists. Combined use increases risk of bone marrow suppression.",
+    "recommendation": "Avoid combination. If necessary, supplement with folinic acid and monitor CBC."
+  },
+  {
+    "drug_a": "Lithium",
+    "drug_b": "NSAIDs",
+    "severity": "MAJOR",
+    "description": "NSAIDs reduce renal prostaglandins, decreasing lithium clearance by 20-25%.",
+    "recommendation": "Monitor lithium levels when starting/stopping NSAIDs. Use sulindac as safer alternative."
+  },
+  {
+    "drug_a": "Lithium",
+    "drug_b": "ACE Inhibitors",
+    "severity": "MAJOR",
+    "description": "ACE inhibitors reduce lithium clearance, potentially causing toxicity.",
+    "recommendation": "Reduce lithium dose. Monitor levels within 5 days of starting ACE inhibitor."
+  },
+  {
+    "drug_a": "MAOIs",
+    "drug_b": "SSRIs",
+    "severity": "CONTRAINDICATED",
+    "description": "Risk of serotonin syndrome — potentially fatal. Excessive serotonergic activity.",
+    "recommendation": "Absolutely contraindicated. Wait 14 days (5 weeks for fluoxetine) between switching."
+  },
+  {
+    "drug_a": "Clopidogrel",
+    "drug_b": "Omeprazole",
+    "severity": "MAJOR",
+    "description": "Omeprazole inhibits CYP2C19, reducing conversion of clopidogrel to active metabolite.",
+    "recommendation": "Use pantoprazole instead of omeprazole. Separate doses by 12 hours if unavoidable."
+  },
+  {
+    "drug_a": "Ciprofloxacin",
+    "drug_b": "Antacids",
+    "severity": "MODERATE",
+    "description": "Aluminum/magnesium antacids chelate ciprofloxacin, reducing absorption by 90%.",
+    "recommendation": "Take ciprofloxacin 2 hours before or 6 hours after antacids."
+  },
+  {
+    "drug_a": "Ciprofloxacin",
+    "drug_b": "Theophylline",
+    "severity": "MAJOR",
+    "description": "Ciprofloxacin inhibits CYP1A2, increasing theophylline levels and toxicity risk.",
+    "recommendation": "Reduce theophylline dose by 30-50%. Monitor theophylline levels."
+  },
+  {
+    "drug_a": "Tetracyclines",
+    "drug_b": "Calcium",
+    "severity": "MODERATE",
+    "description": "Calcium chelates tetracyclines, significantly reducing oral absorption.",
+    "recommendation": "Separate administration by at least 2 hours."
+  },
+  {
+    "drug_a": "Tetracyclines",
+    "drug_b": "Iron",
+    "severity": "MODERATE",
+    "description": "Iron chelates tetracyclines, reducing absorption of both drugs.",
+    "recommendation": "Separate by at least 2-3 hours."
+  },
+  {
+    "drug_a": "Amlodipine",
+    "drug_b": "Cyclosporine",
+    "severity": "MODERATE",
+    "description": "Amlodipine may increase cyclosporine levels. Both metabolized by CYP3A4.",
+    "recommendation": "Monitor cyclosporine levels when adding or adjusting amlodipine dose."
+  },
+  {
+    "drug_a": "Beta Blockers",
+    "drug_b": "Verapamil",
+    "severity": "MAJOR",
+    "description": "Additive negative inotropic and chronotropic effects. Risk of severe bradycardia, heart block, and heart failure.",
+    "recommendation": "Avoid combination, especially IV verapamil with any beta blocker."
+  },
+  {
+    "drug_a": "Amiodarone",
+    "drug_b": "Simvastatin",
+    "severity": "MAJOR",
+    "description": "Amiodarone inhibits CYP3A4, increasing simvastatin levels and rhabdomyolysis risk.",
+    "recommendation": "Do not exceed simvastatin 20mg/day with amiodarone."
+  },
+  {
+    "drug_a": "Rifampicin",
+    "drug_b": "Oral Contraceptives",
+    "severity": "MAJOR",
+    "description": "Rifampicin is a potent CYP3A4 inducer, reducing contraceptive efficacy.",
+    "recommendation": "Use alternative contraception during and 28 days after rifampicin treatment."
+  },
+  {
+    "drug_a": "Rifampicin",
+    "drug_b": "Warfarin",
+    "severity": "MAJOR",
+    "description": "Rifampicin induces CYP enzymes, dramatically reducing warfarin levels.",
+    "recommendation": "May need 2-3x warfarin dose increase. Monitor INR closely when starting/stopping."
+  },
+  {
+    "drug_a": "Fluconazole",
+    "drug_b": "Warfarin",
+    "severity": "MAJOR",
+    "description": "Fluconazole inhibits CYP2C9, increasing warfarin levels and bleeding risk.",
+    "recommendation": "Reduce warfarin dose by 25%. Monitor INR within 3-5 days."
+  },
+  {
+    "drug_a": "Erythromycin",
+    "drug_b": "Carbamazepine",
+    "severity": "MAJOR",
+    "description": "Erythromycin inhibits CYP3A4, increasing carbamazepine levels and toxicity.",
+    "recommendation": "Monitor carbamazepine levels. Consider azithromycin as alternative."
+  },
+  {
+    "drug_a": "Grapefruit",
+    "drug_b": "Statins",
+    "severity": "MODERATE",
+    "description": "Grapefruit inhibits intestinal CYP3A4, increasing statin absorption and levels.",
+    "recommendation": "Avoid grapefruit with simvastatin/atorvastatin. Rosuvastatin/pravastatin are safer."
+  },
+  {
+    "drug_a": "Sildenafil",
+    "drug_b": "Nitrates",
+    "severity": "CONTRAINDICATED",
+    "description": "Severe additive vasodilation causing potentially fatal hypotension.",
+    "recommendation": "Absolutely contraindicated. Do not use within 24 hours (48h for tadalafil)."
+  },
+  {
+    "drug_a": "Potassium-sparing Diuretics",
+    "drug_b": "ACE Inhibitors",
+    "severity": "MAJOR",
+    "description": "Both cause potassium retention, significantly increasing hyperkalemia risk.",
+    "recommendation": "If combined, monitor serum potassium within 1 week and regularly thereafter."
+  },
+  {
+    "drug_a": "SSRIs",
+    "drug_b": "Tramadol",
+    "severity": "MAJOR",
+    "description": "Both increase serotonin. Risk of serotonin syndrome (tremor, hyperthermia, agitation).",
+    "recommendation": "Use with caution at lowest doses. Educate patient on serotonin syndrome symptoms."
+  },
+  {
+    "drug_a": "SSRIs",
+    "drug_b": "NSAIDs",
+    "severity": "MODERATE",
+    "description": "SSRIs impair platelet aggregation. Combined with NSAIDs, increased GI bleeding risk.",
+    "recommendation": "Consider adding a PPI for gastroprotection if combination is necessary."
+  },
+  {
+    "drug_a": "Carbamazepine",
+    "drug_b": "Oral Contraceptives",
+    "severity": "MAJOR",
+    "description": "Carbamazepine induces CYP3A4, reducing contraceptive hormone levels.",
+    "recommendation": "Use non-hormonal or high-dose contraception. Consider IUD."
+  },
+  {
+    "drug_a": "Phenytoin",
+    "drug_b": "Valproic Acid",
+    "severity": "MAJOR",
+    "description": "Complex interaction: valproate displaces phenytoin from protein binding and inhibits metabolism.",
+    "recommendation": "Monitor free phenytoin levels (not total). Adjust doses based on clinical response."
+  },
+  {
+    "drug_a": "Allopurinol",
+    "drug_b": "Azathioprine",
+    "severity": "MAJOR",
+    "description": "Allopurinol inhibits xanthine oxidase, blocking azathioprine metabolism. Risk of severe myelosuppression.",
+    "recommendation": "Reduce azathioprine dose by 67-75%. Monitor CBC weekly for first month."
+  },
+  {
+    "drug_a": "Quinolones",
+    "drug_b": "Corticosteroids",
+    "severity": "MODERATE",
+    "description": "Increased risk of tendon rupture, especially in elderly patients.",
+    "recommendation": "Use combination with caution in patients >60 years. Monitor for tendon pain."
+  },
+  {
+    "drug_a": "Metoclopramide",
+    "drug_b": "Antipsychotics",
+    "severity": "MODERATE",
+    "description": "Additive dopamine blockade. Increased risk of extrapyramidal symptoms and tardive dyskinesia.",
+    "recommendation": "Avoid combination if possible. Use domperidone as alternative prokinetic."
+  },
+  {
+    "drug_a": "Diazepam",
+    "drug_b": "Opioids",
+    "severity": "MAJOR",
+    "description": "Additive CNS and respiratory depression. Risk of fatal overdose.",
+    "recommendation": "Avoid combination when possible. If necessary, use lowest effective doses of both."
+  },
+  {
+    "drug_a": "Amiodarone",
+    "drug_b": "Warfarin",
+    "severity": "MAJOR",
+    "description": "Amiodarone inhibits CYP2C9, increasing warfarin effect. Risk persists months after stopping.",
+    "recommendation": "Reduce warfarin dose by 30-50%. Monitor INR weekly for first 6-8 weeks."
+  },
+  {
+    "drug_a": "Spironolactone",
+    "drug_b": "Digoxin",
+    "severity": "MODERATE",
+    "description": "Spironolactone reduces renal clearance of digoxin and interferes with digoxin assay.",
+    "recommendation": "Monitor digoxin levels using chemiluminescent assay. May need dose reduction."
+  },
+  {
+    "drug_a": "Insulin",
+    "drug_b": "Beta Blockers",
+    "severity": "MODERATE",
+    "description": "Beta blockers mask tachycardia symptoms of hypoglycemia and may prolong hypoglycemic episodes.",
+    "recommendation": "Use cardioselective beta blockers (bisoprolol). Educate patient on non-adrenergic hypoglycemia signs."
+  },
+  {
+    "drug_a": "Theophylline",
+    "drug_b": "Carbamazepine",
+    "severity": "MODERATE",
+    "description": "Carbamazepine induces theophylline metabolism, reducing its efficacy.",
+    "recommendation": "Monitor theophylline levels. May need dose increase."
+  },
+  {
+    "drug_a": "Levothyroxine",
+    "drug_b": "Calcium",
+    "severity": "MODERATE",
+    "description": "Calcium reduces levothyroxine absorption by forming insoluble complexes.",
+    "recommendation": "Separate administration by at least 4 hours."
+  },
+  {
+    "drug_a": "Levothyroxine",
+    "drug_b": "Iron",
+    "severity": "MODERATE",
+    "description": "Iron reduces levothyroxine absorption.",
+    "recommendation": "Separate by at least 4 hours. Take levothyroxine on empty stomach."
+  },
+  {
+    "drug_a": "Metformin",
+    "drug_b": "Alcohol",
+    "severity": "MAJOR",
+    "description": "Alcohol increases risk of metformin-associated lactic acidosis.",
+    "recommendation": "Avoid excessive alcohol consumption. Educate patient on lactic acidosis symptoms."
+  },
+  {
+    "drug_a": "Tacrolimus",
+    "drug_b": "Clarithromycin",
+    "severity": "MAJOR",
+    "description": "Clarithromycin inhibits CYP3A4, markedly increasing tacrolimus levels and nephrotoxicity risk.",
+    "recommendation": "Avoid combination. Use azithromycin as alternative."
+  },
+  {
+    "drug_a": "Cyclosporine",
+    "drug_b": "NSAIDs",
+    "severity": "MAJOR",
+    "description": "NSAIDs further reduce renal blood flow in cyclosporine-treated patients. Risk of nephrotoxicity.",
+    "recommendation": "Avoid combination. Monitor renal function if unavoidable."
+  },
+  {
+    "drug_a": "Clonidine",
+    "drug_b": "Beta Blockers",
+    "severity": "MAJOR",
+    "description": "Abrupt clonidine withdrawal with beta blocker can cause rebound hypertensive crisis.",
+    "recommendation": "Taper clonidine before stopping. Do not stop both simultaneously."
+  },
+  {
+    "drug_a": "Doxycycline",
+    "drug_b": "Antacids",
+    "severity": "MODERATE",
+    "description": "Antacids chelate doxycycline, reducing absorption.",
+    "recommendation": "Separate by 2-3 hours."
+  },
+  {
+    "drug_a": "Trimethoprim",
+    "drug_b": "ACE Inhibitors",
+    "severity": "MAJOR",
+    "description": "Trimethoprim blocks renal potassium excretion. With ACE inhibitors, hyperkalemia risk increases.",
+    "recommendation": "Monitor potassium within 2 days of starting trimethoprim in patients on ACE inhibitors."
+  }
+]

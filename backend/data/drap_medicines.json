@@ -1,0 +1,5481 @@
+[
+  {
+    "registration_number": "012345",
+    "brand_name": "Panadol",
+    "generic_name": "Paracetamol",
+    "manufacturer": "GlaxoSmithKline Pakistan Limited",
+    "active_ingredients": [
+      {
+        "name": "Paracetamol",
+        "strength": "500mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "500mg",
+    "pack_size": "24 Tablets",
+    "mrp": 142,
+    "registration_date": "2001-03-15",
+    "expiry_date": "2027-03-15",
+    "status": "Active"
+  },
+  {
+    "registration_number": "012346",
+    "brand_name": "Panadol Extra",
+    "generic_name": "Paracetamol + Caffeine",
+    "manufacturer": "GlaxoSmithKline Pakistan Limited",
+    "active_ingredients": [
+      {
+        "name": "Paracetamol",
+        "strength": "500mg"
+      },
+      {
+        "name": "Caffeine",
+        "strength": "65mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "500mg/65mg",
+    "pack_size": "24 Tablets",
+    "mrp": 185,
+    "registration_date": "2003-06-20",
+    "expiry_date": "2027-06-20",
+    "status": "Active"
+  },
+  {
+    "registration_number": "012780",
+    "brand_name": "Panadol CF",
+    "generic_name": "Paracetamol + Phenylephrine + Chlorpheniramine",
+    "manufacturer": "GlaxoSmithKline Pakistan Limited",
+    "active_ingredients": [
+      {
+        "name": "Paracetamol",
+        "strength": "500mg"
+      },
+      {
+        "name": "Phenylephrine HCl",
+        "strength": "5mg"
+      },
+      {
+        "name": "Chlorpheniramine Maleate",
+        "strength": "2mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "500mg/5mg/2mg",
+    "pack_size": "20 Tablets",
+    "mrp": 165,
+    "registration_date": "2004-01-10",
+    "expiry_date": "2027-01-10",
+    "status": "Active"
+  },
+  {
+    "registration_number": "013201",
+    "brand_name": "Augmentin",
+    "generic_name": "Co-Amoxiclav",
+    "manufacturer": "GlaxoSmithKline Pakistan Limited",
+    "active_ingredients": [
+      {
+        "name": "Amoxicillin",
+        "strength": "500mg"
+      },
+      {
+        "name": "Clavulanic Acid",
+        "strength": "125mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "625mg",
+    "pack_size": "6 Tablets",
+    "mrp": 620,
+    "registration_date": "2002-09-01",
+    "expiry_date": "2027-09-01",
+    "status": "Active"
+  },
+  {
+    "registration_number": "013202",
+    "brand_name": "Augmentin",
+    "generic_name": "Co-Amoxiclav",
+    "manufacturer": "GlaxoSmithKline Pakistan Limited",
+    "active_ingredients": [
+      {
+        "name": "Amoxicillin",
+        "strength": "875mg"
+      },
+      {
+        "name": "Clavulanic Acid",
+        "strength": "125mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "1g",
+    "pack_size": "6 Tablets",
+    "mrp": 890,
+    "registration_date": "2005-02-14",
+    "expiry_date": "2027-02-14",
+    "status": "Active"
+  },
+  {
+    "registration_number": "013450",
+    "brand_name": "Amoxil",
+    "generic_name": "Amoxicillin",
+    "manufacturer": "GlaxoSmithKline Pakistan Limited",
+    "active_ingredients": [
+      {
+        "name": "Amoxicillin",
+        "strength": "500mg"
+      }
+    ],
+    "dosage_form": "Capsule",
+    "strength": "500mg",
+    "pack_size": "12 Capsules",
+    "mrp": 280,
+    "registration_date": "2000-07-22",
+    "expiry_date": "2027-07-22",
+    "status": "Active"
+  },
+  {
+    "registration_number": "013451",
+    "brand_name": "Amoxil",
+    "generic_name": "Amoxicillin",
+    "manufacturer": "GlaxoSmithKline Pakistan Limited",
+    "active_ingredients": [
+      {
+        "name": "Amoxicillin",
+        "strength": "250mg/5ml"
+      }
+    ],
+    "dosage_form": "Syrup",
+    "strength": "250mg/5ml",
+    "pack_size": "90ml",
+    "mrp": 210,
+    "registration_date": "2000-07-22",
+    "expiry_date": "2027-07-22",
+    "status": "Active"
+  },
+  {
+    "registration_number": "014012",
+    "brand_name": "Ventolin",
+    "generic_name": "Salbutamol",
+    "manufacturer": "GlaxoSmithKline Pakistan Limited",
+    "active_ingredients": [
+      {
+        "name": "Salbutamol Sulphate",
+        "strength": "100mcg/dose"
+      }
+    ],
+    "dosage_form": "Inhaler",
+    "strength": "100mcg",
+    "pack_size": "200 Doses",
+    "mrp": 490,
+    "registration_date": "1999-11-05",
+    "expiry_date": "2027-11-05",
+    "status": "Active"
+  },
+  {
+    "registration_number": "014560",
+    "brand_name": "Calpol",
+    "generic_name": "Paracetamol",
+    "manufacturer": "GlaxoSmithKline Pakistan Limited",
+    "active_ingredients": [
+      {
+        "name": "Paracetamol",
+        "strength": "120mg/5ml"
+      }
+    ],
+    "dosage_form": "Suspension",
+    "strength": "120mg/5ml",
+    "pack_size": "60ml",
+    "mrp": 135,
+    "registration_date": "2002-04-18",
+    "expiry_date": "2027-04-18",
+    "status": "Active"
+  },
+  {
+    "registration_number": "014561",
+    "brand_name": "Calpol",
+    "generic_name": "Paracetamol",
+    "manufacturer": "GlaxoSmithKline Pakistan Limited",
+    "active_ingredients": [
+      {
+        "name": "Paracetamol",
+        "strength": "250mg/5ml"
+      }
+    ],
+    "dosage_form": "Suspension",
+    "strength": "250mg/5ml",
+    "pack_size": "60ml",
+    "mrp": 155,
+    "registration_date": "2002-04-18",
+    "expiry_date": "2027-04-18",
+    "status": "Active"
+  },
+  {
+    "registration_number": "023100",
+    "brand_name": "Arinac",
+    "generic_name": "Ibuprofen + Pseudoephedrine",
+    "manufacturer": "Getz Pharma (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Ibuprofen",
+        "strength": "200mg"
+      },
+      {
+        "name": "Pseudoephedrine HCl",
+        "strength": "30mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "200mg/30mg",
+    "pack_size": "20 Tablets",
+    "mrp": 230,
+    "registration_date": "2005-08-12",
+    "expiry_date": "2027-08-12",
+    "status": "Active"
+  },
+  {
+    "registration_number": "023101",
+    "brand_name": "Arinac Forte",
+    "generic_name": "Ibuprofen + Pseudoephedrine",
+    "manufacturer": "Getz Pharma (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Ibuprofen",
+        "strength": "400mg"
+      },
+      {
+        "name": "Pseudoephedrine HCl",
+        "strength": "60mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "400mg/60mg",
+    "pack_size": "20 Tablets",
+    "mrp": 350,
+    "registration_date": "2007-01-25",
+    "expiry_date": "2027-01-25",
+    "status": "Active"
+  },
+  {
+    "registration_number": "023500",
+    "brand_name": "Risek",
+    "generic_name": "Omeprazole",
+    "manufacturer": "Getz Pharma (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Omeprazole",
+        "strength": "20mg"
+      }
+    ],
+    "dosage_form": "Capsule",
+    "strength": "20mg",
+    "pack_size": "14 Capsules",
+    "mrp": 280,
+    "registration_date": "2003-05-10",
+    "expiry_date": "2027-05-10",
+    "status": "Active"
+  },
+  {
+    "registration_number": "023501",
+    "brand_name": "Risek",
+    "generic_name": "Omeprazole",
+    "manufacturer": "Getz Pharma (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Omeprazole",
+        "strength": "40mg"
+      }
+    ],
+    "dosage_form": "Capsule",
+    "strength": "40mg",
+    "pack_size": "14 Capsules",
+    "mrp": 430,
+    "registration_date": "2004-11-03",
+    "expiry_date": "2027-11-03",
+    "status": "Active"
+  },
+  {
+    "registration_number": "023502",
+    "brand_name": "Risek INSTA",
+    "generic_name": "Omeprazole",
+    "manufacturer": "Getz Pharma (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Omeprazole",
+        "strength": "20mg"
+      }
+    ],
+    "dosage_form": "Sachet",
+    "strength": "20mg",
+    "pack_size": "14 Sachets",
+    "mrp": 360,
+    "registration_date": "2010-03-18",
+    "expiry_date": "2027-03-18",
+    "status": "Active"
+  },
+  {
+    "registration_number": "023800",
+    "brand_name": "Zolid",
+    "generic_name": "Linezolid",
+    "manufacturer": "Getz Pharma (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Linezolid",
+        "strength": "600mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "600mg",
+    "pack_size": "6 Tablets",
+    "mrp": 1850,
+    "registration_date": "2008-09-14",
+    "expiry_date": "2027-09-14",
+    "status": "Active"
+  },
+  {
+    "registration_number": "024100",
+    "brand_name": "Ceclor",
+    "generic_name": "Cefaclor",
+    "manufacturer": "Getz Pharma (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Cefaclor",
+        "strength": "250mg"
+      }
+    ],
+    "dosage_form": "Capsule",
+    "strength": "250mg",
+    "pack_size": "12 Capsules",
+    "mrp": 520,
+    "registration_date": "2006-02-28",
+    "expiry_date": "2027-02-28",
+    "status": "Active"
+  },
+  {
+    "registration_number": "024350",
+    "brand_name": "Getzloc",
+    "generic_name": "Losartan Potassium",
+    "manufacturer": "Getz Pharma (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Losartan Potassium",
+        "strength": "50mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "50mg",
+    "pack_size": "20 Tablets",
+    "mrp": 290,
+    "registration_date": "2009-06-15",
+    "expiry_date": "2027-06-15",
+    "status": "Active"
+  },
+  {
+    "registration_number": "024600",
+    "brand_name": "Nexpro",
+    "generic_name": "Esomeprazole",
+    "manufacturer": "Getz Pharma (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Esomeprazole",
+        "strength": "40mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "40mg",
+    "pack_size": "14 Tablets",
+    "mrp": 490,
+    "registration_date": "2011-04-22",
+    "expiry_date": "2027-04-22",
+    "status": "Active"
+  },
+  {
+    "registration_number": "024601",
+    "brand_name": "Nexpro",
+    "generic_name": "Esomeprazole",
+    "manufacturer": "Getz Pharma (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Esomeprazole",
+        "strength": "20mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "20mg",
+    "pack_size": "14 Tablets",
+    "mrp": 310,
+    "registration_date": "2011-04-22",
+    "expiry_date": "2027-04-22",
+    "status": "Active"
+  },
+  {
+    "registration_number": "031200",
+    "brand_name": "Ponstan",
+    "generic_name": "Mefenamic Acid",
+    "manufacturer": "Martin Dow Marker Ltd",
+    "active_ingredients": [
+      {
+        "name": "Mefenamic Acid",
+        "strength": "250mg"
+      }
+    ],
+    "dosage_form": "Capsule",
+    "strength": "250mg",
+    "pack_size": "20 Capsules",
+    "mrp": 195,
+    "registration_date": "2001-10-08",
+    "expiry_date": "2027-10-08",
+    "status": "Active"
+  },
+  {
+    "registration_number": "031201",
+    "brand_name": "Ponstan Forte",
+    "generic_name": "Mefenamic Acid",
+    "manufacturer": "Martin Dow Marker Ltd",
+    "active_ingredients": [
+      {
+        "name": "Mefenamic Acid",
+        "strength": "500mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "500mg",
+    "pack_size": "20 Tablets",
+    "mrp": 310,
+    "registration_date": "2003-12-14",
+    "expiry_date": "2027-12-14",
+    "status": "Active"
+  },
+  {
+    "registration_number": "031500",
+    "brand_name": "Flagyl",
+    "generic_name": "Metronidazole",
+    "manufacturer": "Martin Dow Marker Ltd",
+    "active_ingredients": [
+      {
+        "name": "Metronidazole",
+        "strength": "400mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "400mg",
+    "pack_size": "20 Tablets",
+    "mrp": 120,
+    "registration_date": "2000-08-20",
+    "expiry_date": "2027-08-20",
+    "status": "Active"
+  },
+  {
+    "registration_number": "031501",
+    "brand_name": "Flagyl",
+    "generic_name": "Metronidazole",
+    "manufacturer": "Martin Dow Marker Ltd",
+    "active_ingredients": [
+      {
+        "name": "Metronidazole",
+        "strength": "200mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "200mg",
+    "pack_size": "20 Tablets",
+    "mrp": 78,
+    "registration_date": "2000-08-20",
+    "expiry_date": "2027-08-20",
+    "status": "Active"
+  },
+  {
+    "registration_number": "031800",
+    "brand_name": "Brufen",
+    "generic_name": "Ibuprofen",
+    "manufacturer": "Martin Dow Marker Ltd",
+    "active_ingredients": [
+      {
+        "name": "Ibuprofen",
+        "strength": "400mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "400mg",
+    "pack_size": "30 Tablets",
+    "mrp": 175,
+    "registration_date": "2001-05-11",
+    "expiry_date": "2027-05-11",
+    "status": "Active"
+  },
+  {
+    "registration_number": "031801",
+    "brand_name": "Brufen",
+    "generic_name": "Ibuprofen",
+    "manufacturer": "Martin Dow Marker Ltd",
+    "active_ingredients": [
+      {
+        "name": "Ibuprofen",
+        "strength": "600mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "600mg",
+    "pack_size": "20 Tablets",
+    "mrp": 215,
+    "registration_date": "2004-03-22",
+    "expiry_date": "2027-03-22",
+    "status": "Active"
+  },
+  {
+    "registration_number": "031900",
+    "brand_name": "Brufen Retard",
+    "generic_name": "Ibuprofen",
+    "manufacturer": "Martin Dow Marker Ltd",
+    "active_ingredients": [
+      {
+        "name": "Ibuprofen",
+        "strength": "800mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "800mg",
+    "pack_size": "20 Tablets",
+    "mrp": 290,
+    "registration_date": "2006-07-15",
+    "expiry_date": "2027-07-15",
+    "status": "Active"
+  },
+  {
+    "registration_number": "041000",
+    "brand_name": "Disprin",
+    "generic_name": "Aspirin",
+    "manufacturer": "Searle Pakistan (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Aspirin",
+        "strength": "300mg"
+      }
+    ],
+    "dosage_form": "Dispersible Tablet",
+    "strength": "300mg",
+    "pack_size": "24 Tablets",
+    "mrp": 95,
+    "registration_date": "1998-06-10",
+    "expiry_date": "2027-06-10",
+    "status": "Active"
+  },
+  {
+    "registration_number": "041001",
+    "brand_name": "Disprin Cardio",
+    "generic_name": "Aspirin",
+    "manufacturer": "Searle Pakistan (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Aspirin",
+        "strength": "75mg"
+      }
+    ],
+    "dosage_form": "Enteric Coated Tablet",
+    "strength": "75mg",
+    "pack_size": "30 Tablets",
+    "mrp": 110,
+    "registration_date": "2005-09-22",
+    "expiry_date": "2027-09-22",
+    "status": "Active"
+  },
+  {
+    "registration_number": "041300",
+    "brand_name": "Novaclav",
+    "generic_name": "Co-Amoxiclav",
+    "manufacturer": "Searle Pakistan (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Amoxicillin",
+        "strength": "500mg"
+      },
+      {
+        "name": "Clavulanic Acid",
+        "strength": "125mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "625mg",
+    "pack_size": "6 Tablets",
+    "mrp": 480,
+    "registration_date": "2007-11-18",
+    "expiry_date": "2027-11-18",
+    "status": "Active"
+  },
+  {
+    "registration_number": "041600",
+    "brand_name": "Canesten",
+    "generic_name": "Clotrimazole",
+    "manufacturer": "Searle Pakistan (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Clotrimazole",
+        "strength": "1% w/w"
+      }
+    ],
+    "dosage_form": "Cream",
+    "strength": "1%",
+    "pack_size": "20g",
+    "mrp": 245,
+    "registration_date": "2003-04-05",
+    "expiry_date": "2027-04-05",
+    "status": "Active"
+  },
+  {
+    "registration_number": "041800",
+    "brand_name": "Searle Metformin",
+    "generic_name": "Metformin",
+    "manufacturer": "Searle Pakistan (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Metformin HCl",
+        "strength": "500mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "500mg",
+    "pack_size": "30 Tablets",
+    "mrp": 180,
+    "registration_date": "2008-02-14",
+    "expiry_date": "2027-02-14",
+    "status": "Active"
+  },
+  {
+    "registration_number": "041801",
+    "brand_name": "Glucophage",
+    "generic_name": "Metformin",
+    "manufacturer": "Searle Pakistan (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Metformin HCl",
+        "strength": "500mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "500mg",
+    "pack_size": "30 Tablets",
+    "mrp": 220,
+    "registration_date": "2006-10-10",
+    "expiry_date": "2027-10-10",
+    "status": "Active"
+  },
+  {
+    "registration_number": "041802",
+    "brand_name": "Glucophage XR",
+    "generic_name": "Metformin",
+    "manufacturer": "Searle Pakistan (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Metformin HCl",
+        "strength": "750mg"
+      }
+    ],
+    "dosage_form": "Extended Release Tablet",
+    "strength": "750mg",
+    "pack_size": "30 Tablets",
+    "mrp": 410,
+    "registration_date": "2010-08-25",
+    "expiry_date": "2027-08-25",
+    "status": "Active"
+  },
+  {
+    "registration_number": "051100",
+    "brand_name": "Rigix",
+    "generic_name": "Cetirizine",
+    "manufacturer": "Hilton Pharma (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Cetirizine Dihydrochloride",
+        "strength": "10mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "10mg",
+    "pack_size": "10 Tablets",
+    "mrp": 95,
+    "registration_date": "2005-01-20",
+    "expiry_date": "2027-01-20",
+    "status": "Active"
+  },
+  {
+    "registration_number": "051101",
+    "brand_name": "Rigix-D",
+    "generic_name": "Cetirizine + Pseudoephedrine",
+    "manufacturer": "Hilton Pharma (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Cetirizine Dihydrochloride",
+        "strength": "5mg"
+      },
+      {
+        "name": "Pseudoephedrine HCl",
+        "strength": "120mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "5mg/120mg",
+    "pack_size": "10 Tablets",
+    "mrp": 170,
+    "registration_date": "2008-06-14",
+    "expiry_date": "2027-06-14",
+    "status": "Active"
+  },
+  {
+    "registration_number": "051400",
+    "brand_name": "Polyfax",
+    "generic_name": "Polymyxin B + Bacitracin",
+    "manufacturer": "Hilton Pharma (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Polymyxin B Sulphate",
+        "strength": "10000 IU"
+      },
+      {
+        "name": "Bacitracin Zinc",
+        "strength": "500 IU"
+      }
+    ],
+    "dosage_form": "Ointment",
+    "strength": "10000IU/500IU per g",
+    "pack_size": "20g",
+    "mrp": 195,
+    "registration_date": "2001-12-03",
+    "expiry_date": "2027-12-03",
+    "status": "Active"
+  },
+  {
+    "registration_number": "051401",
+    "brand_name": "Polyfax Eye Ointment",
+    "generic_name": "Polymyxin B + Bacitracin",
+    "manufacturer": "Hilton Pharma (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Polymyxin B Sulphate",
+        "strength": "10000 IU"
+      },
+      {
+        "name": "Bacitracin Zinc",
+        "strength": "500 IU"
+      }
+    ],
+    "dosage_form": "Eye Ointment",
+    "strength": "10000IU/500IU per g",
+    "pack_size": "5g",
+    "mrp": 165,
+    "registration_date": "2002-07-18",
+    "expiry_date": "2027-07-18",
+    "status": "Active"
+  },
+  {
+    "registration_number": "051700",
+    "brand_name": "Hilton Diclofenac",
+    "generic_name": "Diclofenac Sodium",
+    "manufacturer": "Hilton Pharma (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Diclofenac Sodium",
+        "strength": "50mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "50mg",
+    "pack_size": "20 Tablets",
+    "mrp": 120,
+    "registration_date": "2004-09-30",
+    "expiry_date": "2027-09-30",
+    "status": "Active"
+  },
+  {
+    "registration_number": "061200",
+    "brand_name": "AGP Brufen",
+    "generic_name": "Ibuprofen",
+    "manufacturer": "AGP Limited",
+    "active_ingredients": [
+      {
+        "name": "Ibuprofen",
+        "strength": "200mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "200mg",
+    "pack_size": "30 Tablets",
+    "mrp": 110,
+    "registration_date": "2006-03-10",
+    "expiry_date": "2027-03-10",
+    "status": "Active"
+  },
+  {
+    "registration_number": "061500",
+    "brand_name": "AGP Cetirizine",
+    "generic_name": "Cetirizine",
+    "manufacturer": "AGP Limited",
+    "active_ingredients": [
+      {
+        "name": "Cetirizine Dihydrochloride",
+        "strength": "10mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "10mg",
+    "pack_size": "10 Tablets",
+    "mrp": 65,
+    "registration_date": "2007-05-22",
+    "expiry_date": "2027-05-22",
+    "status": "Active"
+  },
+  {
+    "registration_number": "061800",
+    "brand_name": "Calci-D",
+    "generic_name": "Calcium + Vitamin D3",
+    "manufacturer": "AGP Limited",
+    "active_ingredients": [
+      {
+        "name": "Calcium Carbonate",
+        "strength": "600mg"
+      },
+      {
+        "name": "Vitamin D3",
+        "strength": "400IU"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "600mg/400IU",
+    "pack_size": "30 Tablets",
+    "mrp": 340,
+    "registration_date": "2010-02-15",
+    "expiry_date": "2027-02-15",
+    "status": "Active"
+  },
+  {
+    "registration_number": "071100",
+    "brand_name": "Samicef",
+    "generic_name": "Cefixime",
+    "manufacturer": "Sami Pharmaceuticals (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Cefixime",
+        "strength": "200mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "200mg",
+    "pack_size": "10 Tablets",
+    "mrp": 460,
+    "registration_date": "2009-08-10",
+    "expiry_date": "2027-08-10",
+    "status": "Active"
+  },
+  {
+    "registration_number": "071101",
+    "brand_name": "Samicef",
+    "generic_name": "Cefixime",
+    "manufacturer": "Sami Pharmaceuticals (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Cefixime",
+        "strength": "400mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "400mg",
+    "pack_size": "6 Tablets",
+    "mrp": 580,
+    "registration_date": "2010-11-25",
+    "expiry_date": "2027-11-25",
+    "status": "Active"
+  },
+  {
+    "registration_number": "071400",
+    "brand_name": "Samidon",
+    "generic_name": "Domperidone",
+    "manufacturer": "Sami Pharmaceuticals (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Domperidone",
+        "strength": "10mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "10mg",
+    "pack_size": "30 Tablets",
+    "mrp": 150,
+    "registration_date": "2007-04-12",
+    "expiry_date": "2027-04-12",
+    "status": "Active"
+  },
+  {
+    "registration_number": "071700",
+    "brand_name": "Samzith",
+    "generic_name": "Azithromycin",
+    "manufacturer": "Sami Pharmaceuticals (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Azithromycin",
+        "strength": "500mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "500mg",
+    "pack_size": "3 Tablets",
+    "mrp": 310,
+    "registration_date": "2008-01-18",
+    "expiry_date": "2027-01-18",
+    "status": "Active"
+  },
+  {
+    "registration_number": "071900",
+    "brand_name": "Samlodin",
+    "generic_name": "Amlodipine",
+    "manufacturer": "Sami Pharmaceuticals (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Amlodipine Besylate",
+        "strength": "5mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "5mg",
+    "pack_size": "20 Tablets",
+    "mrp": 160,
+    "registration_date": "2009-03-28",
+    "expiry_date": "2027-03-28",
+    "status": "Active"
+  },
+  {
+    "registration_number": "071901",
+    "brand_name": "Samlodin",
+    "generic_name": "Amlodipine",
+    "manufacturer": "Sami Pharmaceuticals (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Amlodipine Besylate",
+        "strength": "10mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "10mg",
+    "pack_size": "20 Tablets",
+    "mrp": 240,
+    "registration_date": "2009-03-28",
+    "expiry_date": "2027-03-28",
+    "status": "Active"
+  },
+  {
+    "registration_number": "081200",
+    "brand_name": "Ferogen",
+    "generic_name": "Iron Polymaltose Complex",
+    "manufacturer": "Ferozsons Laboratories Ltd",
+    "active_ingredients": [
+      {
+        "name": "Iron Polymaltose Complex",
+        "strength": "100mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "100mg",
+    "pack_size": "30 Tablets",
+    "mrp": 380,
+    "registration_date": "2008-06-20",
+    "expiry_date": "2027-06-20",
+    "status": "Active"
+  },
+  {
+    "registration_number": "081500",
+    "brand_name": "Ferogen-XT",
+    "generic_name": "Iron + Folic Acid",
+    "manufacturer": "Ferozsons Laboratories Ltd",
+    "active_ingredients": [
+      {
+        "name": "Ferrous Sulphate",
+        "strength": "150mg"
+      },
+      {
+        "name": "Folic Acid",
+        "strength": "0.5mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "150mg/0.5mg",
+    "pack_size": "30 Tablets",
+    "mrp": 320,
+    "registration_date": "2009-10-15",
+    "expiry_date": "2027-10-15",
+    "status": "Active"
+  },
+  {
+    "registration_number": "081800",
+    "brand_name": "Ferolip",
+    "generic_name": "Atorvastatin",
+    "manufacturer": "Ferozsons Laboratories Ltd",
+    "active_ingredients": [
+      {
+        "name": "Atorvastatin Calcium",
+        "strength": "20mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "20mg",
+    "pack_size": "14 Tablets",
+    "mrp": 310,
+    "registration_date": "2010-07-08",
+    "expiry_date": "2027-07-08",
+    "status": "Active"
+  },
+  {
+    "registration_number": "081900",
+    "brand_name": "Feroflox",
+    "generic_name": "Ciprofloxacin",
+    "manufacturer": "Ferozsons Laboratories Ltd",
+    "active_ingredients": [
+      {
+        "name": "Ciprofloxacin",
+        "strength": "500mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "500mg",
+    "pack_size": "10 Tablets",
+    "mrp": 180,
+    "registration_date": "2005-12-22",
+    "expiry_date": "2027-12-22",
+    "status": "Active"
+  },
+  {
+    "registration_number": "082100",
+    "brand_name": "Ferozone",
+    "generic_name": "Prednisolone",
+    "manufacturer": "Ferozsons Laboratories Ltd",
+    "active_ingredients": [
+      {
+        "name": "Prednisolone",
+        "strength": "5mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "5mg",
+    "pack_size": "30 Tablets",
+    "mrp": 120,
+    "registration_date": "2004-08-14",
+    "expiry_date": "2027-08-14",
+    "status": "Active"
+  },
+  {
+    "registration_number": "091000",
+    "brand_name": "Evoprol",
+    "generic_name": "Atenolol",
+    "manufacturer": "PharmEvo (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Atenolol",
+        "strength": "50mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "50mg",
+    "pack_size": "30 Tablets",
+    "mrp": 135,
+    "registration_date": "2007-09-18",
+    "expiry_date": "2027-09-18",
+    "status": "Active"
+  },
+  {
+    "registration_number": "091001",
+    "brand_name": "Evoprol",
+    "generic_name": "Atenolol",
+    "manufacturer": "PharmEvo (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Atenolol",
+        "strength": "100mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "100mg",
+    "pack_size": "20 Tablets",
+    "mrp": 190,
+    "registration_date": "2007-09-18",
+    "expiry_date": "2027-09-18",
+    "status": "Active"
+  },
+  {
+    "registration_number": "091300",
+    "brand_name": "Evolax",
+    "generic_name": "Escitalopram",
+    "manufacturer": "PharmEvo (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Escitalopram Oxalate",
+        "strength": "10mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "10mg",
+    "pack_size": "14 Tablets",
+    "mrp": 350,
+    "registration_date": "2012-03-10",
+    "expiry_date": "2027-03-10",
+    "status": "Active"
+  },
+  {
+    "registration_number": "091301",
+    "brand_name": "Evolax",
+    "generic_name": "Escitalopram",
+    "manufacturer": "PharmEvo (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Escitalopram Oxalate",
+        "strength": "20mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "20mg",
+    "pack_size": "14 Tablets",
+    "mrp": 520,
+    "registration_date": "2012-03-10",
+    "expiry_date": "2027-03-10",
+    "status": "Active"
+  },
+  {
+    "registration_number": "091600",
+    "brand_name": "EvoMet",
+    "generic_name": "Metformin",
+    "manufacturer": "PharmEvo (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Metformin HCl",
+        "strength": "850mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "850mg",
+    "pack_size": "30 Tablets",
+    "mrp": 250,
+    "registration_date": "2011-05-20",
+    "expiry_date": "2027-05-20",
+    "status": "Active"
+  },
+  {
+    "registration_number": "091900",
+    "brand_name": "EvoLevo",
+    "generic_name": "Levofloxacin",
+    "manufacturer": "PharmEvo (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Levofloxacin",
+        "strength": "500mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "500mg",
+    "pack_size": "10 Tablets",
+    "mrp": 420,
+    "registration_date": "2010-08-14",
+    "expiry_date": "2027-08-14",
+    "status": "Active"
+  },
+  {
+    "registration_number": "101000",
+    "brand_name": "Herbion Cough Syrup",
+    "generic_name": "Dextromethorphan + Menthol",
+    "manufacturer": "Herbion Pakistan (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Dextromethorphan HBr",
+        "strength": "10mg/5ml"
+      },
+      {
+        "name": "Menthol",
+        "strength": "1mg/5ml"
+      }
+    ],
+    "dosage_form": "Syrup",
+    "strength": "10mg/5ml",
+    "pack_size": "120ml",
+    "mrp": 220,
+    "registration_date": "2006-04-10",
+    "expiry_date": "2027-04-10",
+    "status": "Active"
+  },
+  {
+    "registration_number": "101001",
+    "brand_name": "Herbion Ivy Leaf",
+    "generic_name": "Ivy Leaf Extract",
+    "manufacturer": "Herbion Pakistan (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Dry Ivy Leaf Extract",
+        "strength": "35mg/5ml"
+      }
+    ],
+    "dosage_form": "Syrup",
+    "strength": "35mg/5ml",
+    "pack_size": "120ml",
+    "mrp": 260,
+    "registration_date": "2012-09-15",
+    "expiry_date": "2027-09-15",
+    "status": "Active"
+  },
+  {
+    "registration_number": "101300",
+    "brand_name": "Herbion Throat Lozenges",
+    "generic_name": "Amylmetacresol + Dichlorobenzyl Alcohol",
+    "manufacturer": "Herbion Pakistan (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Amylmetacresol",
+        "strength": "0.6mg"
+      },
+      {
+        "name": "2,4-Dichlorobenzyl Alcohol",
+        "strength": "1.2mg"
+      }
+    ],
+    "dosage_form": "Lozenges",
+    "strength": "0.6mg/1.2mg",
+    "pack_size": "20 Lozenges",
+    "mrp": 185,
+    "registration_date": "2014-01-20",
+    "expiry_date": "2027-01-20",
+    "status": "Active"
+  },
+  {
+    "registration_number": "111000",
+    "brand_name": "Montair",
+    "generic_name": "Montelukast",
+    "manufacturer": "Highnoon Laboratories Ltd",
+    "active_ingredients": [
+      {
+        "name": "Montelukast Sodium",
+        "strength": "10mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "10mg",
+    "pack_size": "14 Tablets",
+    "mrp": 395,
+    "registration_date": "2009-05-08",
+    "expiry_date": "2027-05-08",
+    "status": "Active"
+  },
+  {
+    "registration_number": "111001",
+    "brand_name": "Montair",
+    "generic_name": "Montelukast",
+    "manufacturer": "Highnoon Laboratories Ltd",
+    "active_ingredients": [
+      {
+        "name": "Montelukast Sodium",
+        "strength": "5mg"
+      }
+    ],
+    "dosage_form": "Chewable Tablet",
+    "strength": "5mg",
+    "pack_size": "14 Tablets",
+    "mrp": 310,
+    "registration_date": "2009-05-08",
+    "expiry_date": "2027-05-08",
+    "status": "Active"
+  },
+  {
+    "registration_number": "111300",
+    "brand_name": "Highflox",
+    "generic_name": "Ciprofloxacin",
+    "manufacturer": "Highnoon Laboratories Ltd",
+    "active_ingredients": [
+      {
+        "name": "Ciprofloxacin",
+        "strength": "250mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "250mg",
+    "pack_size": "10 Tablets",
+    "mrp": 110,
+    "registration_date": "2006-11-22",
+    "expiry_date": "2027-11-22",
+    "status": "Active"
+  },
+  {
+    "registration_number": "111600",
+    "brand_name": "Highsert",
+    "generic_name": "Sertraline",
+    "manufacturer": "Highnoon Laboratories Ltd",
+    "active_ingredients": [
+      {
+        "name": "Sertraline HCl",
+        "strength": "50mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "50mg",
+    "pack_size": "14 Tablets",
+    "mrp": 280,
+    "registration_date": "2011-02-14",
+    "expiry_date": "2027-02-14",
+    "status": "Active"
+  },
+  {
+    "registration_number": "111601",
+    "brand_name": "Highsert",
+    "generic_name": "Sertraline",
+    "manufacturer": "Highnoon Laboratories Ltd",
+    "active_ingredients": [
+      {
+        "name": "Sertraline HCl",
+        "strength": "100mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "100mg",
+    "pack_size": "14 Tablets",
+    "mrp": 420,
+    "registration_date": "2011-02-14",
+    "expiry_date": "2027-02-14",
+    "status": "Active"
+  },
+  {
+    "registration_number": "111900",
+    "brand_name": "Hifenac",
+    "generic_name": "Diclofenac Sodium",
+    "manufacturer": "Highnoon Laboratories Ltd",
+    "active_ingredients": [
+      {
+        "name": "Diclofenac Sodium",
+        "strength": "50mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "50mg",
+    "pack_size": "20 Tablets",
+    "mrp": 95,
+    "registration_date": "2005-07-30",
+    "expiry_date": "2027-07-30",
+    "status": "Active"
+  },
+  {
+    "registration_number": "121000",
+    "brand_name": "CCL Azithromycin",
+    "generic_name": "Azithromycin",
+    "manufacturer": "CCL Pharmaceuticals (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Azithromycin",
+        "strength": "250mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "250mg",
+    "pack_size": "6 Tablets",
+    "mrp": 240,
+    "registration_date": "2008-12-10",
+    "expiry_date": "2027-12-10",
+    "status": "Active"
+  },
+  {
+    "registration_number": "121300",
+    "brand_name": "Lorat",
+    "generic_name": "Loratadine",
+    "manufacturer": "CCL Pharmaceuticals (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Loratadine",
+        "strength": "10mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "10mg",
+    "pack_size": "10 Tablets",
+    "mrp": 85,
+    "registration_date": "2007-03-18",
+    "expiry_date": "2027-03-18",
+    "status": "Active"
+  },
+  {
+    "registration_number": "121600",
+    "brand_name": "CCL Enalapril",
+    "generic_name": "Enalapril",
+    "manufacturer": "CCL Pharmaceuticals (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Enalapril Maleate",
+        "strength": "10mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "10mg",
+    "pack_size": "20 Tablets",
+    "mrp": 150,
+    "registration_date": "2006-09-25",
+    "expiry_date": "2027-09-25",
+    "status": "Active"
+  },
+  {
+    "registration_number": "121900",
+    "brand_name": "CCL Clarithromycin",
+    "generic_name": "Clarithromycin",
+    "manufacturer": "CCL Pharmaceuticals (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Clarithromycin",
+        "strength": "500mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "500mg",
+    "pack_size": "10 Tablets",
+    "mrp": 550,
+    "registration_date": "2009-04-12",
+    "expiry_date": "2027-04-12",
+    "status": "Active"
+  },
+  {
+    "registration_number": "122100",
+    "brand_name": "CCL Loperamide",
+    "generic_name": "Loperamide",
+    "manufacturer": "CCL Pharmaceuticals (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Loperamide HCl",
+        "strength": "2mg"
+      }
+    ],
+    "dosage_form": "Capsule",
+    "strength": "2mg",
+    "pack_size": "10 Capsules",
+    "mrp": 75,
+    "registration_date": "2005-06-30",
+    "expiry_date": "2027-06-30",
+    "status": "Active"
+  },
+  {
+    "registration_number": "131000",
+    "brand_name": "Atcosol",
+    "generic_name": "Salbutamol",
+    "manufacturer": "Atco Laboratories Ltd",
+    "active_ingredients": [
+      {
+        "name": "Salbutamol Sulphate",
+        "strength": "2mg/5ml"
+      }
+    ],
+    "dosage_form": "Syrup",
+    "strength": "2mg/5ml",
+    "pack_size": "120ml",
+    "mrp": 115,
+    "registration_date": "2004-11-08",
+    "expiry_date": "2027-11-08",
+    "status": "Active"
+  },
+  {
+    "registration_number": "131300",
+    "brand_name": "Atcozin",
+    "generic_name": "Ranitidine",
+    "manufacturer": "Atco Laboratories Ltd",
+    "active_ingredients": [
+      {
+        "name": "Ranitidine HCl",
+        "strength": "150mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "150mg",
+    "pack_size": "20 Tablets",
+    "mrp": 95,
+    "registration_date": "2003-02-14",
+    "expiry_date": "2027-02-14",
+    "status": "Active"
+  },
+  {
+    "registration_number": "131600",
+    "brand_name": "Atcoglim",
+    "generic_name": "Glimepiride",
+    "manufacturer": "Atco Laboratories Ltd",
+    "active_ingredients": [
+      {
+        "name": "Glimepiride",
+        "strength": "2mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "2mg",
+    "pack_size": "30 Tablets",
+    "mrp": 280,
+    "registration_date": "2010-06-18",
+    "expiry_date": "2027-06-18",
+    "status": "Active"
+  },
+  {
+    "registration_number": "131601",
+    "brand_name": "Atcoglim",
+    "generic_name": "Glimepiride",
+    "manufacturer": "Atco Laboratories Ltd",
+    "active_ingredients": [
+      {
+        "name": "Glimepiride",
+        "strength": "4mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "4mg",
+    "pack_size": "30 Tablets",
+    "mrp": 410,
+    "registration_date": "2010-06-18",
+    "expiry_date": "2027-06-18",
+    "status": "Active"
+  },
+  {
+    "registration_number": "131900",
+    "brand_name": "Atcoflox",
+    "generic_name": "Levofloxacin",
+    "manufacturer": "Atco Laboratories Ltd",
+    "active_ingredients": [
+      {
+        "name": "Levofloxacin",
+        "strength": "250mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "250mg",
+    "pack_size": "10 Tablets",
+    "mrp": 250,
+    "registration_date": "2008-09-05",
+    "expiry_date": "2027-09-05",
+    "status": "Active"
+  },
+  {
+    "registration_number": "141000",
+    "brand_name": "B-Hodgson Vitamin D",
+    "generic_name": "Cholecalciferol",
+    "manufacturer": "Barrett Hodgson Pakistan (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Cholecalciferol (Vitamin D3)",
+        "strength": "200000IU"
+      }
+    ],
+    "dosage_form": "Injection",
+    "strength": "200000IU/ml",
+    "pack_size": "1ml Ampoule",
+    "mrp": 480,
+    "registration_date": "2011-08-12",
+    "expiry_date": "2027-08-12",
+    "status": "Active"
+  },
+  {
+    "registration_number": "141300",
+    "brand_name": "Osel-D",
+    "generic_name": "Cholecalciferol",
+    "manufacturer": "Barrett Hodgson Pakistan (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Cholecalciferol (Vitamin D3)",
+        "strength": "1000IU"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "1000IU",
+    "pack_size": "30 Tablets",
+    "mrp": 350,
+    "registration_date": "2013-05-20",
+    "expiry_date": "2027-05-20",
+    "status": "Active"
+  },
+  {
+    "registration_number": "141600",
+    "brand_name": "BH Multivitamin",
+    "generic_name": "Multivitamin + Multimineral",
+    "manufacturer": "Barrett Hodgson Pakistan (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Vitamin A",
+        "strength": "5000IU"
+      },
+      {
+        "name": "Vitamin C",
+        "strength": "60mg"
+      },
+      {
+        "name": "Vitamin E",
+        "strength": "30IU"
+      },
+      {
+        "name": "Zinc",
+        "strength": "15mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "Multivitamin",
+    "pack_size": "30 Tablets",
+    "mrp": 420,
+    "registration_date": "2012-01-15",
+    "expiry_date": "2027-01-15",
+    "status": "Active"
+  },
+  {
+    "registration_number": "141900",
+    "brand_name": "Folic-BH",
+    "generic_name": "Folic Acid",
+    "manufacturer": "Barrett Hodgson Pakistan (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Folic Acid",
+        "strength": "5mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "5mg",
+    "pack_size": "30 Tablets",
+    "mrp": 90,
+    "registration_date": "2009-07-10",
+    "expiry_date": "2027-07-10",
+    "status": "Active"
+  },
+  {
+    "registration_number": "151000",
+    "brand_name": "Genopride",
+    "generic_name": "Glimepiride",
+    "manufacturer": "Genome Pharmaceuticals (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Glimepiride",
+        "strength": "1mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "1mg",
+    "pack_size": "30 Tablets",
+    "mrp": 195,
+    "registration_date": "2012-10-18",
+    "expiry_date": "2027-10-18",
+    "status": "Active"
+  },
+  {
+    "registration_number": "151300",
+    "brand_name": "Genozith",
+    "generic_name": "Azithromycin",
+    "manufacturer": "Genome Pharmaceuticals (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Azithromycin",
+        "strength": "500mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "500mg",
+    "pack_size": "3 Tablets",
+    "mrp": 270,
+    "registration_date": "2011-04-25",
+    "expiry_date": "2027-04-25",
+    "status": "Active"
+  },
+  {
+    "registration_number": "151600",
+    "brand_name": "Genoprazole",
+    "generic_name": "Omeprazole",
+    "manufacturer": "Genome Pharmaceuticals (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Omeprazole",
+        "strength": "20mg"
+      }
+    ],
+    "dosage_form": "Capsule",
+    "strength": "20mg",
+    "pack_size": "14 Capsules",
+    "mrp": 175,
+    "registration_date": "2010-09-08",
+    "expiry_date": "2027-09-08",
+    "status": "Active"
+  },
+  {
+    "registration_number": "151900",
+    "brand_name": "Genoxetine",
+    "generic_name": "Fluoxetine",
+    "manufacturer": "Genome Pharmaceuticals (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Fluoxetine HCl",
+        "strength": "20mg"
+      }
+    ],
+    "dosage_form": "Capsule",
+    "strength": "20mg",
+    "pack_size": "14 Capsules",
+    "mrp": 220,
+    "registration_date": "2013-01-30",
+    "expiry_date": "2027-01-30",
+    "status": "Active"
+  },
+  {
+    "registration_number": "024900",
+    "brand_name": "Fexet",
+    "generic_name": "Fexofenadine",
+    "manufacturer": "Getz Pharma (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Fexofenadine HCl",
+        "strength": "120mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "120mg",
+    "pack_size": "10 Tablets",
+    "mrp": 195,
+    "registration_date": "2010-07-22",
+    "expiry_date": "2027-07-22",
+    "status": "Active"
+  },
+  {
+    "registration_number": "024901",
+    "brand_name": "Fexet",
+    "generic_name": "Fexofenadine",
+    "manufacturer": "Getz Pharma (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Fexofenadine HCl",
+        "strength": "180mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "180mg",
+    "pack_size": "10 Tablets",
+    "mrp": 260,
+    "registration_date": "2010-07-22",
+    "expiry_date": "2027-07-22",
+    "status": "Active"
+  },
+  {
+    "registration_number": "025200",
+    "brand_name": "Getz Cephalexin",
+    "generic_name": "Cephalexin",
+    "manufacturer": "Getz Pharma (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Cephalexin",
+        "strength": "500mg"
+      }
+    ],
+    "dosage_form": "Capsule",
+    "strength": "500mg",
+    "pack_size": "12 Capsules",
+    "mrp": 340,
+    "registration_date": "2007-06-14",
+    "expiry_date": "2027-06-14",
+    "status": "Active"
+  },
+  {
+    "registration_number": "032100",
+    "brand_name": "Martin Dow Diclofenac",
+    "generic_name": "Diclofenac Sodium",
+    "manufacturer": "Martin Dow Marker Ltd",
+    "active_ingredients": [
+      {
+        "name": "Diclofenac Sodium",
+        "strength": "75mg/3ml"
+      }
+    ],
+    "dosage_form": "Injection",
+    "strength": "75mg/3ml",
+    "pack_size": "5 Ampoules",
+    "mrp": 230,
+    "registration_date": "2005-04-20",
+    "expiry_date": "2027-04-20",
+    "status": "Active"
+  },
+  {
+    "registration_number": "042000",
+    "brand_name": "Searle Sitagliptin",
+    "generic_name": "Sitagliptin",
+    "manufacturer": "Searle Pakistan (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Sitagliptin Phosphate",
+        "strength": "50mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "50mg",
+    "pack_size": "14 Tablets",
+    "mrp": 1250,
+    "registration_date": "2014-03-10",
+    "expiry_date": "2027-03-10",
+    "status": "Active"
+  },
+  {
+    "registration_number": "042001",
+    "brand_name": "Searle Sitagliptin",
+    "generic_name": "Sitagliptin",
+    "manufacturer": "Searle Pakistan (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Sitagliptin Phosphate",
+        "strength": "100mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "100mg",
+    "pack_size": "14 Tablets",
+    "mrp": 2100,
+    "registration_date": "2014-03-10",
+    "expiry_date": "2027-03-10",
+    "status": "Active"
+  },
+  {
+    "registration_number": "052000",
+    "brand_name": "Hilton Fusidic",
+    "generic_name": "Fusidic Acid",
+    "manufacturer": "Hilton Pharma (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Fusidic Acid",
+        "strength": "2% w/w"
+      }
+    ],
+    "dosage_form": "Cream",
+    "strength": "2%",
+    "pack_size": "15g",
+    "mrp": 280,
+    "registration_date": "2009-11-22",
+    "expiry_date": "2027-11-22",
+    "status": "Active"
+  },
+  {
+    "registration_number": "052300",
+    "brand_name": "Hilcort",
+    "generic_name": "Hydrocortisone",
+    "manufacturer": "Hilton Pharma (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Hydrocortisone",
+        "strength": "1% w/w"
+      }
+    ],
+    "dosage_form": "Cream",
+    "strength": "1%",
+    "pack_size": "15g",
+    "mrp": 145,
+    "registration_date": "2006-08-15",
+    "expiry_date": "2027-08-15",
+    "status": "Active"
+  },
+  {
+    "registration_number": "062200",
+    "brand_name": "Alprazol",
+    "generic_name": "Alprazolam",
+    "manufacturer": "AGP Limited",
+    "active_ingredients": [
+      {
+        "name": "Alprazolam",
+        "strength": "0.5mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "0.5mg",
+    "pack_size": "30 Tablets",
+    "mrp": 120,
+    "registration_date": "2005-11-08",
+    "expiry_date": "2027-11-08",
+    "status": "Active"
+  },
+  {
+    "registration_number": "062201",
+    "brand_name": "Alprazol",
+    "generic_name": "Alprazolam",
+    "manufacturer": "AGP Limited",
+    "active_ingredients": [
+      {
+        "name": "Alprazolam",
+        "strength": "1mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "1mg",
+    "pack_size": "30 Tablets",
+    "mrp": 165,
+    "registration_date": "2005-11-08",
+    "expiry_date": "2027-11-08",
+    "status": "Active"
+  },
+  {
+    "registration_number": "072200",
+    "brand_name": "Samipress",
+    "generic_name": "Enalapril",
+    "manufacturer": "Sami Pharmaceuticals (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Enalapril Maleate",
+        "strength": "5mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "5mg",
+    "pack_size": "20 Tablets",
+    "mrp": 110,
+    "registration_date": "2008-04-14",
+    "expiry_date": "2027-04-14",
+    "status": "Active"
+  },
+  {
+    "registration_number": "092200",
+    "brand_name": "EvoClari",
+    "generic_name": "Clarithromycin",
+    "manufacturer": "PharmEvo (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Clarithromycin",
+        "strength": "250mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "250mg",
+    "pack_size": "14 Tablets",
+    "mrp": 380,
+    "registration_date": "2011-10-20",
+    "expiry_date": "2027-10-20",
+    "status": "Active"
+  },
+  {
+    "registration_number": "112200",
+    "brand_name": "Chlor-High",
+    "generic_name": "Chlorpheniramine",
+    "manufacturer": "Highnoon Laboratories Ltd",
+    "active_ingredients": [
+      {
+        "name": "Chlorpheniramine Maleate",
+        "strength": "4mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "4mg",
+    "pack_size": "20 Tablets",
+    "mrp": 55,
+    "registration_date": "2004-02-28",
+    "expiry_date": "2027-02-28",
+    "status": "Active"
+  },
+  {
+    "registration_number": "112500",
+    "brand_name": "Highnoon Cefixime",
+    "generic_name": "Cefixime",
+    "manufacturer": "Highnoon Laboratories Ltd",
+    "active_ingredients": [
+      {
+        "name": "Cefixime",
+        "strength": "200mg"
+      }
+    ],
+    "dosage_form": "Capsule",
+    "strength": "200mg",
+    "pack_size": "10 Capsules",
+    "mrp": 410,
+    "registration_date": "2010-01-10",
+    "expiry_date": "2027-01-10",
+    "status": "Active"
+  },
+  {
+    "registration_number": "132200",
+    "brand_name": "Atco Losartan",
+    "generic_name": "Losartan Potassium",
+    "manufacturer": "Atco Laboratories Ltd",
+    "active_ingredients": [
+      {
+        "name": "Losartan Potassium",
+        "strength": "50mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "50mg",
+    "pack_size": "20 Tablets",
+    "mrp": 240,
+    "registration_date": "2011-06-25",
+    "expiry_date": "2027-06-25",
+    "status": "Active"
+  },
+  {
+    "registration_number": "025500",
+    "brand_name": "Getz Amlodipine",
+    "generic_name": "Amlodipine",
+    "manufacturer": "Getz Pharma (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Amlodipine Besylate",
+        "strength": "5mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "5mg",
+    "pack_size": "20 Tablets",
+    "mrp": 130,
+    "registration_date": "2008-03-15",
+    "expiry_date": "2027-03-15",
+    "status": "Active"
+  },
+  {
+    "registration_number": "082400",
+    "brand_name": "Ferozsons Metformin",
+    "generic_name": "Metformin",
+    "manufacturer": "Ferozsons Laboratories Ltd",
+    "active_ingredients": [
+      {
+        "name": "Metformin HCl",
+        "strength": "500mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "500mg",
+    "pack_size": "30 Tablets",
+    "mrp": 160,
+    "registration_date": "2009-01-20",
+    "expiry_date": "2027-01-20",
+    "status": "Active"
+  },
+  {
+    "registration_number": "082700",
+    "brand_name": "Ferozsons Paracetamol",
+    "generic_name": "Paracetamol",
+    "manufacturer": "Ferozsons Laboratories Ltd",
+    "active_ingredients": [
+      {
+        "name": "Paracetamol",
+        "strength": "500mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "500mg",
+    "pack_size": "20 Tablets",
+    "mrp": 65,
+    "registration_date": "2003-07-18",
+    "expiry_date": "2027-07-18",
+    "status": "Active"
+  },
+  {
+    "registration_number": "013700",
+    "brand_name": "Zantac",
+    "generic_name": "Ranitidine",
+    "manufacturer": "GlaxoSmithKline Pakistan Limited",
+    "active_ingredients": [
+      {
+        "name": "Ranitidine HCl",
+        "strength": "150mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "150mg",
+    "pack_size": "20 Tablets",
+    "mrp": 135,
+    "registration_date": "2002-11-05",
+    "expiry_date": "2027-11-05",
+    "status": "Active"
+  },
+  {
+    "registration_number": "013900",
+    "brand_name": "Voltaren",
+    "generic_name": "Diclofenac Sodium",
+    "manufacturer": "GlaxoSmithKline Pakistan Limited",
+    "active_ingredients": [
+      {
+        "name": "Diclofenac Sodium",
+        "strength": "50mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "50mg",
+    "pack_size": "20 Tablets",
+    "mrp": 155,
+    "registration_date": "2003-08-14",
+    "expiry_date": "2027-08-14",
+    "status": "Active"
+  },
+  {
+    "registration_number": "013901",
+    "brand_name": "Voltaren Emulgel",
+    "generic_name": "Diclofenac Diethylamine",
+    "manufacturer": "GlaxoSmithKline Pakistan Limited",
+    "active_ingredients": [
+      {
+        "name": "Diclofenac Diethylamine",
+        "strength": "1.16% w/w"
+      }
+    ],
+    "dosage_form": "Gel",
+    "strength": "1.16%",
+    "pack_size": "50g",
+    "mrp": 395,
+    "registration_date": "2005-01-22",
+    "expiry_date": "2027-01-22",
+    "status": "Active"
+  },
+  {
+    "registration_number": "042300",
+    "brand_name": "Imodium",
+    "generic_name": "Loperamide",
+    "manufacturer": "Searle Pakistan (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Loperamide HCl",
+        "strength": "2mg"
+      }
+    ],
+    "dosage_form": "Capsule",
+    "strength": "2mg",
+    "pack_size": "6 Capsules",
+    "mrp": 95,
+    "registration_date": "2004-06-10",
+    "expiry_date": "2027-06-10",
+    "status": "Active"
+  },
+  {
+    "registration_number": "025800",
+    "brand_name": "Getz Ciprofloxacin",
+    "generic_name": "Ciprofloxacin",
+    "manufacturer": "Getz Pharma (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Ciprofloxacin",
+        "strength": "500mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "500mg",
+    "pack_size": "10 Tablets",
+    "mrp": 150,
+    "registration_date": "2006-08-28",
+    "expiry_date": "2027-08-28",
+    "status": "Active"
+  },
+  {
+    "registration_number": "026100",
+    "brand_name": "Getz Metronidazole",
+    "generic_name": "Metronidazole",
+    "manufacturer": "Getz Pharma (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Metronidazole",
+        "strength": "400mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "400mg",
+    "pack_size": "20 Tablets",
+    "mrp": 95,
+    "registration_date": "2005-12-15",
+    "expiry_date": "2027-12-15",
+    "status": "Active"
+  },
+  {
+    "registration_number": "152200",
+    "brand_name": "Genotrim",
+    "generic_name": "Sitagliptin + Metformin",
+    "manufacturer": "Genome Pharmaceuticals (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Sitagliptin Phosphate",
+        "strength": "50mg"
+      },
+      {
+        "name": "Metformin HCl",
+        "strength": "500mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "50mg/500mg",
+    "pack_size": "14 Tablets",
+    "mrp": 1450,
+    "registration_date": "2015-06-22",
+    "expiry_date": "2027-06-22",
+    "status": "Active"
+  },
+  {
+    "registration_number": "062500",
+    "brand_name": "AGP Folic Acid",
+    "generic_name": "Folic Acid",
+    "manufacturer": "AGP Limited",
+    "active_ingredients": [
+      {
+        "name": "Folic Acid",
+        "strength": "5mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "5mg",
+    "pack_size": "30 Tablets",
+    "mrp": 70,
+    "registration_date": "2007-09-14",
+    "expiry_date": "2027-09-14",
+    "status": "Active"
+  },
+  {
+    "registration_number": "062800",
+    "brand_name": "AGP Paracetamol Infusion",
+    "generic_name": "Paracetamol",
+    "manufacturer": "AGP Limited",
+    "active_ingredients": [
+      {
+        "name": "Paracetamol",
+        "strength": "10mg/ml"
+      }
+    ],
+    "dosage_form": "Infusion",
+    "strength": "1g/100ml",
+    "pack_size": "100ml",
+    "mrp": 350,
+    "registration_date": "2013-04-18",
+    "expiry_date": "2027-04-18",
+    "status": "Active"
+  },
+  {
+    "registration_number": "072500",
+    "brand_name": "Samitral",
+    "generic_name": "Sertraline",
+    "manufacturer": "Sami Pharmaceuticals (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Sertraline HCl",
+        "strength": "50mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "50mg",
+    "pack_size": "14 Tablets",
+    "mrp": 240,
+    "registration_date": "2012-07-10",
+    "expiry_date": "2027-07-10",
+    "status": "Active"
+  },
+  {
+    "registration_number": "092500",
+    "brand_name": "EvoFex",
+    "generic_name": "Fexofenadine",
+    "manufacturer": "PharmEvo (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Fexofenadine HCl",
+        "strength": "60mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "60mg",
+    "pack_size": "20 Tablets",
+    "mrp": 160,
+    "registration_date": "2013-02-28",
+    "expiry_date": "2027-02-28",
+    "status": "Active"
+  },
+  {
+    "registration_number": "122400",
+    "brand_name": "CCL Domperidone",
+    "generic_name": "Domperidone",
+    "manufacturer": "CCL Pharmaceuticals (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Domperidone",
+        "strength": "10mg"
+      }
+    ],
+    "dosage_form": "Tablet",
+    "strength": "10mg",
+    "pack_size": "20 Tablets",
+    "mrp": 110,
+    "registration_date": "2006-05-15",
+    "expiry_date": "2027-05-15",
+    "status": "Active"
+  },
+  {
+    "registration_number": "122700",
+    "brand_name": "CCL Amoxicillin",
+    "generic_name": "Amoxicillin",
+    "manufacturer": "CCL Pharmaceuticals (Pvt) Ltd",
+    "active_ingredients": [
+      {
+        "name": "Amoxicillin",
+        "strength": "250mg"
+      }
+    ],
+    "dosage_form": "Capsule",
+    "strength": "250mg",
+    "pack_size": "12 Capsules",
+    "mrp": 135,
+    "registration_date": "2004-10-08",
+    "expiry_date": "2027-10-08",
+    "status": "Active"
+  },
+  {
+    "brand_name": "Augmentin",
+    "generic_name": "Amoxicillin + Clavulanate",
+    "manufacturer": "GlaxoSmithKline Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "625mg",
+    "registration_number": "001520",
+    "mrp": 850,
+    "category": "Antibiotic",
+    "status": "Active",
+    "active_ingredients": [
+      "Amoxicillin + Clavulanate"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Augmentin",
+    "generic_name": "Amoxicillin + Clavulanate",
+    "manufacturer": "GlaxoSmithKline Pakistan",
+    "dosage_form": "Suspension",
+    "strength": "228mg/5ml",
+    "registration_number": "001521",
+    "mrp": 620,
+    "category": "Antibiotic",
+    "status": "Active",
+    "active_ingredients": [
+      "Amoxicillin + Clavulanate"
+    ],
+    "pack_size": "1"
+  },
+  {
+    "brand_name": "Amoxil",
+    "generic_name": "Amoxicillin",
+    "manufacturer": "GlaxoSmithKline Pakistan",
+    "dosage_form": "Capsule",
+    "strength": "500mg",
+    "registration_number": "000125",
+    "mrp": 280,
+    "category": "Antibiotic",
+    "status": "Active",
+    "active_ingredients": [
+      "Amoxicillin"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Amoxil",
+    "generic_name": "Amoxicillin",
+    "manufacturer": "GlaxoSmithKline Pakistan",
+    "dosage_form": "Suspension",
+    "strength": "250mg/5ml",
+    "registration_number": "000126",
+    "mrp": 195,
+    "category": "Antibiotic",
+    "status": "Active",
+    "active_ingredients": [
+      "Amoxicillin"
+    ],
+    "pack_size": "1"
+  },
+  {
+    "brand_name": "Azomax",
+    "generic_name": "Azithromycin",
+    "manufacturer": "Getz Pharma",
+    "dosage_form": "Tablet",
+    "strength": "500mg",
+    "registration_number": "047823",
+    "mrp": 420,
+    "category": "Antibiotic",
+    "status": "Active",
+    "active_ingredients": [
+      "Azithromycin"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Azomax",
+    "generic_name": "Azithromycin",
+    "manufacturer": "Getz Pharma",
+    "dosage_form": "Suspension",
+    "strength": "200mg/5ml",
+    "registration_number": "047824",
+    "mrp": 310,
+    "category": "Antibiotic",
+    "status": "Active",
+    "active_ingredients": [
+      "Azithromycin"
+    ],
+    "pack_size": "1"
+  },
+  {
+    "brand_name": "Klaricid",
+    "generic_name": "Clarithromycin",
+    "manufacturer": "Abbott Laboratories Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "500mg",
+    "registration_number": "012456",
+    "mrp": 780,
+    "category": "Antibiotic",
+    "status": "Active",
+    "active_ingredients": [
+      "Clarithromycin"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Ciproxin",
+    "generic_name": "Ciprofloxacin",
+    "manufacturer": "Bayer Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "500mg",
+    "registration_number": "005678",
+    "mrp": 450,
+    "category": "Antibiotic",
+    "status": "Active",
+    "active_ingredients": [
+      "Ciprofloxacin"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Novidat",
+    "generic_name": "Ciprofloxacin",
+    "manufacturer": "Sami Pharmaceuticals",
+    "dosage_form": "Tablet",
+    "strength": "500mg",
+    "registration_number": "034567",
+    "mrp": 180,
+    "category": "Antibiotic",
+    "status": "Active",
+    "active_ingredients": [
+      "Ciprofloxacin"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Flagyl",
+    "generic_name": "Metronidazole",
+    "manufacturer": "Sanofi Aventis Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "400mg",
+    "registration_number": "002345",
+    "mrp": 120,
+    "category": "Antibiotic",
+    "status": "Active",
+    "active_ingredients": [
+      "Metronidazole"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Vibramycin",
+    "generic_name": "Doxycycline",
+    "manufacturer": "Pfizer Pakistan",
+    "dosage_form": "Capsule",
+    "strength": "100mg",
+    "registration_number": "003456",
+    "mrp": 350,
+    "category": "Antibiotic",
+    "status": "Active",
+    "active_ingredients": [
+      "Doxycycline"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Dalacin C",
+    "generic_name": "Clindamycin",
+    "manufacturer": "Pfizer Pakistan",
+    "dosage_form": "Capsule",
+    "strength": "300mg",
+    "registration_number": "003789",
+    "mrp": 680,
+    "category": "Antibiotic",
+    "status": "Active",
+    "active_ingredients": [
+      "Clindamycin"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Septran",
+    "generic_name": "Sulfamethoxazole + Trimethoprim",
+    "manufacturer": "GlaxoSmithKline Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "480mg",
+    "registration_number": "001234",
+    "mrp": 85,
+    "category": "Antibiotic",
+    "status": "Active",
+    "active_ingredients": [
+      "Sulfamethoxazole + Trimethoprim"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Velosef",
+    "generic_name": "Cephradine",
+    "manufacturer": "GlaxoSmithKline Pakistan",
+    "dosage_form": "Capsule",
+    "strength": "500mg",
+    "registration_number": "001567",
+    "mrp": 380,
+    "category": "Antibiotic",
+    "status": "Active",
+    "active_ingredients": [
+      "Cephradine"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Zinnat",
+    "generic_name": "Cefuroxime",
+    "manufacturer": "GlaxoSmithKline Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "500mg",
+    "registration_number": "001890",
+    "mrp": 720,
+    "category": "Antibiotic",
+    "status": "Active",
+    "active_ingredients": [
+      "Cefuroxime"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Ceclor",
+    "generic_name": "Cefaclor",
+    "manufacturer": "Eli Lilly Pakistan",
+    "dosage_form": "Capsule",
+    "strength": "500mg",
+    "registration_number": "008901",
+    "mrp": 560,
+    "category": "Antibiotic",
+    "status": "Active",
+    "active_ingredients": [
+      "Cefaclor"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Cedax",
+    "generic_name": "Ceftibuten",
+    "manufacturer": "Schering-Plough",
+    "dosage_form": "Capsule",
+    "strength": "400mg",
+    "registration_number": "009123",
+    "mrp": 890,
+    "category": "Antibiotic",
+    "status": "Active",
+    "active_ingredients": [
+      "Ceftibuten"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Suprax",
+    "generic_name": "Cefixime",
+    "manufacturer": "Sanofi Aventis Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "400mg",
+    "registration_number": "002567",
+    "mrp": 520,
+    "category": "Antibiotic",
+    "status": "Active",
+    "active_ingredients": [
+      "Cefixime"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Cespan",
+    "generic_name": "Cefixime",
+    "manufacturer": "Abbott Laboratories Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "400mg",
+    "registration_number": "012890",
+    "mrp": 480,
+    "category": "Antibiotic",
+    "status": "Active",
+    "active_ingredients": [
+      "Cefixime"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Tavanic",
+    "generic_name": "Levofloxacin",
+    "manufacturer": "Sanofi Aventis Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "500mg",
+    "registration_number": "002678",
+    "mrp": 650,
+    "category": "Antibiotic",
+    "status": "Active",
+    "active_ingredients": [
+      "Levofloxacin"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Avelox",
+    "generic_name": "Moxifloxacin",
+    "manufacturer": "Bayer Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "400mg",
+    "registration_number": "005890",
+    "mrp": 780,
+    "category": "Antibiotic",
+    "status": "Active",
+    "active_ingredients": [
+      "Moxifloxacin"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Moxiget",
+    "generic_name": "Moxifloxacin",
+    "manufacturer": "Getz Pharma",
+    "dosage_form": "Tablet",
+    "strength": "400mg",
+    "registration_number": "047890",
+    "mrp": 380,
+    "category": "Antibiotic",
+    "status": "Active",
+    "active_ingredients": [
+      "Moxifloxacin"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Zetamax",
+    "generic_name": "Azithromycin",
+    "manufacturer": "Hilton Pharma",
+    "dosage_form": "Tablet",
+    "strength": "500mg",
+    "registration_number": "056789",
+    "mrp": 350,
+    "category": "Antibiotic",
+    "status": "Active",
+    "active_ingredients": [
+      "Azithromycin"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Levoget",
+    "generic_name": "Levofloxacin",
+    "manufacturer": "Getz Pharma",
+    "dosage_form": "Tablet",
+    "strength": "500mg",
+    "registration_number": "047901",
+    "mrp": 320,
+    "category": "Antibiotic",
+    "status": "Active",
+    "active_ingredients": [
+      "Levofloxacin"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Meronem",
+    "generic_name": "Meropenem",
+    "manufacturer": "Pfizer Pakistan",
+    "dosage_form": "Injection",
+    "strength": "1g",
+    "registration_number": "003890",
+    "mrp": 4500,
+    "category": "Antibiotic",
+    "status": "Active",
+    "active_ingredients": [
+      "Meropenem"
+    ],
+    "pack_size": "1"
+  },
+  {
+    "brand_name": "Tazocin",
+    "generic_name": "Piperacillin + Tazobactam",
+    "manufacturer": "Pfizer Pakistan",
+    "dosage_form": "Injection",
+    "strength": "4.5g",
+    "registration_number": "003901",
+    "mrp": 3800,
+    "category": "Antibiotic",
+    "status": "Active",
+    "active_ingredients": [
+      "Piperacillin + Tazobactam"
+    ],
+    "pack_size": "1"
+  },
+  {
+    "brand_name": "Vancomycin Injection",
+    "generic_name": "Vancomycin",
+    "manufacturer": "Searle Pakistan",
+    "dosage_form": "Injection",
+    "strength": "500mg",
+    "registration_number": "067890",
+    "mrp": 2200,
+    "category": "Antibiotic",
+    "status": "Active",
+    "active_ingredients": [
+      "Vancomycin"
+    ],
+    "pack_size": "1"
+  },
+  {
+    "brand_name": "Linezolid Tablet",
+    "generic_name": "Linezolid",
+    "manufacturer": "Getz Pharma",
+    "dosage_form": "Tablet",
+    "strength": "600mg",
+    "registration_number": "047902",
+    "mrp": 1800,
+    "category": "Antibiotic",
+    "status": "Active",
+    "active_ingredients": [
+      "Linezolid"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Panadol",
+    "generic_name": "Paracetamol",
+    "manufacturer": "GlaxoSmithKline Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "500mg",
+    "registration_number": "001100",
+    "mrp": 52,
+    "category": "Analgesic",
+    "status": "Active",
+    "active_ingredients": [
+      "Paracetamol"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Panadol Extra",
+    "generic_name": "Paracetamol + Caffeine",
+    "manufacturer": "GlaxoSmithKline Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "500mg/65mg",
+    "registration_number": "001101",
+    "mrp": 78,
+    "category": "Analgesic",
+    "status": "Active",
+    "active_ingredients": [
+      "Paracetamol + Caffeine"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Panadol CF",
+    "generic_name": "Paracetamol + Phenylephrine + Chlorphenamine",
+    "manufacturer": "GlaxoSmithKline Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "500mg",
+    "registration_number": "001102",
+    "mrp": 85,
+    "category": "Analgesic",
+    "status": "Active",
+    "active_ingredients": [
+      "Paracetamol + Phenylephrine + Chlorphenamine"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Brufen",
+    "generic_name": "Ibuprofen",
+    "manufacturer": "Abbott Laboratories Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "400mg",
+    "registration_number": "012100",
+    "mrp": 95,
+    "category": "NSAID",
+    "status": "Active",
+    "active_ingredients": [
+      "Ibuprofen"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Brufen Retard",
+    "generic_name": "Ibuprofen",
+    "manufacturer": "Abbott Laboratories Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "800mg",
+    "registration_number": "012101",
+    "mrp": 175,
+    "category": "NSAID",
+    "status": "Active",
+    "active_ingredients": [
+      "Ibuprofen"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Cataflam",
+    "generic_name": "Diclofenac Potassium",
+    "manufacturer": "Novartis Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "50mg",
+    "registration_number": "010100",
+    "mrp": 145,
+    "category": "NSAID",
+    "status": "Active",
+    "active_ingredients": [
+      "Diclofenac Potassium"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Voltaren",
+    "generic_name": "Diclofenac Sodium",
+    "manufacturer": "Novartis Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "50mg",
+    "registration_number": "010101",
+    "mrp": 120,
+    "category": "NSAID",
+    "status": "Active",
+    "active_ingredients": [
+      "Diclofenac Sodium"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Voltaren Gel",
+    "generic_name": "Diclofenac Sodium",
+    "manufacturer": "Novartis Pakistan",
+    "dosage_form": "Gel",
+    "strength": "1%",
+    "registration_number": "010102",
+    "mrp": 280,
+    "category": "NSAID",
+    "status": "Active",
+    "active_ingredients": [
+      "Diclofenac Sodium"
+    ],
+    "pack_size": "1"
+  },
+  {
+    "brand_name": "Ponstan",
+    "generic_name": "Mefenamic Acid",
+    "manufacturer": "Pfizer Pakistan",
+    "dosage_form": "Capsule",
+    "strength": "250mg",
+    "registration_number": "003100",
+    "mrp": 110,
+    "category": "NSAID",
+    "status": "Active",
+    "active_ingredients": [
+      "Mefenamic Acid"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Ponstan Forte",
+    "generic_name": "Mefenamic Acid",
+    "manufacturer": "Pfizer Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "500mg",
+    "registration_number": "003101",
+    "mrp": 175,
+    "category": "NSAID",
+    "status": "Active",
+    "active_ingredients": [
+      "Mefenamic Acid"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Disprin",
+    "generic_name": "Aspirin",
+    "manufacturer": "Reckitt Benckiser",
+    "dosage_form": "Tablet",
+    "strength": "300mg",
+    "registration_number": "070100",
+    "mrp": 35,
+    "category": "Analgesic",
+    "status": "Active",
+    "active_ingredients": [
+      "Aspirin"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Disprin CV",
+    "generic_name": "Aspirin",
+    "manufacturer": "Reckitt Benckiser",
+    "dosage_form": "Tablet",
+    "strength": "75mg",
+    "registration_number": "070101",
+    "mrp": 55,
+    "category": "Antiplatelet",
+    "status": "Active",
+    "active_ingredients": [
+      "Aspirin"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Mobic",
+    "generic_name": "Meloxicam",
+    "manufacturer": "Boehringer Ingelheim",
+    "dosage_form": "Tablet",
+    "strength": "15mg",
+    "registration_number": "072100",
+    "mrp": 350,
+    "category": "NSAID",
+    "status": "Active",
+    "active_ingredients": [
+      "Meloxicam"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Celebrex",
+    "generic_name": "Celecoxib",
+    "manufacturer": "Pfizer Pakistan",
+    "dosage_form": "Capsule",
+    "strength": "200mg",
+    "registration_number": "003102",
+    "mrp": 580,
+    "category": "NSAID",
+    "status": "Active",
+    "active_ingredients": [
+      "Celecoxib"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Toradol",
+    "generic_name": "Ketorolac",
+    "manufacturer": "Roche Pakistan",
+    "dosage_form": "Injection",
+    "strength": "30mg/ml",
+    "registration_number": "073100",
+    "mrp": 180,
+    "category": "NSAID",
+    "status": "Active",
+    "active_ingredients": [
+      "Ketorolac"
+    ],
+    "pack_size": "1"
+  },
+  {
+    "brand_name": "Tramal",
+    "generic_name": "Tramadol",
+    "manufacturer": "Grunenthal",
+    "dosage_form": "Capsule",
+    "strength": "50mg",
+    "registration_number": "074100",
+    "mrp": 220,
+    "category": "Opioid Analgesic",
+    "status": "Active",
+    "active_ingredients": [
+      "Tramadol"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Lyrica",
+    "generic_name": "Pregabalin",
+    "manufacturer": "Pfizer Pakistan",
+    "dosage_form": "Capsule",
+    "strength": "75mg",
+    "registration_number": "003200",
+    "mrp": 650,
+    "category": "Neuropathic Pain",
+    "status": "Active",
+    "active_ingredients": [
+      "Pregabalin"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Neurontin",
+    "generic_name": "Gabapentin",
+    "manufacturer": "Pfizer Pakistan",
+    "dosage_form": "Capsule",
+    "strength": "300mg",
+    "registration_number": "003201",
+    "mrp": 480,
+    "category": "Neuropathic Pain",
+    "status": "Active",
+    "active_ingredients": [
+      "Gabapentin"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Norvasc",
+    "generic_name": "Amlodipine",
+    "manufacturer": "Pfizer Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "5mg",
+    "registration_number": "003300",
+    "mrp": 280,
+    "category": "Antihypertensive",
+    "status": "Active",
+    "active_ingredients": [
+      "Amlodipine"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Norvasc",
+    "generic_name": "Amlodipine",
+    "manufacturer": "Pfizer Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "10mg",
+    "registration_number": "003301",
+    "mrp": 380,
+    "category": "Antihypertensive",
+    "status": "Active",
+    "active_ingredients": [
+      "Amlodipine"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Concor",
+    "generic_name": "Bisoprolol",
+    "manufacturer": "Merck Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "5mg",
+    "registration_number": "075100",
+    "mrp": 420,
+    "category": "Beta Blocker",
+    "status": "Active",
+    "active_ingredients": [
+      "Bisoprolol"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Concor",
+    "generic_name": "Bisoprolol",
+    "manufacturer": "Merck Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "2.5mg",
+    "registration_number": "075101",
+    "mrp": 320,
+    "category": "Beta Blocker",
+    "status": "Active",
+    "active_ingredients": [
+      "Bisoprolol"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Tenormin",
+    "generic_name": "Atenolol",
+    "manufacturer": "AstraZeneca Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "50mg",
+    "registration_number": "015100",
+    "mrp": 145,
+    "category": "Beta Blocker",
+    "status": "Active",
+    "active_ingredients": [
+      "Atenolol"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Inderal",
+    "generic_name": "Propranolol",
+    "manufacturer": "AstraZeneca Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "40mg",
+    "registration_number": "015101",
+    "mrp": 65,
+    "category": "Beta Blocker",
+    "status": "Active",
+    "active_ingredients": [
+      "Propranolol"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Lasix",
+    "generic_name": "Furosemide",
+    "manufacturer": "Sanofi Aventis Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "40mg",
+    "registration_number": "002100",
+    "mrp": 55,
+    "category": "Diuretic",
+    "status": "Active",
+    "active_ingredients": [
+      "Furosemide"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Aldactone",
+    "generic_name": "Spironolactone",
+    "manufacturer": "Pfizer Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "25mg",
+    "registration_number": "003302",
+    "mrp": 180,
+    "category": "Diuretic",
+    "status": "Active",
+    "active_ingredients": [
+      "Spironolactone"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Zestril",
+    "generic_name": "Lisinopril",
+    "manufacturer": "AstraZeneca Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "5mg",
+    "registration_number": "015200",
+    "mrp": 220,
+    "category": "ACE Inhibitor",
+    "status": "Active",
+    "active_ingredients": [
+      "Lisinopril"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Tritace",
+    "generic_name": "Ramipril",
+    "manufacturer": "Sanofi Aventis Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "5mg",
+    "registration_number": "002200",
+    "mrp": 350,
+    "category": "ACE Inhibitor",
+    "status": "Active",
+    "active_ingredients": [
+      "Ramipril"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Cozaar",
+    "generic_name": "Losartan",
+    "manufacturer": "Merck Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "50mg",
+    "registration_number": "075200",
+    "mrp": 380,
+    "category": "ARB",
+    "status": "Active",
+    "active_ingredients": [
+      "Losartan"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Aprovel",
+    "generic_name": "Irbesartan",
+    "manufacturer": "Sanofi Aventis Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "150mg",
+    "registration_number": "002201",
+    "mrp": 480,
+    "category": "ARB",
+    "status": "Active",
+    "active_ingredients": [
+      "Irbesartan"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Lipitor",
+    "generic_name": "Atorvastatin",
+    "manufacturer": "Pfizer Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "20mg",
+    "registration_number": "003400",
+    "mrp": 580,
+    "category": "Statin",
+    "status": "Active",
+    "active_ingredients": [
+      "Atorvastatin"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Lipitor",
+    "generic_name": "Atorvastatin",
+    "manufacturer": "Pfizer Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "40mg",
+    "registration_number": "003401",
+    "mrp": 780,
+    "category": "Statin",
+    "status": "Active",
+    "active_ingredients": [
+      "Atorvastatin"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Crestor",
+    "generic_name": "Rosuvastatin",
+    "manufacturer": "AstraZeneca Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "10mg",
+    "registration_number": "015300",
+    "mrp": 650,
+    "category": "Statin",
+    "status": "Active",
+    "active_ingredients": [
+      "Rosuvastatin"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Zocor",
+    "generic_name": "Simvastatin",
+    "manufacturer": "Merck Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "20mg",
+    "registration_number": "075300",
+    "mrp": 380,
+    "category": "Statin",
+    "status": "Active",
+    "active_ingredients": [
+      "Simvastatin"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Plavix",
+    "generic_name": "Clopidogrel",
+    "manufacturer": "Sanofi Aventis Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "75mg",
+    "registration_number": "002300",
+    "mrp": 780,
+    "category": "Antiplatelet",
+    "status": "Active",
+    "active_ingredients": [
+      "Clopidogrel"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Xarelto",
+    "generic_name": "Rivaroxaban",
+    "manufacturer": "Bayer Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "20mg",
+    "registration_number": "005200",
+    "mrp": 4500,
+    "category": "Anticoagulant",
+    "status": "Active",
+    "active_ingredients": [
+      "Rivaroxaban"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Eliquis",
+    "generic_name": "Apixaban",
+    "manufacturer": "Pfizer Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "5mg",
+    "registration_number": "003402",
+    "mrp": 3800,
+    "category": "Anticoagulant",
+    "status": "Active",
+    "active_ingredients": [
+      "Apixaban"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Digoxin",
+    "generic_name": "Digoxin",
+    "manufacturer": "GlaxoSmithKline Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "0.25mg",
+    "registration_number": "001200",
+    "mrp": 45,
+    "category": "Cardiac Glycoside",
+    "status": "Active",
+    "active_ingredients": [
+      "Digoxin"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Adalat",
+    "generic_name": "Nifedipine",
+    "manufacturer": "Bayer Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "30mg",
+    "registration_number": "005300",
+    "mrp": 320,
+    "category": "Calcium Channel Blocker",
+    "status": "Active",
+    "active_ingredients": [
+      "Nifedipine"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Glucophage",
+    "generic_name": "Metformin",
+    "manufacturer": "Merck Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "500mg",
+    "registration_number": "075400",
+    "mrp": 120,
+    "category": "Antidiabetic",
+    "status": "Active",
+    "active_ingredients": [
+      "Metformin"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Glucophage",
+    "generic_name": "Metformin",
+    "manufacturer": "Merck Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "850mg",
+    "registration_number": "075401",
+    "mrp": 180,
+    "category": "Antidiabetic",
+    "status": "Active",
+    "active_ingredients": [
+      "Metformin"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Glucophage XR",
+    "generic_name": "Metformin",
+    "manufacturer": "Merck Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "1000mg",
+    "registration_number": "075402",
+    "mrp": 350,
+    "category": "Antidiabetic",
+    "status": "Active",
+    "active_ingredients": [
+      "Metformin"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Amaryl",
+    "generic_name": "Glimepiride",
+    "manufacturer": "Sanofi Aventis Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "2mg",
+    "registration_number": "002400",
+    "mrp": 280,
+    "category": "Antidiabetic",
+    "status": "Active",
+    "active_ingredients": [
+      "Glimepiride"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Amaryl",
+    "generic_name": "Glimepiride",
+    "manufacturer": "Sanofi Aventis Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "4mg",
+    "registration_number": "002401",
+    "mrp": 450,
+    "category": "Antidiabetic",
+    "status": "Active",
+    "active_ingredients": [
+      "Glimepiride"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Diamicron MR",
+    "generic_name": "Gliclazide",
+    "manufacturer": "Servier Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "60mg",
+    "registration_number": "076100",
+    "mrp": 520,
+    "category": "Antidiabetic",
+    "status": "Active",
+    "active_ingredients": [
+      "Gliclazide"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Januvia",
+    "generic_name": "Sitagliptin",
+    "manufacturer": "Merck Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "100mg",
+    "registration_number": "075500",
+    "mrp": 1800,
+    "category": "DPP-4 Inhibitor",
+    "status": "Active",
+    "active_ingredients": [
+      "Sitagliptin"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Galvus",
+    "generic_name": "Vildagliptin",
+    "manufacturer": "Novartis Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "50mg",
+    "registration_number": "010200",
+    "mrp": 1200,
+    "category": "DPP-4 Inhibitor",
+    "status": "Active",
+    "active_ingredients": [
+      "Vildagliptin"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Jardiance",
+    "generic_name": "Empagliflozin",
+    "manufacturer": "Boehringer Ingelheim",
+    "dosage_form": "Tablet",
+    "strength": "25mg",
+    "registration_number": "072300",
+    "mrp": 2800,
+    "category": "SGLT2 Inhibitor",
+    "status": "Active",
+    "active_ingredients": [
+      "Empagliflozin"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Forxiga",
+    "generic_name": "Dapagliflozin",
+    "manufacturer": "AstraZeneca Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "10mg",
+    "registration_number": "015400",
+    "mrp": 2200,
+    "category": "SGLT2 Inhibitor",
+    "status": "Active",
+    "active_ingredients": [
+      "Dapagliflozin"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Ozempic",
+    "generic_name": "Semaglutide",
+    "manufacturer": "Novo Nordisk Pakistan",
+    "dosage_form": "Injection",
+    "strength": "1mg/dose",
+    "registration_number": "077100",
+    "mrp": 18000,
+    "category": "GLP-1 Agonist",
+    "status": "Active",
+    "active_ingredients": [
+      "Semaglutide"
+    ],
+    "pack_size": "1"
+  },
+  {
+    "brand_name": "Victoza",
+    "generic_name": "Liraglutide",
+    "manufacturer": "Novo Nordisk Pakistan",
+    "dosage_form": "Injection",
+    "strength": "6mg/ml",
+    "registration_number": "077101",
+    "mrp": 15000,
+    "category": "GLP-1 Agonist",
+    "status": "Active",
+    "active_ingredients": [
+      "Liraglutide"
+    ],
+    "pack_size": "1"
+  },
+  {
+    "brand_name": "Actos",
+    "generic_name": "Pioglitazone",
+    "manufacturer": "Takeda Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "30mg",
+    "registration_number": "078100",
+    "mrp": 450,
+    "category": "Antidiabetic",
+    "status": "Active",
+    "active_ingredients": [
+      "Pioglitazone"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Lantus",
+    "generic_name": "Insulin Glargine",
+    "manufacturer": "Sanofi Aventis Pakistan",
+    "dosage_form": "Injection",
+    "strength": "100IU/ml",
+    "registration_number": "002500",
+    "mrp": 3200,
+    "category": "Insulin",
+    "status": "Active",
+    "active_ingredients": [
+      "Insulin Glargine"
+    ],
+    "pack_size": "1"
+  },
+  {
+    "brand_name": "NovoRapid",
+    "generic_name": "Insulin Aspart",
+    "manufacturer": "Novo Nordisk Pakistan",
+    "dosage_form": "Injection",
+    "strength": "100IU/ml",
+    "registration_number": "077200",
+    "mrp": 2800,
+    "category": "Insulin",
+    "status": "Active",
+    "active_ingredients": [
+      "Insulin Aspart"
+    ],
+    "pack_size": "1"
+  },
+  {
+    "brand_name": "Humulin",
+    "generic_name": "Human Insulin",
+    "manufacturer": "Eli Lilly Pakistan",
+    "dosage_form": "Injection",
+    "strength": "100IU/ml",
+    "registration_number": "008200",
+    "mrp": 1800,
+    "category": "Insulin",
+    "status": "Active",
+    "active_ingredients": [
+      "Human Insulin"
+    ],
+    "pack_size": "1"
+  },
+  {
+    "brand_name": "Nexium",
+    "generic_name": "Esomeprazole",
+    "manufacturer": "AstraZeneca Pakistan",
+    "dosage_form": "Capsule",
+    "strength": "40mg",
+    "registration_number": "015500",
+    "mrp": 580,
+    "category": "PPI",
+    "status": "Active",
+    "active_ingredients": [
+      "Esomeprazole"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Nexium",
+    "generic_name": "Esomeprazole",
+    "manufacturer": "AstraZeneca Pakistan",
+    "dosage_form": "Capsule",
+    "strength": "20mg",
+    "registration_number": "015501",
+    "mrp": 380,
+    "category": "PPI",
+    "status": "Active",
+    "active_ingredients": [
+      "Esomeprazole"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Risek",
+    "generic_name": "Omeprazole",
+    "manufacturer": "Getz Pharma",
+    "dosage_form": "Capsule",
+    "strength": "20mg",
+    "registration_number": "047100",
+    "mrp": 185,
+    "category": "PPI",
+    "status": "Active",
+    "active_ingredients": [
+      "Omeprazole"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Risek",
+    "generic_name": "Omeprazole",
+    "manufacturer": "Getz Pharma",
+    "dosage_form": "Capsule",
+    "strength": "40mg",
+    "registration_number": "047101",
+    "mrp": 280,
+    "category": "PPI",
+    "status": "Active",
+    "active_ingredients": [
+      "Omeprazole"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Risek INSTA",
+    "generic_name": "Omeprazole",
+    "manufacturer": "Getz Pharma",
+    "dosage_form": "Sachet",
+    "strength": "20mg",
+    "registration_number": "047102",
+    "mrp": 225,
+    "category": "PPI",
+    "status": "Active",
+    "active_ingredients": [
+      "Omeprazole"
+    ],
+    "pack_size": "1"
+  },
+  {
+    "brand_name": "Controloc",
+    "generic_name": "Pantoprazole",
+    "manufacturer": "Nycomed/Takeda",
+    "dosage_form": "Tablet",
+    "strength": "40mg",
+    "registration_number": "078200",
+    "mrp": 480,
+    "category": "PPI",
+    "status": "Active",
+    "active_ingredients": [
+      "Pantoprazole"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Pariet",
+    "generic_name": "Rabeprazole",
+    "manufacturer": "Janssen Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "20mg",
+    "registration_number": "079100",
+    "mrp": 520,
+    "category": "PPI",
+    "status": "Active",
+    "active_ingredients": [
+      "Rabeprazole"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Motilium",
+    "generic_name": "Domperidone",
+    "manufacturer": "Janssen Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "10mg",
+    "registration_number": "079200",
+    "mrp": 120,
+    "category": "Prokinetic",
+    "status": "Active",
+    "active_ingredients": [
+      "Domperidone"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Zofran",
+    "generic_name": "Ondansetron",
+    "manufacturer": "GlaxoSmithKline Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "8mg",
+    "registration_number": "001300",
+    "mrp": 380,
+    "category": "Antiemetic",
+    "status": "Active",
+    "active_ingredients": [
+      "Ondansetron"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Imodium",
+    "generic_name": "Loperamide",
+    "manufacturer": "Janssen Pakistan",
+    "dosage_form": "Capsule",
+    "strength": "2mg",
+    "registration_number": "079300",
+    "mrp": 95,
+    "category": "Antidiarrheal",
+    "status": "Active",
+    "active_ingredients": [
+      "Loperamide"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Duphalac",
+    "generic_name": "Lactulose",
+    "manufacturer": "Abbott Laboratories Pakistan",
+    "dosage_form": "Syrup",
+    "strength": "66.7%",
+    "registration_number": "012300",
+    "mrp": 420,
+    "category": "Laxative",
+    "status": "Active",
+    "active_ingredients": [
+      "Lactulose"
+    ],
+    "pack_size": "1"
+  },
+  {
+    "brand_name": "Mucaine",
+    "generic_name": "Aluminium Hydroxide + Magnesium Hydroxide + Oxetacaine",
+    "manufacturer": "Wyeth Pakistan",
+    "dosage_form": "Suspension",
+    "strength": "Various",
+    "registration_number": "080100",
+    "mrp": 185,
+    "category": "Antacid",
+    "status": "Active",
+    "active_ingredients": [
+      "Aluminium Hydroxide + Magnesium Hydroxide + Oxetacaine"
+    ],
+    "pack_size": "1"
+  },
+  {
+    "brand_name": "Gaviscon",
+    "generic_name": "Sodium Alginate + Sodium Bicarbonate",
+    "manufacturer": "Reckitt Benckiser",
+    "dosage_form": "Suspension",
+    "strength": "Various",
+    "registration_number": "070200",
+    "mrp": 380,
+    "category": "Antacid",
+    "status": "Active",
+    "active_ingredients": [
+      "Sodium Alginate + Sodium Bicarbonate"
+    ],
+    "pack_size": "1"
+  },
+  {
+    "brand_name": "Ventolin",
+    "generic_name": "Salbutamol",
+    "manufacturer": "GlaxoSmithKline Pakistan",
+    "dosage_form": "Inhaler",
+    "strength": "100mcg",
+    "registration_number": "001400",
+    "mrp": 350,
+    "category": "Bronchodilator",
+    "status": "Active",
+    "active_ingredients": [
+      "Salbutamol"
+    ],
+    "pack_size": "1"
+  },
+  {
+    "brand_name": "Ventolin Nebules",
+    "generic_name": "Salbutamol",
+    "manufacturer": "GlaxoSmithKline Pakistan",
+    "dosage_form": "Nebulizer Solution",
+    "strength": "2.5mg/2.5ml",
+    "registration_number": "001401",
+    "mrp": 280,
+    "category": "Bronchodilator",
+    "status": "Active",
+    "active_ingredients": [
+      "Salbutamol"
+    ],
+    "pack_size": "1"
+  },
+  {
+    "brand_name": "Seretide",
+    "generic_name": "Fluticasone + Salmeterol",
+    "manufacturer": "GlaxoSmithKline Pakistan",
+    "dosage_form": "Inhaler",
+    "strength": "250/50mcg",
+    "registration_number": "001500",
+    "mrp": 2800,
+    "category": "Asthma Controller",
+    "status": "Active",
+    "active_ingredients": [
+      "Fluticasone + Salmeterol"
+    ],
+    "pack_size": "1"
+  },
+  {
+    "brand_name": "Symbicort",
+    "generic_name": "Budesonide + Formoterol",
+    "manufacturer": "AstraZeneca Pakistan",
+    "dosage_form": "Inhaler",
+    "strength": "160/4.5mcg",
+    "registration_number": "015600",
+    "mrp": 2500,
+    "category": "Asthma Controller",
+    "status": "Active",
+    "active_ingredients": [
+      "Budesonide + Formoterol"
+    ],
+    "pack_size": "1"
+  },
+  {
+    "brand_name": "Singulair",
+    "generic_name": "Montelukast",
+    "manufacturer": "Merck Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "10mg",
+    "registration_number": "075600",
+    "mrp": 650,
+    "category": "Leukotriene Antagonist",
+    "status": "Active",
+    "active_ingredients": [
+      "Montelukast"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Singulair",
+    "generic_name": "Montelukast",
+    "manufacturer": "Merck Pakistan",
+    "dosage_form": "Chewable Tablet",
+    "strength": "5mg",
+    "registration_number": "075601",
+    "mrp": 520,
+    "category": "Leukotriene Antagonist",
+    "status": "Active",
+    "active_ingredients": [
+      "Montelukast"
+    ],
+    "pack_size": "1"
+  },
+  {
+    "brand_name": "Atrovent",
+    "generic_name": "Ipratropium",
+    "manufacturer": "Boehringer Ingelheim",
+    "dosage_form": "Inhaler",
+    "strength": "20mcg",
+    "registration_number": "072400",
+    "mrp": 780,
+    "category": "Anticholinergic",
+    "status": "Active",
+    "active_ingredients": [
+      "Ipratropium"
+    ],
+    "pack_size": "1"
+  },
+  {
+    "brand_name": "Spiriva",
+    "generic_name": "Tiotropium",
+    "manufacturer": "Boehringer Ingelheim",
+    "dosage_form": "Inhaler",
+    "strength": "18mcg",
+    "registration_number": "072401",
+    "mrp": 3500,
+    "category": "Anticholinergic",
+    "status": "Active",
+    "active_ingredients": [
+      "Tiotropium"
+    ],
+    "pack_size": "1"
+  },
+  {
+    "brand_name": "Pulmicort",
+    "generic_name": "Budesonide",
+    "manufacturer": "AstraZeneca Pakistan",
+    "dosage_form": "Nebulizer Solution",
+    "strength": "0.5mg/ml",
+    "registration_number": "015601",
+    "mrp": 1200,
+    "category": "Corticosteroid",
+    "status": "Active",
+    "active_ingredients": [
+      "Budesonide"
+    ],
+    "pack_size": "1"
+  },
+  {
+    "brand_name": "Zyrtec",
+    "generic_name": "Cetirizine",
+    "manufacturer": "GlaxoSmithKline Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "10mg",
+    "registration_number": "001600",
+    "mrp": 120,
+    "category": "Antihistamine",
+    "status": "Active",
+    "active_ingredients": [
+      "Cetirizine"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Clarityn",
+    "generic_name": "Loratadine",
+    "manufacturer": "Schering-Plough",
+    "dosage_form": "Tablet",
+    "strength": "10mg",
+    "registration_number": "009200",
+    "mrp": 180,
+    "category": "Antihistamine",
+    "status": "Active",
+    "active_ingredients": [
+      "Loratadine"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Telfast",
+    "generic_name": "Fexofenadine",
+    "manufacturer": "Sanofi Aventis Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "120mg",
+    "registration_number": "002600",
+    "mrp": 320,
+    "category": "Antihistamine",
+    "status": "Active",
+    "active_ingredients": [
+      "Fexofenadine"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Aerius",
+    "generic_name": "Desloratadine",
+    "manufacturer": "Schering-Plough",
+    "dosage_form": "Tablet",
+    "strength": "5mg",
+    "registration_number": "009201",
+    "mrp": 280,
+    "category": "Antihistamine",
+    "status": "Active",
+    "active_ingredients": [
+      "Desloratadine"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Benadryl",
+    "generic_name": "Diphenhydramine",
+    "manufacturer": "Johnson & Johnson Pakistan",
+    "dosage_form": "Syrup",
+    "strength": "12.5mg/5ml",
+    "registration_number": "081100",
+    "mrp": 150,
+    "category": "Antihistamine",
+    "status": "Active",
+    "active_ingredients": [
+      "Diphenhydramine"
+    ],
+    "pack_size": "1"
+  },
+  {
+    "brand_name": "Phenergan",
+    "generic_name": "Promethazine",
+    "manufacturer": "Sanofi Aventis Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "25mg",
+    "registration_number": "002601",
+    "mrp": 85,
+    "category": "Antihistamine",
+    "status": "Active",
+    "active_ingredients": [
+      "Promethazine"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Lexapro",
+    "generic_name": "Escitalopram",
+    "manufacturer": "Lundbeck Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "10mg",
+    "registration_number": "083100",
+    "mrp": 580,
+    "category": "SSRI",
+    "status": "Active",
+    "active_ingredients": [
+      "Escitalopram"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Zoloft",
+    "generic_name": "Sertraline",
+    "manufacturer": "Pfizer Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "50mg",
+    "registration_number": "003500",
+    "mrp": 420,
+    "category": "SSRI",
+    "status": "Active",
+    "active_ingredients": [
+      "Sertraline"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Prozac",
+    "generic_name": "Fluoxetine",
+    "manufacturer": "Eli Lilly Pakistan",
+    "dosage_form": "Capsule",
+    "strength": "20mg",
+    "registration_number": "008300",
+    "mrp": 380,
+    "category": "SSRI",
+    "status": "Active",
+    "active_ingredients": [
+      "Fluoxetine"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Paxil",
+    "generic_name": "Paroxetine",
+    "manufacturer": "GlaxoSmithKline Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "20mg",
+    "registration_number": "001700",
+    "mrp": 450,
+    "category": "SSRI",
+    "status": "Active",
+    "active_ingredients": [
+      "Paroxetine"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Effexor XR",
+    "generic_name": "Venlafaxine",
+    "manufacturer": "Pfizer Pakistan",
+    "dosage_form": "Capsule",
+    "strength": "75mg",
+    "registration_number": "003501",
+    "mrp": 680,
+    "category": "SNRI",
+    "status": "Active",
+    "active_ingredients": [
+      "Venlafaxine"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Cymbalta",
+    "generic_name": "Duloxetine",
+    "manufacturer": "Eli Lilly Pakistan",
+    "dosage_form": "Capsule",
+    "strength": "60mg",
+    "registration_number": "008301",
+    "mrp": 780,
+    "category": "SNRI",
+    "status": "Active",
+    "active_ingredients": [
+      "Duloxetine"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Wellbutrin",
+    "generic_name": "Bupropion",
+    "manufacturer": "GlaxoSmithKline Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "150mg",
+    "registration_number": "001701",
+    "mrp": 850,
+    "category": "Antidepressant",
+    "status": "Active",
+    "active_ingredients": [
+      "Bupropion"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Desyrel",
+    "generic_name": "Trazodone",
+    "manufacturer": "Various",
+    "dosage_form": "Tablet",
+    "strength": "50mg",
+    "registration_number": "084100",
+    "mrp": 280,
+    "category": "Antidepressant",
+    "status": "Active",
+    "active_ingredients": [
+      "Trazodone"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Remeron",
+    "generic_name": "Mirtazapine",
+    "manufacturer": "Merck Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "30mg",
+    "registration_number": "075700",
+    "mrp": 480,
+    "category": "Antidepressant",
+    "status": "Active",
+    "active_ingredients": [
+      "Mirtazapine"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Seroquel",
+    "generic_name": "Quetiapine",
+    "manufacturer": "AstraZeneca Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "25mg",
+    "registration_number": "015700",
+    "mrp": 380,
+    "category": "Antipsychotic",
+    "status": "Active",
+    "active_ingredients": [
+      "Quetiapine"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Risperdal",
+    "generic_name": "Risperidone",
+    "manufacturer": "Janssen Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "2mg",
+    "registration_number": "079400",
+    "mrp": 450,
+    "category": "Antipsychotic",
+    "status": "Active",
+    "active_ingredients": [
+      "Risperidone"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Abilify",
+    "generic_name": "Aripiprazole",
+    "manufacturer": "Otsuka Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "10mg",
+    "registration_number": "085100",
+    "mrp": 850,
+    "category": "Antipsychotic",
+    "status": "Active",
+    "active_ingredients": [
+      "Aripiprazole"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Zyprexa",
+    "generic_name": "Olanzapine",
+    "manufacturer": "Eli Lilly Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "10mg",
+    "registration_number": "008302",
+    "mrp": 680,
+    "category": "Antipsychotic",
+    "status": "Active",
+    "active_ingredients": [
+      "Olanzapine"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Haldol",
+    "generic_name": "Haloperidol",
+    "manufacturer": "Janssen Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "5mg",
+    "registration_number": "079401",
+    "mrp": 85,
+    "category": "Antipsychotic",
+    "status": "Active",
+    "active_ingredients": [
+      "Haloperidol"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Lithium Carbonate",
+    "generic_name": "Lithium",
+    "manufacturer": "Various",
+    "dosage_form": "Tablet",
+    "strength": "300mg",
+    "registration_number": "086100",
+    "mrp": 120,
+    "category": "Mood Stabilizer",
+    "status": "Active",
+    "active_ingredients": [
+      "Lithium"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Epilim",
+    "generic_name": "Sodium Valproate",
+    "manufacturer": "Sanofi Aventis Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "500mg",
+    "registration_number": "002700",
+    "mrp": 350,
+    "category": "Anticonvulsant",
+    "status": "Active",
+    "active_ingredients": [
+      "Sodium Valproate"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Tegretol",
+    "generic_name": "Carbamazepine",
+    "manufacturer": "Novartis Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "200mg",
+    "registration_number": "010300",
+    "mrp": 180,
+    "category": "Anticonvulsant",
+    "status": "Active",
+    "active_ingredients": [
+      "Carbamazepine"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Lamictal",
+    "generic_name": "Lamotrigine",
+    "manufacturer": "GlaxoSmithKline Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "100mg",
+    "registration_number": "001800",
+    "mrp": 550,
+    "category": "Anticonvulsant",
+    "status": "Active",
+    "active_ingredients": [
+      "Lamotrigine"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Keppra",
+    "generic_name": "Levetiracetam",
+    "manufacturer": "UCB Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "500mg",
+    "registration_number": "087100",
+    "mrp": 650,
+    "category": "Anticonvulsant",
+    "status": "Active",
+    "active_ingredients": [
+      "Levetiracetam"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Dilantin",
+    "generic_name": "Phenytoin",
+    "manufacturer": "Pfizer Pakistan",
+    "dosage_form": "Capsule",
+    "strength": "100mg",
+    "registration_number": "003600",
+    "mrp": 120,
+    "category": "Anticonvulsant",
+    "status": "Active",
+    "active_ingredients": [
+      "Phenytoin"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Valium",
+    "generic_name": "Diazepam",
+    "manufacturer": "Roche Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "5mg",
+    "registration_number": "073200",
+    "mrp": 45,
+    "category": "Benzodiazepine",
+    "status": "Active",
+    "active_ingredients": [
+      "Diazepam"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Ativan",
+    "generic_name": "Lorazepam",
+    "manufacturer": "Pfizer Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "1mg",
+    "registration_number": "003601",
+    "mrp": 65,
+    "category": "Benzodiazepine",
+    "status": "Active",
+    "active_ingredients": [
+      "Lorazepam"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Rivotril",
+    "generic_name": "Clonazepam",
+    "manufacturer": "Roche Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "0.5mg",
+    "registration_number": "073201",
+    "mrp": 85,
+    "category": "Benzodiazepine",
+    "status": "Active",
+    "active_ingredients": [
+      "Clonazepam"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Stilnox",
+    "generic_name": "Zolpidem",
+    "manufacturer": "Sanofi Aventis Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "10mg",
+    "registration_number": "002701",
+    "mrp": 380,
+    "category": "Hypnotic",
+    "status": "Active",
+    "active_ingredients": [
+      "Zolpidem"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Ritalin",
+    "generic_name": "Methylphenidate",
+    "manufacturer": "Novartis Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "10mg",
+    "registration_number": "010301",
+    "mrp": 650,
+    "category": "ADHD",
+    "status": "Active",
+    "active_ingredients": [
+      "Methylphenidate"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Eltroxin",
+    "generic_name": "Levothyroxine",
+    "manufacturer": "GlaxoSmithKline Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "50mcg",
+    "registration_number": "001900",
+    "mrp": 180,
+    "category": "Thyroid",
+    "status": "Active",
+    "active_ingredients": [
+      "Levothyroxine"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Eltroxin",
+    "generic_name": "Levothyroxine",
+    "manufacturer": "GlaxoSmithKline Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "100mcg",
+    "registration_number": "001901",
+    "mrp": 220,
+    "category": "Thyroid",
+    "status": "Active",
+    "active_ingredients": [
+      "Levothyroxine"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Neomercazole",
+    "generic_name": "Carbimazole",
+    "manufacturer": "Nicholas Piramal",
+    "dosage_form": "Tablet",
+    "strength": "5mg",
+    "registration_number": "082200",
+    "mrp": 120,
+    "category": "Antithyroid",
+    "status": "Active",
+    "active_ingredients": [
+      "Carbimazole"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Deltacortril",
+    "generic_name": "Prednisolone",
+    "manufacturer": "Pfizer Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "5mg",
+    "registration_number": "003700",
+    "mrp": 65,
+    "category": "Corticosteroid",
+    "status": "Active",
+    "active_ingredients": [
+      "Prednisolone"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Medrol",
+    "generic_name": "Methylprednisolone",
+    "manufacturer": "Pfizer Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "4mg",
+    "registration_number": "003701",
+    "mrp": 280,
+    "category": "Corticosteroid",
+    "status": "Active",
+    "active_ingredients": [
+      "Methylprednisolone"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Decadron",
+    "generic_name": "Dexamethasone",
+    "manufacturer": "Merck Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "0.5mg",
+    "registration_number": "075800",
+    "mrp": 55,
+    "category": "Corticosteroid",
+    "status": "Active",
+    "active_ingredients": [
+      "Dexamethasone"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Solu-Medrol",
+    "generic_name": "Methylprednisolone",
+    "manufacturer": "Pfizer Pakistan",
+    "dosage_form": "Injection",
+    "strength": "40mg",
+    "registration_number": "003702",
+    "mrp": 450,
+    "category": "Corticosteroid",
+    "status": "Active",
+    "active_ingredients": [
+      "Methylprednisolone"
+    ],
+    "pack_size": "1"
+  },
+  {
+    "brand_name": "Viagra",
+    "generic_name": "Sildenafil",
+    "manufacturer": "Pfizer Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "50mg",
+    "registration_number": "003800",
+    "mrp": 950,
+    "category": "PDE5 Inhibitor",
+    "status": "Active",
+    "active_ingredients": [
+      "Sildenafil"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Cialis",
+    "generic_name": "Tadalafil",
+    "manufacturer": "Eli Lilly Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "20mg",
+    "registration_number": "008400",
+    "mrp": 1200,
+    "category": "PDE5 Inhibitor",
+    "status": "Active",
+    "active_ingredients": [
+      "Tadalafil"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Zovirax",
+    "generic_name": "Acyclovir",
+    "manufacturer": "GlaxoSmithKline Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "800mg",
+    "registration_number": "002000",
+    "mrp": 480,
+    "category": "Antiviral",
+    "status": "Active",
+    "active_ingredients": [
+      "Acyclovir"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Tamiflu",
+    "generic_name": "Oseltamivir",
+    "manufacturer": "Roche Pakistan",
+    "dosage_form": "Capsule",
+    "strength": "75mg",
+    "registration_number": "073300",
+    "mrp": 1200,
+    "category": "Antiviral",
+    "status": "Active",
+    "active_ingredients": [
+      "Oseltamivir"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Diflucan",
+    "generic_name": "Fluconazole",
+    "manufacturer": "Pfizer Pakistan",
+    "dosage_form": "Capsule",
+    "strength": "150mg",
+    "registration_number": "003900",
+    "mrp": 380,
+    "category": "Antifungal",
+    "status": "Active",
+    "active_ingredients": [
+      "Fluconazole"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Sporanox",
+    "generic_name": "Itraconazole",
+    "manufacturer": "Janssen Pakistan",
+    "dosage_form": "Capsule",
+    "strength": "100mg",
+    "registration_number": "079500",
+    "mrp": 780,
+    "category": "Antifungal",
+    "status": "Active",
+    "active_ingredients": [
+      "Itraconazole"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Lamisil",
+    "generic_name": "Terbinafine",
+    "manufacturer": "Novartis Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "250mg",
+    "registration_number": "010400",
+    "mrp": 650,
+    "category": "Antifungal",
+    "status": "Active",
+    "active_ingredients": [
+      "Terbinafine"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Zentel",
+    "generic_name": "Albendazole",
+    "manufacturer": "GlaxoSmithKline Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "400mg",
+    "registration_number": "002001",
+    "mrp": 85,
+    "category": "Anthelmintic",
+    "status": "Active",
+    "active_ingredients": [
+      "Albendazole"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Vermox",
+    "generic_name": "Mebendazole",
+    "manufacturer": "Janssen Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "100mg",
+    "registration_number": "079501",
+    "mrp": 65,
+    "category": "Anthelmintic",
+    "status": "Active",
+    "active_ingredients": [
+      "Mebendazole"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Plaquenil",
+    "generic_name": "Hydroxychloroquine",
+    "manufacturer": "Sanofi Aventis Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "200mg",
+    "registration_number": "002800",
+    "mrp": 350,
+    "category": "Antimalarial",
+    "status": "Active",
+    "active_ingredients": [
+      "Hydroxychloroquine"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Caltrate",
+    "generic_name": "Calcium + Vitamin D",
+    "manufacturer": "Wyeth Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "600mg/400IU",
+    "registration_number": "080200",
+    "mrp": 450,
+    "category": "Supplement",
+    "status": "Active",
+    "active_ingredients": [
+      "Calcium + Vitamin D"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Fefol",
+    "generic_name": "Iron + Folic Acid",
+    "manufacturer": "GlaxoSmithKline Pakistan",
+    "dosage_form": "Capsule",
+    "strength": "150mg/0.5mg",
+    "registration_number": "002002",
+    "mrp": 180,
+    "category": "Supplement",
+    "status": "Active",
+    "active_ingredients": [
+      "Iron + Folic Acid"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Neurobion",
+    "generic_name": "Vitamin B1 + B6 + B12",
+    "manufacturer": "Merck Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "Various",
+    "registration_number": "075900",
+    "mrp": 280,
+    "category": "Supplement",
+    "status": "Active",
+    "active_ingredients": [
+      "Vitamin B1 + B6 + B12"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Neurobion Forte",
+    "generic_name": "Vitamin B Complex",
+    "manufacturer": "Merck Pakistan",
+    "dosage_form": "Injection",
+    "strength": "Various",
+    "registration_number": "075901",
+    "mrp": 180,
+    "category": "Supplement",
+    "status": "Active",
+    "active_ingredients": [
+      "Vitamin B Complex"
+    ],
+    "pack_size": "1"
+  },
+  {
+    "brand_name": "Centrum",
+    "generic_name": "Multivitamin",
+    "manufacturer": "Pfizer Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "Various",
+    "registration_number": "004000",
+    "mrp": 850,
+    "category": "Supplement",
+    "status": "Active",
+    "active_ingredients": [
+      "Multivitamin"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Cevit",
+    "generic_name": "Vitamin C",
+    "manufacturer": "Searle Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "500mg",
+    "registration_number": "067100",
+    "mrp": 120,
+    "category": "Supplement",
+    "status": "Active",
+    "active_ingredients": [
+      "Vitamin C"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Osteocare",
+    "generic_name": "Calcium + Magnesium + Zinc + Vitamin D",
+    "manufacturer": "Vitabiotics",
+    "dosage_form": "Tablet",
+    "strength": "Various",
+    "registration_number": "088100",
+    "mrp": 650,
+    "category": "Supplement",
+    "status": "Active",
+    "active_ingredients": [
+      "Calcium + Magnesium + Zinc + Vitamin D"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Pregnacare",
+    "generic_name": "Prenatal Vitamins",
+    "manufacturer": "Vitabiotics",
+    "dosage_form": "Tablet",
+    "strength": "Various",
+    "registration_number": "088101",
+    "mrp": 780,
+    "category": "Supplement",
+    "status": "Active",
+    "active_ingredients": [
+      "Prenatal Vitamins"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Betnovate",
+    "generic_name": "Betamethasone Valerate",
+    "manufacturer": "GlaxoSmithKline Pakistan",
+    "dosage_form": "Cream",
+    "strength": "0.1%",
+    "registration_number": "002101",
+    "mrp": 180,
+    "category": "Topical Steroid",
+    "status": "Active",
+    "active_ingredients": [
+      "Betamethasone Valerate"
+    ],
+    "pack_size": "1"
+  },
+  {
+    "brand_name": "Elocon",
+    "generic_name": "Mometasone",
+    "manufacturer": "Merck Pakistan",
+    "dosage_form": "Cream",
+    "strength": "0.1%",
+    "registration_number": "076000",
+    "mrp": 350,
+    "category": "Topical Steroid",
+    "status": "Active",
+    "active_ingredients": [
+      "Mometasone"
+    ],
+    "pack_size": "1"
+  },
+  {
+    "brand_name": "Fucidin",
+    "generic_name": "Fusidic Acid",
+    "manufacturer": "LEO Pharma",
+    "dosage_form": "Cream",
+    "strength": "2%",
+    "registration_number": "089100",
+    "mrp": 380,
+    "category": "Topical Antibiotic",
+    "status": "Active",
+    "active_ingredients": [
+      "Fusidic Acid"
+    ],
+    "pack_size": "1"
+  },
+  {
+    "brand_name": "Bactroban",
+    "generic_name": "Mupirocin",
+    "manufacturer": "GlaxoSmithKline Pakistan",
+    "dosage_form": "Ointment",
+    "strength": "2%",
+    "registration_number": "002102",
+    "mrp": 420,
+    "category": "Topical Antibiotic",
+    "status": "Active",
+    "active_ingredients": [
+      "Mupirocin"
+    ],
+    "pack_size": "1"
+  },
+  {
+    "brand_name": "Canesten",
+    "generic_name": "Clotrimazole",
+    "manufacturer": "Bayer Pakistan",
+    "dosage_form": "Cream",
+    "strength": "1%",
+    "registration_number": "005400",
+    "mrp": 180,
+    "category": "Topical Antifungal",
+    "status": "Active",
+    "active_ingredients": [
+      "Clotrimazole"
+    ],
+    "pack_size": "1"
+  },
+  {
+    "brand_name": "Daktarin",
+    "generic_name": "Miconazole",
+    "manufacturer": "Janssen Pakistan",
+    "dosage_form": "Cream",
+    "strength": "2%",
+    "registration_number": "079600",
+    "mrp": 220,
+    "category": "Topical Antifungal",
+    "status": "Active",
+    "active_ingredients": [
+      "Miconazole"
+    ],
+    "pack_size": "1"
+  },
+  {
+    "brand_name": "Xalatan",
+    "generic_name": "Latanoprost",
+    "manufacturer": "Pfizer Pakistan",
+    "dosage_form": "Eye Drops",
+    "strength": "0.005%",
+    "registration_number": "004100",
+    "mrp": 850,
+    "category": "Glaucoma",
+    "status": "Active",
+    "active_ingredients": [
+      "Latanoprost"
+    ],
+    "pack_size": "1"
+  },
+  {
+    "brand_name": "Tobrex",
+    "generic_name": "Tobramycin",
+    "manufacturer": "Novartis Pakistan",
+    "dosage_form": "Eye Drops",
+    "strength": "0.3%",
+    "registration_number": "010500",
+    "mrp": 280,
+    "category": "Ophthalmic Antibiotic",
+    "status": "Active",
+    "active_ingredients": [
+      "Tobramycin"
+    ],
+    "pack_size": "1"
+  },
+  {
+    "brand_name": "Refresh Tears",
+    "generic_name": "Carboxymethylcellulose",
+    "manufacturer": "Allergan",
+    "dosage_form": "Eye Drops",
+    "strength": "0.5%",
+    "registration_number": "090100",
+    "mrp": 380,
+    "category": "Artificial Tears",
+    "status": "Active",
+    "active_ingredients": [
+      "Carboxymethylcellulose"
+    ],
+    "pack_size": "1"
+  },
+  {
+    "brand_name": "Flomax",
+    "generic_name": "Tamsulosin",
+    "manufacturer": "Boehringer Ingelheim",
+    "dosage_form": "Capsule",
+    "strength": "0.4mg",
+    "registration_number": "072600",
+    "mrp": 450,
+    "category": "Alpha Blocker",
+    "status": "Active",
+    "active_ingredients": [
+      "Tamsulosin"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Proscar",
+    "generic_name": "Finasteride",
+    "manufacturer": "Merck Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "5mg",
+    "registration_number": "076200",
+    "mrp": 550,
+    "category": "5-Alpha Reductase Inhibitor",
+    "status": "Active",
+    "active_ingredients": [
+      "Finasteride"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Vesicare",
+    "generic_name": "Solifenacin",
+    "manufacturer": "Astellas",
+    "dosage_form": "Tablet",
+    "strength": "5mg",
+    "registration_number": "091100",
+    "mrp": 780,
+    "category": "Anticholinergic",
+    "status": "Active",
+    "active_ingredients": [
+      "Solifenacin"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Colchicine",
+    "generic_name": "Colchicine",
+    "manufacturer": "Various",
+    "dosage_form": "Tablet",
+    "strength": "0.5mg",
+    "registration_number": "092100",
+    "mrp": 85,
+    "category": "Antigout",
+    "status": "Active",
+    "active_ingredients": [
+      "Colchicine"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Fosamax",
+    "generic_name": "Alendronate",
+    "manufacturer": "Merck Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "70mg",
+    "registration_number": "076300",
+    "mrp": 850,
+    "category": "Bisphosphonate",
+    "status": "Active",
+    "active_ingredients": [
+      "Alendronate"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Zanaflex",
+    "generic_name": "Tizanidine",
+    "manufacturer": "Novartis Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "2mg",
+    "registration_number": "010600",
+    "mrp": 180,
+    "category": "Muscle Relaxant",
+    "status": "Active",
+    "active_ingredients": [
+      "Tizanidine"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Myonal",
+    "generic_name": "Eperisone",
+    "manufacturer": "Eisai Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "50mg",
+    "registration_number": "093100",
+    "mrp": 320,
+    "category": "Muscle Relaxant",
+    "status": "Active",
+    "active_ingredients": [
+      "Eperisone"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Getamox",
+    "generic_name": "Amoxicillin",
+    "manufacturer": "Getz Pharma",
+    "dosage_form": "Capsule",
+    "strength": "500mg",
+    "registration_number": "048100",
+    "mrp": 150,
+    "category": "Antibiotic",
+    "status": "Active",
+    "active_ingredients": [
+      "Amoxicillin"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Getciflox",
+    "generic_name": "Ciprofloxacin",
+    "manufacturer": "Getz Pharma",
+    "dosage_form": "Tablet",
+    "strength": "500mg",
+    "registration_number": "048200",
+    "mrp": 160,
+    "category": "Antibiotic",
+    "status": "Active",
+    "active_ingredients": [
+      "Ciprofloxacin"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Gluco-M",
+    "generic_name": "Metformin",
+    "manufacturer": "Searle Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "500mg",
+    "registration_number": "068100",
+    "mrp": 80,
+    "category": "Antidiabetic",
+    "status": "Active",
+    "active_ingredients": [
+      "Metformin"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Losar",
+    "generic_name": "Losartan",
+    "manufacturer": "Searle Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "50mg",
+    "registration_number": "068200",
+    "mrp": 180,
+    "category": "ARB",
+    "status": "Active",
+    "active_ingredients": [
+      "Losartan"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Amlor",
+    "generic_name": "Amlodipine",
+    "manufacturer": "Searle Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "5mg",
+    "registration_number": "068300",
+    "mrp": 120,
+    "category": "Antihypertensive",
+    "status": "Active",
+    "active_ingredients": [
+      "Amlodipine"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Hilton-Azee",
+    "generic_name": "Azithromycin",
+    "manufacturer": "Hilton Pharma",
+    "dosage_form": "Tablet",
+    "strength": "500mg",
+    "registration_number": "057100",
+    "mrp": 280,
+    "category": "Antibiotic",
+    "status": "Active",
+    "active_ingredients": [
+      "Azithromycin"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Sami-Amox",
+    "generic_name": "Amoxicillin",
+    "manufacturer": "Sami Pharmaceuticals",
+    "dosage_form": "Capsule",
+    "strength": "500mg",
+    "registration_number": "035100",
+    "mrp": 140,
+    "category": "Antibiotic",
+    "status": "Active",
+    "active_ingredients": [
+      "Amoxicillin"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Mega-Cef",
+    "generic_name": "Cefixime",
+    "manufacturer": "Mega Pharma",
+    "dosage_form": "Tablet",
+    "strength": "400mg",
+    "registration_number": "094100",
+    "mrp": 280,
+    "category": "Antibiotic",
+    "status": "Active",
+    "active_ingredients": [
+      "Cefixime"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Osmopak-N",
+    "generic_name": "Omeprazole",
+    "manufacturer": "Platinum Pharmaceuticals",
+    "dosage_form": "Capsule",
+    "strength": "20mg",
+    "registration_number": "095100",
+    "mrp": 120,
+    "category": "PPI",
+    "status": "Active",
+    "active_ingredients": [
+      "Omeprazole"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Getzloc",
+    "generic_name": "Omeprazole",
+    "manufacturer": "Getz Pharma",
+    "dosage_form": "Capsule",
+    "strength": "20mg",
+    "registration_number": "048300",
+    "mrp": 130,
+    "category": "PPI",
+    "status": "Active",
+    "active_ingredients": [
+      "Omeprazole"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Norlet",
+    "generic_name": "Norfloxacin",
+    "manufacturer": "Searle Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "400mg",
+    "registration_number": "068400",
+    "mrp": 120,
+    "category": "Antibiotic",
+    "status": "Active",
+    "active_ingredients": [
+      "Norfloxacin"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Maxigesic",
+    "generic_name": "Paracetamol + Ibuprofen",
+    "manufacturer": "AGP Limited",
+    "dosage_form": "Tablet",
+    "strength": "500mg/200mg",
+    "registration_number": "096100",
+    "mrp": 120,
+    "category": "Analgesic",
+    "status": "Active",
+    "active_ingredients": [
+      "Paracetamol + Ibuprofen"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Don-A",
+    "generic_name": "Domperidone",
+    "manufacturer": "Hilton Pharma",
+    "dosage_form": "Tablet",
+    "strength": "10mg",
+    "registration_number": "057200",
+    "mrp": 65,
+    "category": "Prokinetic",
+    "status": "Active",
+    "active_ingredients": [
+      "Domperidone"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Acefyl",
+    "generic_name": "Acetylcysteine + Diphenhydramine + Menthol",
+    "manufacturer": "Searle Pakistan",
+    "dosage_form": "Syrup",
+    "strength": "Various",
+    "registration_number": "068500",
+    "mrp": 180,
+    "category": "Cough Syrup",
+    "status": "Active",
+    "active_ingredients": [
+      "Acetylcysteine + Diphenhydramine + Menthol"
+    ],
+    "pack_size": "1"
+  },
+  {
+    "brand_name": "Rigix",
+    "generic_name": "Cetirizine",
+    "manufacturer": "Sami Pharmaceuticals",
+    "dosage_form": "Tablet",
+    "strength": "10mg",
+    "registration_number": "035200",
+    "mrp": 65,
+    "category": "Antihistamine",
+    "status": "Active",
+    "active_ingredients": [
+      "Cetirizine"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Arsal",
+    "generic_name": "Diclofenac Sodium",
+    "manufacturer": "Platinum Pharmaceuticals",
+    "dosage_form": "Tablet",
+    "strength": "50mg",
+    "registration_number": "095200",
+    "mrp": 55,
+    "category": "NSAID",
+    "status": "Active",
+    "active_ingredients": [
+      "Diclofenac Sodium"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Tab-In",
+    "generic_name": "Indomethacin",
+    "manufacturer": "ICI Pakistan",
+    "dosage_form": "Capsule",
+    "strength": "25mg",
+    "registration_number": "097100",
+    "mrp": 75,
+    "category": "NSAID",
+    "status": "Active",
+    "active_ingredients": [
+      "Indomethacin"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Sinarest",
+    "generic_name": "Paracetamol + Phenylephrine + Chlorphenamine + Caffeine",
+    "manufacturer": "Searle Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "Various",
+    "registration_number": "068600",
+    "mrp": 65,
+    "category": "Cold/Flu",
+    "status": "Active",
+    "active_ingredients": [
+      "Paracetamol + Phenylephrine + Chlorphenamine + Caffeine"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Flutab",
+    "generic_name": "Paracetamol + Pseudoephedrine + Chlorphenamine",
+    "manufacturer": "AGP Limited",
+    "dosage_form": "Tablet",
+    "strength": "Various",
+    "registration_number": "096200",
+    "mrp": 55,
+    "category": "Cold/Flu",
+    "status": "Active",
+    "active_ingredients": [
+      "Paracetamol + Pseudoephedrine + Chlorphenamine"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Adrenaline Injection",
+    "generic_name": "Epinephrine",
+    "manufacturer": "Various",
+    "dosage_form": "Injection",
+    "strength": "1mg/ml",
+    "registration_number": "098100",
+    "mrp": 45,
+    "category": "Emergency",
+    "status": "Active",
+    "active_ingredients": [
+      "Epinephrine"
+    ],
+    "pack_size": "1"
+  },
+  {
+    "brand_name": "Atropine Injection",
+    "generic_name": "Atropine",
+    "manufacturer": "Various",
+    "dosage_form": "Injection",
+    "strength": "0.6mg/ml",
+    "registration_number": "098200",
+    "mrp": 35,
+    "category": "Emergency",
+    "status": "Active",
+    "active_ingredients": [
+      "Atropine"
+    ],
+    "pack_size": "1"
+  },
+  {
+    "brand_name": "Dopamine Injection",
+    "generic_name": "Dopamine",
+    "manufacturer": "Various",
+    "dosage_form": "Injection",
+    "strength": "200mg/5ml",
+    "registration_number": "098300",
+    "mrp": 120,
+    "category": "Emergency",
+    "status": "Active",
+    "active_ingredients": [
+      "Dopamine"
+    ],
+    "pack_size": "1"
+  },
+  {
+    "brand_name": "Dormicum",
+    "generic_name": "Midazolam",
+    "manufacturer": "Roche Pakistan",
+    "dosage_form": "Injection",
+    "strength": "5mg/ml",
+    "registration_number": "073400",
+    "mrp": 280,
+    "category": "Sedative",
+    "status": "Active",
+    "active_ingredients": [
+      "Midazolam"
+    ],
+    "pack_size": "1"
+  },
+  {
+    "brand_name": "Methotrexate Tablet",
+    "generic_name": "Methotrexate",
+    "manufacturer": "Pfizer Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "2.5mg",
+    "registration_number": "004200",
+    "mrp": 180,
+    "category": "Immunosuppressant",
+    "status": "Active",
+    "active_ingredients": [
+      "Methotrexate"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Prograf",
+    "generic_name": "Tacrolimus",
+    "manufacturer": "Astellas",
+    "dosage_form": "Capsule",
+    "strength": "1mg",
+    "registration_number": "091200",
+    "mrp": 2800,
+    "category": "Immunosuppressant",
+    "status": "Active",
+    "active_ingredients": [
+      "Tacrolimus"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Sandimmun Neoral",
+    "generic_name": "Cyclosporine",
+    "manufacturer": "Novartis Pakistan",
+    "dosage_form": "Capsule",
+    "strength": "100mg",
+    "registration_number": "010700",
+    "mrp": 3500,
+    "category": "Immunosuppressant",
+    "status": "Active",
+    "active_ingredients": [
+      "Cyclosporine"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Myambutol",
+    "generic_name": "Ethambutol",
+    "manufacturer": "Wyeth Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "400mg",
+    "registration_number": "080300",
+    "mrp": 120,
+    "category": "Anti-TB",
+    "status": "Active",
+    "active_ingredients": [
+      "Ethambutol"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Rifadin",
+    "generic_name": "Rifampicin",
+    "manufacturer": "Sanofi Aventis Pakistan",
+    "dosage_form": "Capsule",
+    "strength": "300mg",
+    "registration_number": "002900",
+    "mrp": 280,
+    "category": "Anti-TB",
+    "status": "Active",
+    "active_ingredients": [
+      "Rifampicin"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Rimstar",
+    "generic_name": "Rifampicin + Isoniazid + Pyrazinamide + Ethambutol",
+    "manufacturer": "Novartis Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "Fixed Dose",
+    "registration_number": "010800",
+    "mrp": 450,
+    "category": "Anti-TB",
+    "status": "Active",
+    "active_ingredients": [
+      "Rifampicin + Isoniazid + Pyrazinamide + Ethambutol"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Arinac",
+    "generic_name": "Ibuprofen + Pseudoephedrine",
+    "manufacturer": "Abbott Laboratories Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "200mg/30mg",
+    "registration_number": "012400",
+    "mrp": 95,
+    "category": "Cold/Flu",
+    "status": "Active",
+    "active_ingredients": [
+      "Ibuprofen + Pseudoephedrine"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Arinac Forte",
+    "generic_name": "Ibuprofen + Pseudoephedrine",
+    "manufacturer": "Abbott Laboratories Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "400mg/60mg",
+    "registration_number": "012401",
+    "mrp": 140,
+    "category": "Cold/Flu",
+    "status": "Active",
+    "active_ingredients": [
+      "Ibuprofen + Pseudoephedrine"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Entamizole",
+    "generic_name": "Metronidazole + Diloxanide",
+    "manufacturer": "Searle Pakistan",
+    "dosage_form": "Tablet",
+    "strength": "200mg/250mg",
+    "registration_number": "068700",
+    "mrp": 95,
+    "category": "Antiprotozoal",
+    "status": "Active",
+    "active_ingredients": [
+      "Metronidazole + Diloxanide"
+    ],
+    "pack_size": "1 x 10"
+  },
+  {
+    "brand_name": "Calpol",
+    "generic_name": "Paracetamol",
+    "manufacturer": "GlaxoSmithKline Pakistan",
+    "dosage_form": "Suspension",
+    "strength": "120mg/5ml",
+    "registration_number": "002003",
+    "mrp": 120,
+    "category": "Pediatric Analgesic",
+    "status": "Active",
+    "active_ingredients": [
+      "Paracetamol"
+    ],
+    "pack_size": "1"
+  },
+  {
+    "brand_name": "Ibucap",
+    "generic_name": "Ibuprofen",
+    "manufacturer": "AGP Limited",
+    "dosage_form": "Suspension",
+    "strength": "100mg/5ml",
+    "registration_number": "096300",
+    "mrp": 145,
+    "category": "Pediatric NSAID",
+    "status": "Active",
+    "active_ingredients": [
+      "Ibuprofen"
+    ],
+    "pack_size": "1"
+  },
+  {
+    "brand_name": "Flagyl Suspension",
+    "generic_name": "Metronidazole",
+    "manufacturer": "Sanofi Aventis Pakistan",
+    "dosage_form": "Suspension",
+    "strength": "200mg/5ml",
+    "registration_number": "002346",
+    "mrp": 95,
+    "category": "Pediatric Antibiotic",
+    "status": "Active",
+    "active_ingredients": [
+      "Metronidazole"
+    ],
+    "pack_size": "1"
+  }
+]

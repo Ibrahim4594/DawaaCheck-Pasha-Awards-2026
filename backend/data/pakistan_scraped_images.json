@@ -1,0 +1,282 @@
+[
+  {
+    "medicine_name": "panadol extra",
+    "image_url": "https://static-media.dawaai.pk/img/payment-method.png",
+    "source": "Dawaai.pk",
+    "asset_name": "panadol_extra.png",
+    "local_path": "assets/images/medicines/panadol_extra.png"
+  },
+  {
+    "medicine_name": "augmentin 625mg",
+    "image_url": "https://static-media.dawaai.pk/img/payment-method.png",
+    "source": "Dawaai.pk",
+    "asset_name": "augmentin_625mg.png",
+    "local_path": "assets/images/medicines/augmentin_625mg.png"
+  },
+  {
+    "medicine_name": "brufen 400mg",
+    "image_url": "https://static-media.dawaai.pk/img/payment-method.png",
+    "source": "Dawaai.pk",
+    "asset_name": "brufen_400mg.png",
+    "local_path": "assets/images/medicines/brufen_400mg.png"
+  },
+  {
+    "medicine_name": "flagyl 400mg",
+    "image_url": "https://static-media.dawaai.pk/img/payment-method.png",
+    "source": "Dawaai.pk",
+    "asset_name": "flagyl_400mg.png",
+    "local_path": "assets/images/medicines/flagyl_400mg.png"
+  },
+  {
+    "medicine_name": "amoxil 500mg",
+    "image_url": "https://static-media.dawaai.pk/img/payment-method.png",
+    "source": "Dawaai.pk",
+    "asset_name": "amoxil_500mg.png",
+    "local_path": "assets/images/medicines/amoxil_500mg.png"
+  },
+  {
+    "medicine_name": "calpol",
+    "image_url": "https://static-media.dawaai.pk/img/payment-method.png",
+    "source": "Dawaai.pk",
+    "asset_name": "calpol.png",
+    "local_path": "assets/images/medicines/calpol.png"
+  },
+  {
+    "medicine_name": "ponstan forte",
+    "image_url": "https://static-media.dawaai.pk/img/payment-method.png",
+    "source": "Dawaai.pk",
+    "asset_name": "ponstan_forte.png",
+    "local_path": "assets/images/medicines/ponstan_forte.png"
+  },
+  {
+    "medicine_name": "arinac forte",
+    "image_url": "https://static-media.dawaai.pk/img/payment-method.png",
+    "source": "Dawaai.pk",
+    "asset_name": "arinac_forte.png",
+    "local_path": "assets/images/medicines/arinac_forte.png"
+  },
+  {
+    "medicine_name": "risek 20mg",
+    "image_url": "https://static-media.dawaai.pk/img/payment-method.png",
+    "source": "Dawaai.pk",
+    "asset_name": "risek_20mg.png",
+    "local_path": "assets/images/medicines/risek_20mg.png"
+  },
+  {
+    "medicine_name": "novidat 500mg",
+    "image_url": "https://static-media.dawaai.pk/img/payment-method.png",
+    "source": "Dawaai.pk",
+    "asset_name": "novidat_500mg.png",
+    "local_path": "assets/images/medicines/novidat_500mg.png"
+  },
+  {
+    "medicine_name": "rigix",
+    "image_url": "https://static-media.dawaai.pk/img/payment-method.png",
+    "source": "Dawaai.pk",
+    "asset_name": "rigix.png",
+    "local_path": "assets/images/medicines/rigix.png"
+  },
+  {
+    "medicine_name": "septran ds",
+    "image_url": "https://static-media.dawaai.pk/img/payment-method.png",
+    "source": "Dawaai.pk",
+    "asset_name": "septran_ds.png",
+    "local_path": "assets/images/medicines/septran_ds.png"
+  },
+  {
+    "medicine_name": "ventolin inhaler",
+    "image_url": "https://static-media.dawaai.pk/img/payment-method.png",
+    "source": "Dawaai.pk",
+    "asset_name": "ventolin_inhaler.png",
+    "local_path": "assets/images/medicines/ventolin_inhaler.png"
+  },
+  {
+    "medicine_name": "glucophage 500mg",
+    "image_url": "https://static-media.dawaai.pk/img/payment-method.png",
+    "source": "Dawaai.pk",
+    "asset_name": "glucophage_500mg.png",
+    "local_path": "assets/images/medicines/glucophage_500mg.png"
+  },
+  {
+    "medicine_name": "disprin",
+    "image_url": "https://static-media.dawaai.pk/img/payment-method.png",
+    "source": "Dawaai.pk",
+    "asset_name": "disprin.png",
+    "local_path": "assets/images/medicines/disprin.png"
+  },
+  {
+    "medicine_name": "zyrtec",
+    "image_url": "https://static-media.dawaai.pk/img/payment-method.png",
+    "source": "Dawaai.pk",
+    "asset_name": "zyrtec.png",
+    "local_path": "assets/images/medicines/zyrtec.png"
+  },
+  {
+    "medicine_name": "velosef 500mg",
+    "image_url": "https://static-media.dawaai.pk/img/payment-method.png",
+    "source": "Dawaai.pk",
+    "asset_name": "velosef_500mg.png",
+    "local_path": "assets/images/medicines/velosef_500mg.png"
+  },
+  {
+    "medicine_name": "azomax 500mg",
+    "image_url": "https://static-media.dawaai.pk/img/payment-method.png",
+    "source": "Dawaai.pk",
+    "asset_name": "azomax_500mg.png",
+    "local_path": "assets/images/medicines/azomax_500mg.png"
+  },
+  {
+    "medicine_name": "entamizole",
+    "image_url": "https://static-media.dawaai.pk/img/payment-method.png",
+    "source": "Dawaai.pk",
+    "asset_name": "entamizole.png",
+    "local_path": "assets/images/medicines/entamizole.png"
+  },
+  {
+    "medicine_name": "sinarest",
+    "image_url": "https://static-media.dawaai.pk/img/payment-method.png",
+    "source": "Dawaai.pk",
+    "asset_name": "sinarest.png",
+    "local_path": "assets/images/medicines/sinarest.png"
+  },
+  {
+    "medicine_name": "nexium 40mg",
+    "image_url": "https://static-media.dawaai.pk/img/payment-method.png",
+    "source": "Dawaai.pk",
+    "asset_name": "nexium_40mg.png",
+    "local_path": "assets/images/medicines/nexium_40mg.png"
+  },
+  {
+    "medicine_name": "amaryl 2mg",
+    "image_url": "https://static-media.dawaai.pk/img/payment-method.png",
+    "source": "Dawaai.pk",
+    "asset_name": "amaryl_2mg.png",
+    "local_path": "assets/images/medicines/amaryl_2mg.png"
+  },
+  {
+    "medicine_name": "concor 5mg",
+    "image_url": "https://static-media.dawaai.pk/img/payment-method.png",
+    "source": "Dawaai.pk",
+    "asset_name": "concor_5mg.png",
+    "local_path": "assets/images/medicines/concor_5mg.png"
+  },
+  {
+    "medicine_name": "norvasc 5mg",
+    "image_url": "https://static-media.dawaai.pk/img/payment-method.png",
+    "source": "Dawaai.pk",
+    "asset_name": "norvasc_5mg.png",
+    "local_path": "assets/images/medicines/norvasc_5mg.png"
+  },
+  {
+    "medicine_name": "lipitor 20mg",
+    "image_url": "https://static-media.dawaai.pk/img/payment-method.png",
+    "source": "Dawaai.pk",
+    "asset_name": "lipitor_20mg.png",
+    "local_path": "assets/images/medicines/lipitor_20mg.png"
+  },
+  {
+    "medicine_name": "plavix 75mg",
+    "image_url": "https://static-media.dawaai.pk/img/payment-method.png",
+    "source": "Dawaai.pk",
+    "asset_name": "plavix_75mg.png",
+    "local_path": "assets/images/medicines/plavix_75mg.png"
+  },
+  {
+    "medicine_name": "crestor 10mg",
+    "image_url": "https://static-media.dawaai.pk/img/payment-method.png",
+    "source": "Dawaai.pk",
+    "asset_name": "crestor_10mg.png",
+    "local_path": "assets/images/medicines/crestor_10mg.png"
+  },
+  {
+    "medicine_name": "lantus",
+    "image_url": "https://static-media.dawaai.pk/img/payment-method.png",
+    "source": "Dawaai.pk",
+    "asset_name": "lantus.png",
+    "local_path": "assets/images/medicines/lantus.png"
+  },
+  {
+    "medicine_name": "zoloft 50mg",
+    "image_url": "https://static-media.dawaai.pk/img/payment-method.png",
+    "source": "Dawaai.pk",
+    "asset_name": "zoloft_50mg.png",
+    "local_path": "assets/images/medicines/zoloft_50mg.png"
+  },
+  {
+    "medicine_name": "lyrica 75mg",
+    "image_url": "https://static-media.dawaai.pk/img/payment-method.png",
+    "source": "Dawaai.pk",
+    "asset_name": "lyrica_75mg.png",
+    "local_path": "assets/images/medicines/lyrica_75mg.png"
+  },
+  {
+    "medicine_name": "duphalac",
+    "image_url": "https://static-media.dawaai.pk/img/payment-method.png",
+    "source": "Dawaai.pk",
+    "asset_name": "duphalac.png",
+    "local_path": "assets/images/medicines/duphalac.png"
+  },
+  {
+    "medicine_name": "motilium",
+    "image_url": "https://static-media.dawaai.pk/img/payment-method.png",
+    "source": "Dawaai.pk",
+    "asset_name": "motilium.png",
+    "local_path": "assets/images/medicines/motilium.png"
+  },
+  {
+    "medicine_name": "flagyl suspension",
+    "image_url": "https://static-media.dawaai.pk/img/payment-method.png",
+    "source": "Dawaai.pk",
+    "asset_name": "flagyl_suspension.png",
+    "local_path": "assets/images/medicines/flagyl_suspension.png"
+  },
+  {
+    "medicine_name": "amoxil suspension",
+    "image_url": "https://static-media.dawaai.pk/img/payment-method.png",
+    "source": "Dawaai.pk",
+    "asset_name": "amoxil_suspension.png",
+    "local_path": "assets/images/medicines/amoxil_suspension.png"
+  },
+  {
+    "medicine_name": "iberet folic",
+    "image_url": "https://static-media.dawaai.pk/img/payment-method.png",
+    "source": "Dawaai.pk",
+    "asset_name": "iberet_folic.png",
+    "local_path": "assets/images/medicines/iberet_folic.png"
+  },
+  {
+    "medicine_name": "neurobion",
+    "image_url": "https://static-media.dawaai.pk/img/payment-method.png",
+    "source": "Dawaai.pk",
+    "asset_name": "neurobion.png",
+    "local_path": "assets/images/medicines/neurobion.png"
+  },
+  {
+    "medicine_name": "ciproxin 500mg",
+    "image_url": "https://static-media.dawaai.pk/img/payment-method.png",
+    "source": "Dawaai.pk",
+    "asset_name": "ciproxin_500mg.png",
+    "local_path": "assets/images/medicines/ciproxin_500mg.png"
+  },
+  {
+    "medicine_name": "xarelto 20mg",
+    "image_url": "https://static-media.dawaai.pk/img/payment-method.png",
+    "source": "Dawaai.pk",
+    "asset_name": "xarelto_20mg.png",
+    "local_path": "assets/images/medicines/xarelto_20mg.png"
+  },
+  {
+    "medicine_name": "tegretol 200mg",
+    "image_url": "https://static-media.dawaai.pk/img/payment-method.png",
+    "source": "Dawaai.pk",
+    "asset_name": "tegretol_200mg.png",
+    "local_path": "assets/images/medicines/tegretol_200mg.png"
+  },
+  {
+    "medicine_name": "maxigesic",
+    "image_url": "https://static-media.dawaai.pk/img/payment-method.png",
+    "source": "Dawaai.pk",
+    "asset_name": "maxigesic.png",
+    "local_path": "assets/images/medicines/maxigesic.png"
+  }
+]

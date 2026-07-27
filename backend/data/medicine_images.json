@@ -1,0 +1,899 @@
+{
+  "acetaminophen": {
+    "drug_name": "acetaminophen",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Paracetamol-skeletal.svg/330px-Paracetamol-skeletal.svg.png",
+        "title": "Paracetamol",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 177
+      }
+    ]
+  },
+  "amoxicillin": {
+    "drug_name": "amoxicillin",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Amoxicillin-from-xtal-3D-bs-17.png/330px-Amoxicillin-from-xtal-3D-bs-17.png",
+        "title": "Amoxicillin",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 233
+      }
+    ]
+  },
+  "azithromycin": {
+    "drug_name": "azithromycin",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Azithromycin.svg/330px-Azithromycin.svg.png",
+        "title": "Azithromycin",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 288
+      }
+    ]
+  },
+  "ibuprofen": {
+    "drug_name": "ibuprofen",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Ibuprofen-3D-balls.png/330px-Ibuprofen-3D-balls.png",
+        "title": "Ibuprofen",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 179
+      }
+    ]
+  },
+  "metronidazole": {
+    "drug_name": "metronidazole",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Metronidazole.svg/330px-Metronidazole.svg.png",
+        "title": "Metronidazole",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 307
+      }
+    ]
+  },
+  "ciprofloxacin": {
+    "drug_name": "ciprofloxacin",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Ciprofloxacin_skeletal_formula_from_xtal_2010.svg/330px-Ciprofloxacin_skeletal_formula_from_xtal_2010.svg.png",
+        "title": "Ciprofloxacin",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 198
+      }
+    ]
+  },
+  "metformin": {
+    "drug_name": "metformin",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Metformin.svg/330px-Metformin.svg.png",
+        "title": "Metformin",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 185
+      }
+    ]
+  },
+  "amlodipine": {
+    "drug_name": "amlodipine",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amlodipine.svg/330px-Amlodipine.svg.png",
+        "title": "Amlodipine",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 192
+      }
+    ]
+  },
+  "losartan": {
+    "drug_name": "losartan",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Losartan_structure.svg/330px-Losartan_structure.svg.png",
+        "title": "Losartan",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 248
+      }
+    ]
+  },
+  "atorvastatin": {
+    "drug_name": "atorvastatin",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Atorvastatin.svg/330px-Atorvastatin.svg.png",
+        "title": "Atorvastatin",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 170
+      }
+    ]
+  },
+  "diclofenac": {
+    "drug_name": "diclofenac",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Diclofenac.svg/330px-Diclofenac.svg.png",
+        "title": "Diclofenac",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 254
+      }
+    ]
+  },
+  "prednisolone": {
+    "drug_name": "prednisolone",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Prednisolone-2D-skeletal.svg/330px-Prednisolone-2D-skeletal.svg.png",
+        "title": "Prednisolone",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 266
+      }
+    ]
+  },
+  "doxycycline": {
+    "drug_name": "doxycycline",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Doxycycline_structure.svg/330px-Doxycycline_structure.svg.png",
+        "title": "Doxycycline",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 184
+      }
+    ]
+  },
+  "albuterol": {
+    "drug_name": "albuterol",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/RS-salbutamol-from-xtal-3D-balls.png/330px-RS-salbutamol-from-xtal-3D-balls.png",
+        "title": "Salbutamol",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 357
+      }
+    ]
+  },
+  "cetirizine": {
+    "drug_name": "cetirizine",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Cetirizine_structure.svg/330px-Cetirizine_structure.svg.png",
+        "title": "Cetirizine",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 173
+      }
+    ]
+  },
+  "aspirin": {
+    "drug_name": "aspirin",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Acetylsalicylic_acid.jpg/330px-Acetylsalicylic_acid.jpg",
+        "title": "Aspirin",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 300
+      }
+    ]
+  },
+  "naproxen": {
+    "drug_name": "naproxen",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Naproxen2DACS.svg/330px-Naproxen2DACS.svg.png",
+        "title": "Naproxen",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 172
+      }
+    ]
+  },
+  "clarithromycin": {
+    "drug_name": "clarithromycin",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Clarithromycin_structure.svg/330px-Clarithromycin_structure.svg.png",
+        "title": "Clarithromycin",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 256
+      }
+    ]
+  },
+  "levofloxacin": {
+    "drug_name": "levofloxacin",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Levofloxacin_skeletal_formula_from_xtal_2019.svg/330px-Levofloxacin_skeletal_formula_from_xtal_2019.svg.png",
+        "title": "Levofloxacin",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 180
+      }
+    ]
+  },
+  "pantoprazole": {
+    "drug_name": "pantoprazole",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Pantoprazole_3D.png/330px-Pantoprazole_3D.png",
+        "title": "Pantoprazole",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 206
+      }
+    ]
+  },
+  "esomeprazole": {
+    "drug_name": "esomeprazole",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Esomeprazole_ball-and-stick_model.png/330px-Esomeprazole_ball-and-stick_model.png",
+        "title": "Esomeprazole",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 169
+      }
+    ]
+  },
+  "metoprolol": {
+    "drug_name": "metoprolol",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Metoprolol_ball-and-stick.png/330px-Metoprolol_ball-and-stick.png",
+        "title": "Metoprolol",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 166
+      }
+    ]
+  },
+  "atenolol": {
+    "drug_name": "atenolol",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Atenolol_structure.svg/330px-Atenolol_structure.svg.png",
+        "title": "Atenolol",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 114
+      }
+    ]
+  },
+  "furosemide": {
+    "drug_name": "furosemide",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Furosemide.svg/330px-Furosemide.svg.png",
+        "title": "Furosemide",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 169
+      }
+    ]
+  },
+  "warfarin": {
+    "drug_name": "warfarin",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Warfarin.svg/330px-Warfarin.svg.png",
+        "title": "Warfarin",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 244
+      }
+    ]
+  },
+  "clopidogrel": {
+    "drug_name": "clopidogrel",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Clopidogrel_skeletal_formula.svg/330px-Clopidogrel_skeletal_formula.svg.png",
+        "title": "Clopidogrel",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 238
+      }
+    ]
+  },
+  "rosuvastatin": {
+    "drug_name": "rosuvastatin",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Rosuvastatin-3D-balls.png/330px-Rosuvastatin-3D-balls.png",
+        "title": "Rosuvastatin",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 187
+      }
+    ]
+  },
+  "simvastatin": {
+    "drug_name": "simvastatin",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Simvastatin.svg/330px-Simvastatin.svg.png",
+        "title": "Simvastatin",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 284
+      }
+    ]
+  },
+  "sertraline": {
+    "drug_name": "sertraline",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sertraline.svg/330px-Sertraline.svg.png",
+        "title": "Sertraline",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 215
+      }
+    ]
+  },
+  "escitalopram": {
+    "drug_name": "escitalopram",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Escitalopram.svg/330px-Escitalopram.svg.png",
+        "title": "Escitalopram",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 236
+      }
+    ]
+  },
+  "fluoxetine": {
+    "drug_name": "fluoxetine",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Fluoxetine.svg/330px-Fluoxetine.svg.png",
+        "title": "Fluoxetine",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 171
+      }
+    ]
+  },
+  "gabapentin": {
+    "drug_name": "gabapentin",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/GabapentinStructure.svg/330px-GabapentinStructure.svg.png",
+        "title": "Gabapentin",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 265
+      }
+    ]
+  },
+  "pregabalin": {
+    "drug_name": "pregabalin",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Pregabalin_ball-and-stick_model.png/330px-Pregabalin_ball-and-stick_model.png",
+        "title": "Pregabalin",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 174
+      }
+    ]
+  },
+  "carbamazepine": {
+    "drug_name": "carbamazepine",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Carbamazepine.svg/330px-Carbamazepine.svg.png",
+        "title": "Carbamazepine",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 244
+      }
+    ]
+  },
+  "lamotrigine": {
+    "drug_name": "lamotrigine",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Lamotrigine.svg/330px-Lamotrigine.svg.png",
+        "title": "Lamotrigine",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 264
+      }
+    ]
+  },
+  "levothyroxine": {
+    "drug_name": "levothyroxine",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Levothyroxine-from-xtal-3D-bs-17.png/330px-Levothyroxine-from-xtal-3D-bs-17.png",
+        "title": "Levothyroxine",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 158
+      }
+    ]
+  },
+  "glimepiride": {
+    "drug_name": "glimepiride",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Glimepiride.svg/330px-Glimepiride.svg.png",
+        "title": "Glimepiride",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 115
+      }
+    ]
+  },
+  "sitagliptin": {
+    "drug_name": "sitagliptin",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Sitagliptin.svg/330px-Sitagliptin.svg.png",
+        "title": "Sitagliptin",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 196
+      }
+    ]
+  },
+  "fluconazole": {
+    "drug_name": "fluconazole",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Fluconazole_skeletal_formula.svg/330px-Fluconazole_skeletal_formula.svg.png",
+        "title": "Fluconazole",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 271
+      }
+    ]
+  },
+  "acyclovir": {
+    "drug_name": "acyclovir",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aciclovir_2D_structure.svg/330px-Aciclovir_2D_structure.svg.png",
+        "title": "Aciclovir",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 166
+      }
+    ]
+  },
+  "loratadine": {
+    "drug_name": "loratadine",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Loratadine.svg/330px-Loratadine.svg.png",
+        "title": "Loratadine",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 323
+      }
+    ]
+  },
+  "ondansetron": {
+    "drug_name": "ondansetron",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Ondansetron_skeletal.svg/330px-Ondansetron_skeletal.svg.png",
+        "title": "Ondansetron",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 221
+      }
+    ]
+  },
+  "famotidine": {
+    "drug_name": "famotidine",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Famotidine-from-xtal-Mercury-3D-bs.png/330px-Famotidine-from-xtal-Mercury-3D-bs.png",
+        "title": "Famotidine",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 165
+      }
+    ]
+  },
+  "tramadol": {
+    "drug_name": "tramadol",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Tramadol_as_a_racemic_mixture.svg/330px-Tramadol_as_a_racemic_mixture.svg.png",
+        "title": "Tramadol",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 216
+      }
+    ]
+  },
+  "morphine": {
+    "drug_name": "morphine",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Morphine2DCSDS.svg/330px-Morphine2DCSDS.svg.png",
+        "title": "Morphine",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 320
+      }
+    ]
+  },
+  "diazepam": {
+    "drug_name": "diazepam",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Diazepam_structure.svg/330px-Diazepam_structure.svg.png",
+        "title": "Diazepam",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 360
+      }
+    ]
+  },
+  "clindamycin": {
+    "drug_name": "clindamycin",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Clindamycin_3D_3jz0.png/330px-Clindamycin_3D_3jz0.png",
+        "title": "Clindamycin",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 194
+      }
+    ]
+  },
+  "erythromycin": {
+    "drug_name": "erythromycin",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Erythromycin_A_skeletal.svg/330px-Erythromycin_A_skeletal.svg.png",
+        "title": "Erythromycin",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 336
+      }
+    ]
+  },
+  "vancomycin": {
+    "drug_name": "vancomycin",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Vancomycin_structure.svg/330px-Vancomycin_structure.svg.png",
+        "title": "Vancomycin",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 242
+      }
+    ]
+  },
+  "meropenem": {
+    "drug_name": "meropenem",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Meropenem_skeletal_formula_labelled.svg/330px-Meropenem_skeletal_formula_labelled.svg.png",
+        "title": "Meropenem",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 150
+      }
+    ]
+  },
+  "ceftriaxone": {
+    "drug_name": "ceftriaxone",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ceftriaxone_skeletal_formula_from_xtal_2018.svg/330px-Ceftriaxone_skeletal_formula_from_xtal_2018.svg.png",
+        "title": "Ceftriaxone",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 300
+      }
+    ]
+  },
+  "spironolactone": {
+    "drug_name": "spironolactone",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Spironolacton.svg/330px-Spironolacton.svg.png",
+        "title": "Spironolactone",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 246
+      }
+    ]
+  },
+  "ramipril": {
+    "drug_name": "ramipril",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ramipril_structure.svg/330px-Ramipril_structure.svg.png",
+        "title": "Ramipril",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 244
+      }
+    ]
+  },
+  "valsartan": {
+    "drug_name": "valsartan",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Valsartan_skeletal.svg/330px-Valsartan_skeletal.svg.png",
+        "title": "Valsartan",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 242
+      }
+    ]
+  },
+  "propranolol": {
+    "drug_name": "propranolol",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Propranolol-from-1977-crystal-structure-3D-balls-side.png/330px-Propranolol-from-1977-crystal-structure-3D-balls-side.png",
+        "title": "Propranolol",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 209
+      }
+    ]
+  },
+  "digoxin": {
+    "drug_name": "digoxin",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Digon_ball-and-stick.png/330px-Digon_ball-and-stick.png",
+        "title": "Digoxin",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 218
+      }
+    ]
+  },
+  "dexamethasone": {
+    "drug_name": "dexamethasone",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Dexamethasone_structure.svg/330px-Dexamethasone_structure.svg.png",
+        "title": "Dexamethasone",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 262
+      }
+    ]
+  },
+  "hydrocortisone": {
+    "drug_name": "hydrocortisone",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Cortisol3.svg/330px-Cortisol3.svg.png",
+        "title": "Hydrocortisone",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 260
+      }
+    ]
+  },
+  "sildenafil": {
+    "drug_name": "sildenafil",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Sildenafil_structure.svg/330px-Sildenafil_structure.svg.png",
+        "title": "Sildenafil",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 190
+      }
+    ]
+  },
+  "tamsulosin": {
+    "drug_name": "tamsulosin",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Tamsulosin.svg/330px-Tamsulosin.svg.png",
+        "title": "Tamsulosin",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 172
+      }
+    ]
+  },
+  "allopurinol": {
+    "drug_name": "allopurinol",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Allopurinol_V.1.svg/330px-Allopurinol_V.1.svg.png",
+        "title": "Allopurinol",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 304
+      }
+    ]
+  },
+  "colchicine": {
+    "drug_name": "colchicine",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Colchicin.svg/330px-Colchicin.svg.png",
+        "title": "Colchicine",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 336
+      }
+    ]
+  },
+  "methotrexate": {
+    "drug_name": "methotrexate",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Methotrexate_skeletal.svg/330px-Methotrexate_skeletal.svg.png",
+        "title": "Methotrexate",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 114
+      }
+    ]
+  },
+  "hydroxychloroquine": {
+    "drug_name": "hydroxychloroquine",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Hydroxychloroquine.svg/330px-Hydroxychloroquine.svg.png",
+        "title": "Hydroxychloroquine",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 173
+      }
+    ]
+  },
+  "fexofenadine": {
+    "drug_name": "fexofenadine",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fexofenadine2DCSD.svg/330px-Fexofenadine2DCSD.svg.png",
+        "title": "Fexofenadine",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 163
+      }
+    ]
+  },
+  "loperamide": {
+    "drug_name": "loperamide",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Loperamide.svg/330px-Loperamide.svg.png",
+        "title": "Loperamide",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 169
+      }
+    ]
+  },
+  "insulin glargine": {
+    "drug_name": "insulin glargine",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Toujeo_300_IU-ml_inj.jpg/330px-Toujeo_300_IU-ml_inj.jpg",
+        "title": "Insulin glargine",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 248
+      }
+    ]
+  },
+  "montelukast": {
+    "drug_name": "montelukast",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Montelukast_3D_ball-and-stick.png/330px-Montelukast_3D_ball-and-stick.png",
+        "title": "Montelukast",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 252
+      }
+    ]
+  },
+  "budesonide": {
+    "drug_name": "budesonide",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Budesonide_skeletal.svg/330px-Budesonide_skeletal.svg.png",
+        "title": "Budesonide",
+        "source": "Wikipedia",
+        "license": "Creative Commons",
+        "width": 330,
+        "height": 209
+      }
+    ]
+  }
+}

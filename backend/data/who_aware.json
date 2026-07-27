@@ -1,0 +1,368 @@
+{
+  "access": [
+    {
+      "name": "Amoxicillin",
+      "class": "Penicillins",
+      "key_access": true,
+      "oral_available": true
+    },
+    {
+      "name": "Amoxicillin + Clavulanic Acid",
+      "class": "Penicillins + BLI",
+      "key_access": true,
+      "oral_available": true
+    },
+    {
+      "name": "Ampicillin",
+      "class": "Penicillins",
+      "key_access": true,
+      "oral_available": true
+    },
+    {
+      "name": "Benzylpenicillin",
+      "class": "Penicillins",
+      "key_access": true,
+      "oral_available": false
+    },
+    {
+      "name": "Phenoxymethylpenicillin",
+      "class": "Penicillins",
+      "key_access": true,
+      "oral_available": true
+    },
+    {
+      "name": "Cloxacillin",
+      "class": "Penicillins",
+      "key_access": true,
+      "oral_available": true
+    },
+    {
+      "name": "Cefalexin",
+      "class": "1st Gen Cephalosporins",
+      "key_access": false,
+      "oral_available": true
+    },
+    {
+      "name": "Cefazolin",
+      "class": "1st Gen Cephalosporins",
+      "key_access": false,
+      "oral_available": false
+    },
+    {
+      "name": "Chloramphenicol",
+      "class": "Amphenicols",
+      "key_access": true,
+      "oral_available": true
+    },
+    {
+      "name": "Doxycycline",
+      "class": "Tetracyclines",
+      "key_access": true,
+      "oral_available": true
+    },
+    {
+      "name": "Gentamicin",
+      "class": "Aminoglycosides",
+      "key_access": true,
+      "oral_available": false
+    },
+    {
+      "name": "Metronidazole",
+      "class": "Nitroimidazoles",
+      "key_access": true,
+      "oral_available": true
+    },
+    {
+      "name": "Nitrofurantoin",
+      "class": "Nitrofurans",
+      "key_access": true,
+      "oral_available": true
+    },
+    {
+      "name": "Sulfamethoxazole + Trimethoprim",
+      "class": "Sulfonamides",
+      "key_access": true,
+      "oral_available": true
+    },
+    {
+      "name": "Spectinomycin",
+      "class": "Aminocyclitols",
+      "key_access": false,
+      "oral_available": false
+    },
+    {
+      "name": "Clindamycin",
+      "class": "Lincosamides",
+      "key_access": false,
+      "oral_available": true
+    },
+    {
+      "name": "Secnidazole",
+      "class": "Nitroimidazoles",
+      "key_access": false,
+      "oral_available": true
+    },
+    {
+      "name": "Tinidazole",
+      "class": "Nitroimidazoles",
+      "key_access": false,
+      "oral_available": true
+    }
+  ],
+  "watch": [
+    {
+      "name": "Azithromycin",
+      "class": "Macrolides",
+      "priority_pathogen": true,
+      "oral_available": true
+    },
+    {
+      "name": "Clarithromycin",
+      "class": "Macrolides",
+      "priority_pathogen": true,
+      "oral_available": true
+    },
+    {
+      "name": "Erythromycin",
+      "class": "Macrolides",
+      "priority_pathogen": false,
+      "oral_available": true
+    },
+    {
+      "name": "Ciprofloxacin",
+      "class": "Fluoroquinolones",
+      "priority_pathogen": true,
+      "oral_available": true
+    },
+    {
+      "name": "Levofloxacin",
+      "class": "Fluoroquinolones",
+      "priority_pathogen": true,
+      "oral_available": true
+    },
+    {
+      "name": "Moxifloxacin",
+      "class": "Fluoroquinolones",
+      "priority_pathogen": true,
+      "oral_available": true
+    },
+    {
+      "name": "Norfloxacin",
+      "class": "Fluoroquinolones",
+      "priority_pathogen": false,
+      "oral_available": true
+    },
+    {
+      "name": "Ofloxacin",
+      "class": "Fluoroquinolones",
+      "priority_pathogen": false,
+      "oral_available": true
+    },
+    {
+      "name": "Cefuroxime",
+      "class": "2nd Gen Cephalosporins",
+      "priority_pathogen": true,
+      "oral_available": true
+    },
+    {
+      "name": "Cefaclor",
+      "class": "2nd Gen Cephalosporins",
+      "priority_pathogen": false,
+      "oral_available": true
+    },
+    {
+      "name": "Cefixime",
+      "class": "3rd Gen Cephalosporins",
+      "priority_pathogen": true,
+      "oral_available": true
+    },
+    {
+      "name": "Ceftriaxone",
+      "class": "3rd Gen Cephalosporins",
+      "priority_pathogen": true,
+      "oral_available": false
+    },
+    {
+      "name": "Cefotaxime",
+      "class": "3rd Gen Cephalosporins",
+      "priority_pathogen": true,
+      "oral_available": false
+    },
+    {
+      "name": "Ceftazidime",
+      "class": "3rd Gen Cephalosporins",
+      "priority_pathogen": true,
+      "oral_available": false
+    },
+    {
+      "name": "Cefoperazone",
+      "class": "3rd Gen Cephalosporins",
+      "priority_pathogen": true,
+      "oral_available": false
+    },
+    {
+      "name": "Cefpodoxime",
+      "class": "3rd Gen Cephalosporins",
+      "priority_pathogen": false,
+      "oral_available": true
+    },
+    {
+      "name": "Cefdinir",
+      "class": "3rd Gen Cephalosporins",
+      "priority_pathogen": false,
+      "oral_available": true
+    },
+    {
+      "name": "Piperacillin + Tazobactam",
+      "class": "Penicillins + BLI",
+      "priority_pathogen": true,
+      "oral_available": false
+    },
+    {
+      "name": "Amikacin",
+      "class": "Aminoglycosides",
+      "priority_pathogen": true,
+      "oral_available": false
+    },
+    {
+      "name": "Tobramycin",
+      "class": "Aminoglycosides",
+      "priority_pathogen": false,
+      "oral_available": false
+    },
+    {
+      "name": "Vancomycin (oral)",
+      "class": "Glycopeptides",
+      "priority_pathogen": false,
+      "oral_available": true
+    },
+    {
+      "name": "Fosfomycin",
+      "class": "Phosphonic acids",
+      "priority_pathogen": false,
+      "oral_available": true
+    },
+    {
+      "name": "Rifampicin",
+      "class": "Rifamycins",
+      "priority_pathogen": false,
+      "oral_available": true
+    },
+    {
+      "name": "Fusidic Acid",
+      "class": "Steroid antibiotics",
+      "priority_pathogen": false,
+      "oral_available": true
+    }
+  ],
+  "reserve": [
+    {
+      "name": "Meropenem",
+      "class": "Carbapenems",
+      "last_resort": true,
+      "stewardship_required": true
+    },
+    {
+      "name": "Imipenem + Cilastatin",
+      "class": "Carbapenems",
+      "last_resort": true,
+      "stewardship_required": true
+    },
+    {
+      "name": "Ertapenem",
+      "class": "Carbapenems",
+      "last_resort": true,
+      "stewardship_required": true
+    },
+    {
+      "name": "Doripenem",
+      "class": "Carbapenems",
+      "last_resort": true,
+      "stewardship_required": true
+    },
+    {
+      "name": "Aztreonam",
+      "class": "Monobactams",
+      "last_resort": true,
+      "stewardship_required": true
+    },
+    {
+      "name": "Cefepime",
+      "class": "4th Gen Cephalosporins",
+      "last_resort": true,
+      "stewardship_required": true
+    },
+    {
+      "name": "Ceftaroline",
+      "class": "5th Gen Cephalosporins",
+      "last_resort": true,
+      "stewardship_required": true
+    },
+    {
+      "name": "Ceftazidime + Avibactam",
+      "class": "Cephalosporin + BLI",
+      "last_resort": true,
+      "stewardship_required": true
+    },
+    {
+      "name": "Ceftolozane + Tazobactam",
+      "class": "Cephalosporin + BLI",
+      "last_resort": true,
+      "stewardship_required": true
+    },
+    {
+      "name": "Vancomycin (IV)",
+      "class": "Glycopeptides",
+      "last_resort": true,
+      "stewardship_required": true
+    },
+    {
+      "name": "Teicoplanin",
+      "class": "Glycopeptides",
+      "last_resort": true,
+      "stewardship_required": true
+    },
+    {
+      "name": "Linezolid",
+      "class": "Oxazolidinones",
+      "last_resort": true,
+      "stewardship_required": true
+    },
+    {
+      "name": "Daptomycin",
+      "class": "Lipopeptides",
+      "last_resort": true,
+      "stewardship_required": true
+    },
+    {
+      "name": "Colistin",
+      "class": "Polymyxins",
+      "last_resort": true,
+      "stewardship_required": true
+    },
+    {
+      "name": "Polymyxin B",
+      "class": "Polymyxins",
+      "last_resort": true,
+      "stewardship_required": true
+    },
+    {
+      "name": "Tigecycline",
+      "class": "Glycylcyclines",
+      "last_resort": true,
+      "stewardship_required": true
+    },
+    {
+      "name": "Fosfomycin (IV)",
+      "class": "Phosphonic acids",
+      "last_resort": true,
+      "stewardship_required": true
+    },
+    {
+      "name": "Plazomicin",
+      "class": "Aminoglycosides",
+      "last_resort": true,
+      "stewardship_required": true
+    }
+  ]
+}
