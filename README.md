@@ -298,8 +298,11 @@ openclaw/          five monitoring agents, Paperclip scheduling
   **service-role** key — the one that does bypass RLS — is server-side only and
   is never sent to a client.
 - **Row-level security** on every user-owned table (`users`, `scan_results`,
-  `adr_reports`): a user reads and writes only their own rows. Drug reference
-  tables are public-read.
+  `adr_reports`): a user reads and writes only their own rows, enforced by
+  policy rather than by client code. Drug reference tables are public-read and
+  read-only — an anonymous client cannot insert a recall or alter a price.
+  Verified against the live database: with the published anon key, user tables
+  return zero rows and every write is rejected with Postgres `42501`.
 - **Release builds** use ProGuard and Dart obfuscation.
 - The verification cache stores pack identity and verdicts only — no personal
   data, and clients never read it directly.
